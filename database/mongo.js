@@ -3,7 +3,9 @@ var schema = mongoose.Schema;
 
 var DB_NAME = "SeoulApp"
 
-var db = mongoose.connect("mongodb://localhost/"+DB_NAME, (err)=>{
+var db = mongoose.connect("mongodb://localhost/"+DB_NAME, {
+    useMongoClient : true
+},(err)=>{
     if(err){
         console.log('DB Error!')
         throw err
