@@ -1,0 +1,5596 @@
+{
+  "DESCRIPTION": {
+    "ROOM": "객실수",
+    "H_CNG_CITY": "행정시",
+    "MAIN_KEY": "키",
+    "H_CNG_GU": "행정구",
+    "H_CNG_DONG": "행정동",
+    "NAME_CNG": "상호"
+  },
+  "DATA": [
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0333",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西岗洞",
+      "NAME_CNG": "卧牛山丘民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0334",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "城山1洞",
+      "NAME_CNG": "进民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0335",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "芒果民宿"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0336",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "十字路口背包旅人"
+    },
+    {
+      "ROOM": 12,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0337",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "财富"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0338",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "梦之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0339",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "大兴洞",
+      "NAME_CNG": "阿尔法民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0340",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "桥梁背包旅人"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0341",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "弘大民宿妈妈与爸爸"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0342",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "２４民宿弘大"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0343",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西岗洞",
+      "NAME_CNG": "Ｖ公寓"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0344",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "天竺葵"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0345",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "孔徳洞",
+      "NAME_CNG": "城区民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0346",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "曲奇民宿"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0347",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "姐妹兄弟"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0348",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "艺术之家"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0349",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "洪住宿民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0350",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "旅人地球"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0351",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "大兴洞",
+      "NAME_CNG": "ＤＨ民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0352",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "大兴洞",
+      "NAME_CNG": "天空自行车民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0167",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "普光洞",
+      "NAME_CNG": "eid guesthouse"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0570",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "青龙洞",
+      "NAME_CNG": "Kay的家园"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0571",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "南岘洞",
+      "NAME_CNG": "首尔生活者"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0572",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "成贤洞",
+      "NAME_CNG": "温馨之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0573",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "兰香洞",
+      "NAME_CNG": "好日子民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0574",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "成贤洞",
+      "NAME_CNG": "优妮之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0575",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "三成洞",
+      "NAME_CNG": "智浩之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0576",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "成贤洞",
+      "NAME_CNG": "卡罗尔家园"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0577",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "三成洞",
+      "NAME_CNG": "金和郑的家园"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0578",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "幸运洞",
+      "NAME_CNG": "塔尼娅的家"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0579",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "南岘洞",
+      "NAME_CNG": "绿色森林小村"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0580",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "大学洞",
+      "NAME_CNG": "现代民宿"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0581",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "书院洞",
+      "NAME_CNG": "顶点民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0582",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "宋的家庭旅馆"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0583",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "首尔居住"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0584",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草4洞",
+      "NAME_CNG": "欢乐家园"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0585",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背3洞",
+      "NAME_CNG": "皇家家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0586",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背3洞",
+      "NAME_CNG": "韩国首尔"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0587",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才2洞",
+      "NAME_CNG": "金鸡"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0588",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草4洞",
+      "NAME_CNG": "the JA江南"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0589",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "盘浦3洞",
+      "NAME_CNG": "睡阴的家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0590",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "盘浦1洞",
+      "NAME_CNG": "松树家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0591",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草1洞",
+      "NAME_CNG": "教大民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0592",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草2洞",
+      "NAME_CNG": "江南站民宿SJ"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0593",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "科里亚"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0594",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草4洞",
+      "NAME_CNG": "幸福江南"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0595",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背1洞",
+      "NAME_CNG": "瑞草绿色幸福家园"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0596",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "盘浦1洞",
+      "NAME_CNG": "猫头鹰巢民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0597",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "蚕院洞",
+      "NAME_CNG": "KW新沙"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0598",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才1洞",
+      "NAME_CNG": "今天民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0599",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "蚕院洞",
+      "NAME_CNG": "家到家新沙"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0600",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "盘浦4洞",
+      "NAME_CNG": "希望家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0601",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才1洞",
+      "NAME_CNG": "索非亚之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0602",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才1洞",
+      "NAME_CNG": "J家"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0603",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "蚕院洞",
+      "NAME_CNG": "新沙公寓民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0604",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "盘浦1洞",
+      "NAME_CNG": "丽娜之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0605",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "选择"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0606",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背3洞",
+      "NAME_CNG": "罗丹尼"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0607",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "狎鸥亭民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0608",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙4洞",
+      "NAME_CNG": "敏成民宿"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0609",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "安民宿"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0610",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "民宿-杰普"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0611",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "民宿江南"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0612",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "民宿K"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0613",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "the JA林荫"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0614",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "拉德勒"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0615",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "24民宿江南"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0616",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "汉江"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0617",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "太阳城民宿"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0618",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "清潭民宿"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0619",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "大约翰的家"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0620",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "始终如家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0621",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "美声民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0622",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "和平民宿"
+    },
+    {
+      "ROOM": 14,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0623",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "24民宿林荫道店"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0624",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "K星光大道"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0625",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三2洞",
+      "NAME_CNG": "友希之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0626",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "幸福之家"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0627",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "24民宿江南中心"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0628",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "熊猫走民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0629",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙2洞",
+      "NAME_CNG": "海伦娜家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0630",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成2洞",
+      "NAME_CNG": "丹尼斯之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0631",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "JG之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0632",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "青年民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0633",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "COEX家庭旅馆"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0634",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "爱你民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0635",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "K小女之家"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0636",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "世一民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0637",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三2洞",
+      "NAME_CNG": "基尼斯"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0638",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "哈露民宿"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0639",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "杰娜套间"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0640",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "无我民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0641",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "江南居住山丘"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0642",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "逸院本洞",
+      "NAME_CNG": "哈利的家"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0643",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "FN家园"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0644",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "黄金山丘民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0645",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "细谷洞",
+      "NAME_CNG": "江南清风民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0646",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "林荫道家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0647",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成2洞",
+      "NAME_CNG": "家园民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0648",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "画家之家"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0649",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "舒适房间 江南中央"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0650",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙2洞",
+      "NAME_CNG": "The JA COEX店"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0651",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "库拉"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0652",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "江南民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0653",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "女王村民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0654",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "家庭寄宿 近在江南COEX"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0655",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "熔炉家园"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0696",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑1洞",
+      "NAME_CNG": "空间 休"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0656",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "梧琴洞",
+      "NAME_CNG": "李赞奎外国人旅游城市民宿业"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0657",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室2洞",
+      "NAME_CNG": "RM 邻近江南、三成站"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0658",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室2洞",
+      "NAME_CNG": "可爱家园"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0659",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "文井2洞",
+      "NAME_CNG": "美丽国家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0660",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "文井2洞",
+      "NAME_CNG": "志一的家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0661",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "三田洞",
+      "NAME_CNG": "蒂娜的家庭寄宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0662",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室2洞",
+      "NAME_CNG": "丽丽妈的家园"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0663",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "风纳1洞",
+      "NAME_CNG": "欢乐城市民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0664",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室3洞",
+      "NAME_CNG": "有情家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0665",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "可乐2洞",
+      "NAME_CNG": "吴嘉英家庭寄宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0472",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "桃花洞",
+      "NAME_CNG": "10民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0473",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "玛露民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0474",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "007民宿1"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0475",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "007民宿2"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0476",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "城山1洞",
+      "NAME_CNG": "佐科之家"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0477",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "LikeU民宿"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0478",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "葡萄家园"
+    },
+    {
+      "ROOM": 9,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0479",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "家庭居住2号店"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0480",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "逛逛首尔"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0481",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "艾琳娜的家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0482",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "胜利艺术之家"
+    },
+    {
+      "ROOM": 11,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0483",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "就是礼物"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0484",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "J&J"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0485",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "K加Y"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0486",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "弘大三房间"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0487",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "丽安民宿"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0488",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "艺佳好民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0489",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "微笑民宿2"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0490",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "纳努民宿粉红"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0491",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "梨花民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0492",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "桃花洞",
+      "NAME_CNG": "孔德亭"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0493",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西岗洞",
+      "NAME_CNG": "艾丽的民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0494",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "JS家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0495",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "望远1洞",
+      "NAME_CNG": "迈向"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0496",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "超级7 "
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0497",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "家庭居住"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0498",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "小睡2"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0499",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "合井洞",
+      "NAME_CNG": "吴与吴的家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0500",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "成琳"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0501",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "B之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0502",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "李和鲁1 民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0503",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "李和鲁民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0504",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木1洞",
+      "NAME_CNG": "大元之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0505",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木5洞",
+      "NAME_CNG": "木洞家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0506",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木1洞",
+      "NAME_CNG": "现代亥伯龙神"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0507",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木5洞",
+      "NAME_CNG": "舒适之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0508",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木3洞",
+      "NAME_CNG": "Jay的家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0509",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木3洞",
+      "NAME_CNG": "金氏家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0510",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木1洞",
+      "NAME_CNG": "O.K之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0511",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木2洞",
+      "NAME_CNG": "首尔910"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0512",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月4洞",
+      "NAME_CNG": "成梦之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0513",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新亭6洞",
+      "NAME_CNG": "甜蜜的家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0514",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新亭7洞",
+      "NAME_CNG": "真艺术之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0515",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新亭2洞",
+      "NAME_CNG": "德芙乐"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0516",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新亭3洞",
+      "NAME_CNG": "优雅"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0517",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木1洞",
+      "NAME_CNG": "微笑"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0518",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷3洞",
+      "NAME_CNG": "罗丹尼之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0519",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "傍花1洞",
+      "NAME_CNG": "阿丽阿之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0520",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "登村3洞",
+      "NAME_CNG": "达索姆之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0521",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "登村3洞",
+      "NAME_CNG": "家庭居住在首尔"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0522",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "登村1洞",
+      "NAME_CNG": "幸福之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0523",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "雨装山洞",
+      "NAME_CNG": "宋家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0524",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "雨装山洞",
+      "NAME_CNG": "妈妈家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0525",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "登村1洞",
+      "NAME_CNG": "莎伦"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0526",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "佳阳1洞",
+      "NAME_CNG": "帕帕居住"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0527",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "佳阳1洞",
+      "NAME_CNG": "花火之家"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0528",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "空港洞",
+      "NAME_CNG": "简单的家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0529",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "傍花2洞",
+      "NAME_CNG": "JC之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0530",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "雨装山洞",
+      "NAME_CNG": "秀家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0531",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷本洞",
+      "NAME_CNG": "李姐妹民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0532",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "空港洞",
+      "NAME_CNG": "娜露家庭旅馆"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0533",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "开峰2洞",
+      "NAME_CNG": "首尔之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0534",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "高尺2洞",
+      "NAME_CNG": "J的幸福家园"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0535",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "秃山1洞",
+      "NAME_CNG": "明智家园"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0536",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "秃山1洞",
+      "NAME_CNG": "G谷家园"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0537",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "汝矣岛洞",
+      "NAME_CNG": "太阳家庭寄宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0538",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "凯丽家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0539",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "汝矣岛洞",
+      "NAME_CNG": "首尔民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0540",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "新吉1洞",
+      "NAME_CNG": "宝娜"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0541",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "新吉1洞",
+      "NAME_CNG": "洛奇82"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0542",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦本洞",
+      "NAME_CNG": "天空民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0543",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "堂山2洞",
+      "NAME_CNG": "甜蜜家园"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0544",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "新吉6洞",
+      "NAME_CNG": "波拉梅家园5n6"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0545",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "堂山2洞",
+      "NAME_CNG": "美娜家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0546",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "贤俊民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0547",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "文来洞",
+      "NAME_CNG": "城市艺术民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0548",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "上道2洞",
+      "NAME_CNG": "幸福家园家庭寄宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0549",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "上道1洞",
+      "NAME_CNG": "苏妮家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0550",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "舍堂2洞",
+      "NAME_CNG": "好好"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0551",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "大方洞",
+      "NAME_CNG": "e-舒适世界"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0552",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "舍堂3洞",
+      "NAME_CNG": "格丽娜之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0553",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "鹭梁津1洞",
+      "NAME_CNG": "和平之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0554",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "舍堂1洞",
+      "NAME_CNG": "普通人"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0555",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "舍堂1洞",
+      "NAME_CNG": "舍堂妈妈家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0556",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "大方洞",
+      "NAME_CNG": "庆林"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0557",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "舍堂2洞",
+      "NAME_CNG": "金家人的家园"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0558",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "上道1洞",
+      "NAME_CNG": "首尔路民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0559",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "鹭梁津1洞",
+      "NAME_CNG": "阿特家园"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0560",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "大方洞",
+      "NAME_CNG": "OK民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0561",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "上道2洞",
+      "NAME_CNG": "首尔作品"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0562",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "殷川洞",
+      "NAME_CNG": "韩国民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0563",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "南岘洞",
+      "NAME_CNG": "优美村子"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0564",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "南岘洞",
+      "NAME_CNG": "小姐房屋"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0565",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "新林村"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0566",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "殷川洞",
+      "NAME_CNG": "MD"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0567",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "成贤洞",
+      "NAME_CNG": "舒适旅馆"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0568",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "成贤洞",
+      "NAME_CNG": "艾丽斯家庭寄宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0569",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新院洞",
+      "NAME_CNG": "山丘上的家园"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0666",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室3洞",
+      "NAME_CNG": "彩虹家庭寄宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0667",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室4洞",
+      "NAME_CNG": "派克利奥家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0668",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室4洞",
+      "NAME_CNG": "娜露家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0669",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "石村洞",
+      "NAME_CNG": "湖水家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0670",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑1洞",
+      "NAME_CNG": "蓝莓家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0671",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "可乐2洞",
+      "NAME_CNG": "S. Park家庭寄宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0672",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室7洞",
+      "NAME_CNG": "尊斯家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0673",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室4洞",
+      "NAME_CNG": "舒适家庭寄宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0674",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室2洞",
+      "NAME_CNG": "汉江家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0675",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室4洞",
+      "NAME_CNG": "金伯莉家庭寄宿"
+    },
+    {
+      "ROOM": 11,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0676",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "三田洞",
+      "NAME_CNG": "真住宿松坡"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0677",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "石村洞",
+      "NAME_CNG": "阳光民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0678",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "文井1洞",
+      "NAME_CNG": "肖恩的家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0679",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "顶点家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0680",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "松坡1洞",
+      "NAME_CNG": "科蒂家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0681",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室7洞",
+      "NAME_CNG": "瓦姆家人"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0682",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室2洞",
+      "NAME_CNG": "秦家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0683",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "石村洞",
+      "NAME_CNG": "湖边民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0684",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "蚕室明星城市民宿业"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0685",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "松坡2洞",
+      "NAME_CNG": "好朋友家园"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0686",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "松坡2洞",
+      "NAME_CNG": "丽娜的家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0687",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "松坡1洞",
+      "NAME_CNG": "诗人之家"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0688",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室4洞",
+      "NAME_CNG": "蚕室民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0689",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "风纳2洞",
+      "NAME_CNG": "蚕室欢迎家园"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0690",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室6洞",
+      "NAME_CNG": "乐天蚕室民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0691",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室3洞",
+      "NAME_CNG": "湖边宫殿家园"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0692",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室7洞",
+      "NAME_CNG": "ON民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0693",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "巨余1洞",
+      "NAME_CNG": "阳光家园"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0694",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室本洞",
+      "NAME_CNG": "心情停留的金女士舍郎房"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0695",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "埃克里斯民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0697",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "千戸2洞",
+      "NAME_CNG": "永家园"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0698",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "岩寺1洞",
+      "NAME_CNG": "金的家园"
+    },
+    {
+      "ROOM": 9,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0001",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "背包旅人 因赛德"
+    },
+    {
+      "ROOM": 18,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0002",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "金池民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0003",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "奉家"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0004",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "韩国中央背包酒店"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0005",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "崇仁2洞",
+      "NAME_CNG": "秦家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0006",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "毋岳洞",
+      "NAME_CNG": "仁王山民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0007",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "清云孝子洞",
+      "NAME_CNG": "景福宫民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0008",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "付岩洞",
+      "NAME_CNG": "G家"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0009",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "付岩洞",
+      "NAME_CNG": "辛迪家庭旅馆"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0010",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "梨花洞",
+      "NAME_CNG": "C.U.家庭旅馆"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0011",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "梨花洞",
+      "NAME_CNG": "米纳利之家"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0012",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "瓦屋"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0013",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "嘉会洞",
+      "NAME_CNG": "Y民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0014",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "梨花洞",
+      "NAME_CNG": "丽丽之家"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0015",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "三清洞",
+      "NAME_CNG": "三清洞韩国民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0016",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "平仓洞",
+      "NAME_CNG": "啊哈家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0017",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "清云孝子洞",
+      "NAME_CNG": "纽宜民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0018",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "加米拉之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0019",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "清云孝子洞",
+      "NAME_CNG": "西村家庭旅馆"
+    },
+    {
+      "ROOM": 9,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0020",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "清云孝子洞",
+      "NAME_CNG": "优质民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0021",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "三清洞",
+      "NAME_CNG": "A家"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0022",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "艺河陶艺民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0023",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "昌信2洞",
+      "NAME_CNG": "B家"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0024",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "捉迷藏"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0025",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "清云孝子洞",
+      "NAME_CNG": "艺人之家"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0026",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "首尔家庭旅馆"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0027",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "风之路和花和租屋"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0028",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "白兔民宿"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0029",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "奉背包酒店"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0030",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "礼物民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0031",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "露蒂雅工艺民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0032",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "蹦加楼"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0033",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "光化门民宿“宫”"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0034",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "崇仁2洞",
+      "NAME_CNG": "猫头鹰民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0035",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "春之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0036",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "J家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0037",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "三清洞",
+      "NAME_CNG": "吴民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0038",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "清云孝子洞",
+      "NAME_CNG": "西村168家庭旅馆"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0039",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "三清洞",
+      "NAME_CNG": "88民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0040",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "付岩洞",
+      "NAME_CNG": "金民宿"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0041",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "贵客J之家"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0042",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "韩之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0043",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "清云孝子洞",
+      "NAME_CNG": "首尔朋友"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0044",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "平仓洞",
+      "NAME_CNG": "水流花园"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0045",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "南大门民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0046",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "公寓EO"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0047",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "环保之家"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0048",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "明洞绿色民宿"
+    },
+    {
+      "ROOM": 13,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0049",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "中林洞",
+      "NAME_CNG": "放浪民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0050",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "光熙洞",
+      "NAME_CNG": "家庭寄宿妈妈家"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0051",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "国际民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0052",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "N四季"
+    },
+    {
+      "ROOM": 9,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0053",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "B我的民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0054",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "熊民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0055",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "乙支路洞",
+      "NAME_CNG": "OK村"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0056",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "药水洞",
+      "NAME_CNG": "亚杰多民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0057",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "I家"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0058",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "玛高民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0059",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "the BOOT本馆"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0060",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "the BOOT别馆"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0061",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "格兰德菲尔德民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0062",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "J荣誉"
+    },
+    {
+      "ROOM": 10,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0063",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "妈妈民宿1"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0064",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "新堂5洞",
+      "NAME_CNG": "韩国com"
+    },
+    {
+      "ROOM": 10,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0065",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "能马路民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0168",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "青坡洞",
+      "NAME_CNG": "情故事"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0169",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "元暁路1洞",
+      "NAME_CNG": "Cozy House"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0170",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "龙山2街洞",
+      "NAME_CNG": "Photo Park"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0171",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "二村2洞",
+      "NAME_CNG": "(Yong House)"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0172",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院2洞",
+      "NAME_CNG": "Eden Guest House"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0173",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "二村2洞",
+      "NAME_CNG": "罗莎寄宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0174",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "厚岩洞",
+      "NAME_CNG": "指月藏"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0175",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "龙山2街洞",
+      "NAME_CNG": "素月路"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0176",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "厚岩洞",
+      "NAME_CNG": "诺瓦宫殿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0177",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "梨泰院的家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0178",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "青坡洞",
+      "NAME_CNG": "顶点民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0179",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "小帆船-2"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0180",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "大使民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0181",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院2洞",
+      "NAME_CNG": "JJ民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0182",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "时髦工作室"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0183",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "元暁路2洞",
+      "NAME_CNG": "郑家人"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0184",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "玉水洞",
+      "NAME_CNG": "韩国住宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0185",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "马场洞",
+      "NAME_CNG": "家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0186",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "玉水洞",
+      "NAME_CNG": "2楼家庭旅馆"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0187",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "沙斤洞",
+      "NAME_CNG": "首尔住宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0188",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "金湖1街洞",
+      "NAME_CNG": "2贤们"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0189",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "圣水2街1洞",
+      "NAME_CNG": "江畔民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0190",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "杏堂2洞",
+      "NAME_CNG": "杏堂站家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0191",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "杏堂2洞",
+      "NAME_CNG": "市区团体宿舍"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0192",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "紫阳3洞",
+      "NAME_CNG": "埃米莉家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0193",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "广壮洞",
+      "NAME_CNG": "家庭寄宿咖啡厅娜露"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0194",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "紫阳3洞",
+      "NAME_CNG": "幸福日子家人"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0195",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "紫阳3洞",
+      "NAME_CNG": "亲亲寄宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0196",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "广壮洞",
+      "NAME_CNG": "首尔华克山庄家庭寄宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0197",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "紫阳2洞",
+      "NAME_CNG": "麦克斯卡特家庭旅馆"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0198",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "九宜2洞",
+      "NAME_CNG": "苏拉之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0199",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "踏十里2洞",
+      "NAME_CNG": "迈向世界的我"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0200",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "长安2洞",
+      "NAME_CNG": "首尔套房"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0201",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "长安1洞",
+      "NAME_CNG": "一起"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0202",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "踏十里1洞",
+      "NAME_CNG": "韩国住宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0203",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "徽庆2洞",
+      "NAME_CNG": "Ko-住宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0204",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "里门2洞",
+      "NAME_CNG": "柚子香"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0205",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "清凉里洞",
+      "NAME_CNG": "李家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0206",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "典农2洞",
+      "NAME_CNG": "深入梦想之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0207",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "典农2洞",
+      "NAME_CNG": "W公寓"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0208",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "里门2洞",
+      "NAME_CNG": "宇多田光"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0209",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "踏十里2洞",
+      "NAME_CNG": "韩家"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0210",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "龙新洞",
+      "NAME_CNG": "额布斯"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0211",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "徽庆1洞",
+      "NAME_CNG": "威尔第民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0212",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "踏十里1洞",
+      "NAME_CNG": "首尔家庭旅馆"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0213",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "长安2洞",
+      "NAME_CNG": "长安山丘家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0214",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "典农2洞",
+      "NAME_CNG": "7住宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0215",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "新内2洞",
+      "NAME_CNG": "建荣家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0216",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "面牧3.8洞",
+      "NAME_CNG": "四佳亭家庭寄宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0217",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "上凤1洞",
+      "NAME_CNG": "树之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0218",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "敦岩1洞",
+      "NAME_CNG": "布朗斯通"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0219",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "东仙洞",
+      "NAME_CNG": "YAM民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0220",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "城北洞",
+      "NAME_CNG": "BJ民宿"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0221",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "钟岩洞",
+      "NAME_CNG": "杜丽民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0222",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "敦岩2洞",
+      "NAME_CNG": "约翰博士民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0223",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "钟岩洞",
+      "NAME_CNG": "紫丁香"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0224",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "城北洞",
+      "NAME_CNG": "嘎萨佩佩"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0225",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "达索姆"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0226",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "城北洞",
+      "NAME_CNG": "阿里郎"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0227",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "吉音1洞",
+      "NAME_CNG": "K音乐"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0228",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷2洞",
+      "NAME_CNG": "星级民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0229",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "敦岩1洞",
+      "NAME_CNG": "首尔家人之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0230",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "敦岩1洞",
+      "NAME_CNG": "K翅膀"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0231",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵3洞",
+      "NAME_CNG": "好家庭旅馆"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0232",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "宇宙之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0233",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "YNNY之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0234",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "三角山洞",
+      "NAME_CNG": "幸福之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0235",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "三阳洞",
+      "NAME_CNG": "朱尼家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0236",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾2洞",
+      "NAME_CNG": "西红柿民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0237",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "松中洞",
+      "NAME_CNG": "吴家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0238",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "仓5洞",
+      "NAME_CNG": "绿色家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0239",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "道峰2洞",
+      "NAME_CNG": "道峰家庭寄宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0240",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "仓5洞",
+      "NAME_CNG": "幸福比尼之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0241",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "双门4洞",
+      "NAME_CNG": "道峰之家"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0242",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "仓5洞",
+      "NAME_CNG": "快乐之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0243",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "双门3洞",
+      "NAME_CNG": "杜尔丽民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0244",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "中渓2.3洞",
+      "NAME_CNG": "梦家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0245",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "中渓4洞",
+      "NAME_CNG": "康复家庭寄宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0246",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "中渓2.3洞",
+      "NAME_CNG": "微笑家庭寄宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0247",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓2洞",
+      "NAME_CNG": "向日葵"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0248",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "孔陵2洞",
+      "NAME_CNG": "科斯莫斯家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0249",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "佛光2洞",
+      "NAME_CNG": "韩国人之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0250",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "葛岘2洞",
+      "NAME_CNG": "仁美"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0251",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "津宽洞",
+      "NAME_CNG": "幸福屋"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0252",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "葛岘1洞",
+      "NAME_CNG": "艾妈"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0253",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "津宽洞",
+      "NAME_CNG": "莫莫阿姨之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0254",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "津宽洞",
+      "NAME_CNG": "天堂"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0255",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "新沙2洞",
+      "NAME_CNG": "有柿子树的家"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0256",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "甑山洞",
+      "NAME_CNG": "宰悟之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0257",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩1洞",
+      "NAME_CNG": "坛子之家"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0258",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "大枣洞",
+      "NAME_CNG": "艾玛之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0259",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩3洞",
+      "NAME_CNG": "珍妮之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0260",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "津宽洞",
+      "NAME_CNG": "微笑家庭寄宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0261",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "津宽洞",
+      "NAME_CNG": "韩进"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0262",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "佛光1洞",
+      "NAME_CNG": "北汉山黄色民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0263",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "龟山洞",
+      "NAME_CNG": "首尔家庭寄宿"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0470",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "停留现在"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0471",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西岗洞",
+      "NAME_CNG": "弘大之家"
+    },
+    {
+      "ROOM": 17,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0066",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "奖忠洞",
+      "NAME_CNG": "陶城"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0067",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "民宿明洞2"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0068",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "李家花园"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0069",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "中林洞",
+      "NAME_CNG": "城市之家"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0070",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "欢迎民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0071",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "斯塔利亚旅馆"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0072",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "光熙洞",
+      "NAME_CNG": "琦琦民宿"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0073",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "光熙洞",
+      "NAME_CNG": "阿贝尔民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0074",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "维斯丁别墅"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0075",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "雅格丽纳"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0076",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "秀民宿"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0077",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "Crib49民宿"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0078",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "山丘"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0079",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "IU民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0080",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "YL民宿"
+    },
+    {
+      "ROOM": 9,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0081",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "奖忠洞",
+      "NAME_CNG": "USB民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0082",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "虹民宿"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0083",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "WON's村"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0084",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "红"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0085",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "中林洞",
+      "NAME_CNG": "首尔站丽嘉家庭寄宿"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0086",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "24民宿南山花园店"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0087",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "南山民宿5"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0088",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "南茜民宿"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0089",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "波登"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0090",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "佐阿优"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0091",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "卢卡斯民宿"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0092",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "奖忠洞",
+      "NAME_CNG": "美森林别墅"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0093",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "吉吉民宿"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0094",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "妈之家（明洞妈之家）"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0095",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "首尔台湾民宿"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0096",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "新堂洞",
+      "NAME_CNG": "A计划旅馆"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0097",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "彩虹民宿"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0098",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "番茄民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0099",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "黄鹤洞",
+      "NAME_CNG": "舒适寄宿"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0100",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "JUN民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0101",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "黄鹤洞",
+      "NAME_CNG": "阿咪之家"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0102",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "民宿多谈"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0103",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "88民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0104",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "梦之家1"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0105",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "梦之家2"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0106",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "梦之家3"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0107",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "光熙洞",
+      "NAME_CNG": "第一家园"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0108",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "尹民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0109",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "南大门民宿2"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0110",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "茶山洞",
+      "NAME_CNG": "五洲民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0111",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "J荣誉Ⅱ"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0112",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "J荣誉Ⅲ"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0113",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "妈妈民宿2"
+    },
+    {
+      "ROOM": 10,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0114",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "光熙洞",
+      "NAME_CNG": "科尼之家"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0115",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "中林洞",
+      "NAME_CNG": "J-故事民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0116",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "奖忠洞",
+      "NAME_CNG": "天堂民宿"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0117",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "梦想家民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0118",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "伊芙"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0119",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "山丘民宿2"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0120",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "中林洞",
+      "NAME_CNG": "忠正路三星家庭寄宿"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0121",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院2洞",
+      "NAME_CNG": "阿内斯旅馆"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0122",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "洛宾之窝"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0123",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉江路洞",
+      "NAME_CNG": "汉江风景"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0124",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "元暁路1洞",
+      "NAME_CNG": "德寿宫家"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0125",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "梨泰院背包酒店"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0126",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "锡安民宿"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0127",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "SP@Itaewon"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0128",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "西冰库洞",
+      "NAME_CNG": "梨泰院山坡民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0129",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "彼得之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0130",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "元暁路2洞",
+      "NAME_CNG": "高斯丽之家"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0131",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "厚岩洞",
+      "NAME_CNG": "刚之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0132",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "二村1洞",
+      "NAME_CNG": "仓井空"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0133",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "青坡洞",
+      "NAME_CNG": "马丁家庭旅馆"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0134",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "二村2洞",
+      "NAME_CNG": "赖安民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0135",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "杰罗姆之家"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0136",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "二村1洞",
+      "NAME_CNG": "汉江之景旅馆"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0137",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉江路洞",
+      "NAME_CNG": "松树民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0138",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "秦之天堂"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0139",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "哈屋斯(HA;US)"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0140",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "UN民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0141",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "比尼民宿"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0142",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "pop@梨泰院"
+    },
+    {
+      "ROOM": 9,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0143",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "青坡洞",
+      "NAME_CNG": "首尔铅笔"
+    },
+    {
+      "ROOM": 9,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0144",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "梨泰院旅馆"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0145",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "IS@K民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0146",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "梨泰院G民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0147",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "诺埃尔民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0148",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "老虎之家"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0149",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "青坡洞",
+      "NAME_CNG": "SS民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0150",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "龙门洞",
+      "NAME_CNG": "汤米系统"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0151",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "梨泰院的舒适之处"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0152",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "24民宿梨泰院店"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0153",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院2洞",
+      "NAME_CNG": "流浪之家梨泰院"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0154",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "青坡洞",
+      "NAME_CNG": "24民宿首尔市区机场店"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0155",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "社交之家"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0156",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "小帆船"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0157",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院2洞",
+      "NAME_CNG": "LAON"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0158",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "南営洞",
+      "NAME_CNG": "首尔角落民宿"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0159",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "G贵宾之家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0160",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "金家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0161",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "9路"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0162",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "西冰库洞",
+      "NAME_CNG": "奋奋民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0163",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "三倍"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0164",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "元暁路1洞",
+      "NAME_CNG": "88之家龙山"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0165",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "立方体民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0166",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "旅游狂民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0353",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "本地裁缝"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0354",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "哦哇民宿"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0355",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "HaTo"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0356",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "罗和乔的家"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0357",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "纳努民宿"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0358",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "AVO"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0359",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "城山1洞",
+      "NAME_CNG": "G.O.D民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0360",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "幸福树民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0361",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "露台"
+    },
+    {
+      "ROOM": 10,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0362",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "首尔I民宿"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0363",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "元的设计民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0364",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "柚子民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0365",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "月亮民宿"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0366",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "追梦康福特"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0367",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "城市森林"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0368",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "甜蜜的家"
+    },
+    {
+      "ROOM": 11,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0369",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "弘大狮子民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0370",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "zzzip民宿"
+    },
+    {
+      "ROOM": 13,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0371",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "首尔公寓"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0372",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "BLU民宿弘大"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0373",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "B民宿"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0374",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "南瓜民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0375",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "朋友民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0376",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "弹跳民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0377",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "DW设计公寓"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0378",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "橙子民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0379",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "88家庭旅馆"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0380",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "I家亲亲"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0381",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "黄金民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0382",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "龙江洞",
+      "NAME_CNG": "汉江民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0383",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "包豪斯"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0384",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "阁楼8"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0385",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "派克大街"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0386",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "10美金"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0387",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "我们的首尔民宿"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0388",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "派克大街2"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0389",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "K多布9"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0390",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "篝火民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0391",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "霍拉首尔"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0392",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "这是"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0393",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "合井洞",
+      "NAME_CNG": "懒觉民宿"
+    },
+    {
+      "ROOM": 9,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0394",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "茧居民宿弘大入口站店"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0395",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "新水洞",
+      "NAME_CNG": "SJ"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0396",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "哦家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0397",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "沉睡的草莓"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0398",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "意外发现：鸥窝"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0399",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "唯一"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0400",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "家人和朋友的家2 "
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0401",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "DY家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0402",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "在家"
+    },
+    {
+      "ROOM": 10,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0403",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "阿贝尔民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0404",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "城山1洞",
+      "NAME_CNG": "李姜民宿"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0405",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "蜂蜜之家"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0406",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "弘大橄榄民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0407",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "伊诺民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0408",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "艾希莉的家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0409",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "合井洞",
+      "NAME_CNG": "恰恰恰民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0410",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "哈米尔"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0411",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "阿尔贝尔格"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0412",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "家：燃烧的心脏"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0413",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "软柿子民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0414",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西岗洞",
+      "NAME_CNG": "Vin民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0415",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "重来"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0416",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "安家庭民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0417",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "崔家庭旅馆"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0418",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "城山1洞",
+      "NAME_CNG": "苹果树"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0419",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "关口韩国民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0420",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "和米尼"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0421",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "民宿KW弘大线"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0422",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "大兴洞",
+      "NAME_CNG": "蛋小姐的家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0423",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "纳努民宿3号店"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0424",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "U休息时间"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0425",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "幸福树民宿2号店"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0426",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "多恩的家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0427",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "合井洞",
+      "NAME_CNG": "我爱弘大"
+    },
+    {
+      "ROOM": 21,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0428",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "望远1洞",
+      "NAME_CNG": "有机农民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0429",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "嗨俊民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0430",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "城山1洞",
+      "NAME_CNG": "欢乐民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0431",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "甜美舒心"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0432",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "伦巴底家"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0433",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "好民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0434",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "小睡"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0435",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "蛋民宿 接我韩国"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0436",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "微笑民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0437",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "懒狐狸"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0438",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "朴妈妈民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0439",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "热闹空间"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0440",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "合井洞",
+      "NAME_CNG": "弘大厨师民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0441",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "22家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0442",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "望远2洞",
+      "NAME_CNG": "敏的家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0443",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西岗洞",
+      "NAME_CNG": "K民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0444",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "郑住宿"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0445",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "1969民宿"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0446",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "莫诺家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0447",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "88家弘大"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0448",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "首尔甜蜜风格"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0449",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "家在首尔"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0450",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "三角"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0451",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "城山2洞",
+      "NAME_CNG": "感民宿"
+    },
+    {
+      "ROOM": 11,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0452",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "上岩洞",
+      "NAME_CNG": "野营民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0453",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "望远1洞",
+      "NAME_CNG": "咖米家"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0454",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "桥梁之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0455",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "萤火民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0456",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "土豆民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0457",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "来来之家"
+    },
+    {
+      "ROOM": 9,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0458",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "首尔公寓2"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0459",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "大门民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0460",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "好家庭宾馆"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0461",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "人民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0462",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "首尔人"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0463",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "俊民宿"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0464",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "错觉艺术民宿"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0465",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "兔子民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0466",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "狮子民宿弘大入口站2"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0467",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "合井洞",
+      "NAME_CNG": "珊妮的家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0468",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "珊妮的东方家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0469",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "桃花洞",
+      "NAME_CNG": "洗衣人们"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0264",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "津宽洞",
+      "NAME_CNG": "全球之家"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0265",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "新沙1洞",
+      "NAME_CNG": "JS之家2"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0266",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "新沙1洞",
+      "NAME_CNG": "JS之家1"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0267",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "佛光2洞",
+      "NAME_CNG": "美丽黄土家"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0268",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "延禧洞",
+      "NAME_CNG": "城市民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0269",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "延禧洞",
+      "NAME_CNG": "微笑住宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0270",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "北加佐2洞",
+      "NAME_CNG": "皮尔格林"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0271",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "北加佐2洞",
+      "NAME_CNG": "海伦之家"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0272",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "24民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0273",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "弘恩1洞",
+      "NAME_CNG": "JK民宿"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0274",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "J民宿"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0275",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "ICOS民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0276",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "忠岘洞",
+      "NAME_CNG": "领导者民宿"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0277",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "忠岘洞",
+      "NAME_CNG": "柠檬茶民宿"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0278",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "忠岘洞",
+      "NAME_CNG": "首尔站民宿"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0279",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "弘済1洞",
+      "NAME_CNG": "首尔的我家"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0280",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "延禧洞",
+      "NAME_CNG": "耶4民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0281",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "延禧洞",
+      "NAME_CNG": "延禧之家"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0282",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "舒适箱子"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0283",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "北加佐1洞",
+      "NAME_CNG": "JJ民宿"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0284",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "延禧洞",
+      "NAME_CNG": "梦想民宿"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0285",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "延禧洞",
+      "NAME_CNG": "缘民宿"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0286",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "YaKorea民宿"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0287",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "忠岘洞",
+      "NAME_CNG": "首尔站民宿-4"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0288",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "忠岘洞",
+      "NAME_CNG": "首尔站民宿-3"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0289",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "忠岘洞",
+      "NAME_CNG": "首尔站民宿-1"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0290",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "忠岘洞",
+      "NAME_CNG": "首尔站民宿-2"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0291",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "菲尔斯塔梨花部地格店"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0292",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "新村民宿"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0293",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "延禧洞",
+      "NAME_CNG": "ＴＨＥ　ＭＥＩ　ＨＡＵＳ"
+    },
+    {
+      "ROOM": null,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0294",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "时光旅人派对民宿"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0295",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "进来民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0296",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "尼奥首尔"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0297",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "家人＆朋友的家"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0298",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "泡菜弘大民宿"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0299",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "住宿韩国"
+    },
+    {
+      "ROOM": 9,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0300",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "嗨民宿"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0301",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "四季之家"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0302",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "空间托拉"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0303",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "鸟巢"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0304",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "太阳"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0305",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "哈罗韩国民宿"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0306",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "绿洲民宿"
+    },
+    {
+      "ROOM": 9,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0307",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "ＪＪ民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0308",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "大兴洞",
+      "NAME_CNG": "ICOS"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0309",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "白尾巴"
+    },
+    {
+      "ROOM": 7,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0310",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "工作室４１街"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0311",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "树"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0312",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "城山2洞",
+      "NAME_CNG": "为你"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0313",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "家人家庭旅馆"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0314",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "OMG民宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0315",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "大兴洞",
+      "NAME_CNG": "索达姆民宿"
+    },
+    {
+      "ROOM": 1,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0316",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "KW弘大民宿"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0317",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "达斯汀民宿"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0318",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "杜丽世界之家"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0319",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "舒适宾馆"
+    },
+    {
+      "ROOM": 8,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0320",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "首尔怀斯民宿"
+    },
+    {
+      "ROOM": 5,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0321",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "黄潜水艇"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0322",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "玛露吉民宿"
+    },
+    {
+      "ROOM": 9,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0323",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "罗毅之家"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0324",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "望远2洞",
+      "NAME_CNG": "苏托姆"
+    },
+    {
+      "ROOM": 6,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0325",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "热点首尔　"
+    },
+    {
+      "ROOM": 10,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0326",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "苹果民宿"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0327",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西岗洞",
+      "NAME_CNG": "KPOP住宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0328",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西岗洞",
+      "NAME_CNG": "KPOP住宿II"
+    },
+    {
+      "ROOM": 4,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0329",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "奋奋住宿"
+    },
+    {
+      "ROOM": 2,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0330",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "弘大家人旅馆２"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0331",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "逗号先生民宿"
+    },
+    {
+      "ROOM": 3,
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST20-0332",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "嘿背包旅人２"
+    }
+  ]
+}

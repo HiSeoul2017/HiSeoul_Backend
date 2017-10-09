@@ -1,0 +1,7739 @@
+{
+  "DESCRIPTION": {
+    "H_CNG_CITY": "행정시",
+    "MAIN_KEY": "키",
+    "H_CNG_GU": "행정구",
+    "H_CNG_DONG": "행정동",
+    "NAME_CNG": "명칭"
+  },
+  "DATA": [
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0511",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "面牧4洞",
+      "NAME_CNG": "松林亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1049",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "高徳1洞",
+      "NAME_CNG": "乡村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1050",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "乡村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1051",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "嘉会洞",
+      "NAME_CNG": "现代花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1052",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老1洞",
+      "NAME_CNG": "现代花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1053",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "中林洞",
+      "NAME_CNG": "现代水產"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1054",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "圣水1街2洞",
+      "NAME_CNG": "兄弟"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1055",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "千戸2洞",
+      "NAME_CNG": "兄弟烤排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1056",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "踏十里2洞",
+      "NAME_CNG": "兄弟餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1057",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "松川洞",
+      "NAME_CNG": "兄弟餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1058",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "新堂洞",
+      "NAME_CNG": "兄弟餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1059",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "平仓洞",
+      "NAME_CNG": "兄弟泥鳅汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1060",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "慧荞"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1061",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "惠心亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1062",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "恵园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1063",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙4洞",
+      "NAME_CNG": "浩南饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1064",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "延禧洞",
+      "NAME_CNG": "浩南饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1065",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷2洞",
+      "NAME_CNG": "浩南饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1066",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "可乐1洞",
+      "NAME_CNG": "浩南饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1067",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "浩南饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1068",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "浩南饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1069",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "汝矣岛洞",
+      "NAME_CNG": "虎尾岬"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1070",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "嘉会洞",
+      "NAME_CNG": "湖畔"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1071",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "清凉里洞",
+      "NAME_CNG": "洪陵排骨店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1072",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木4洞",
+      "NAME_CNG": "花糕店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1073",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "松中洞",
+      "NAME_CNG": "花郎"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1074",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "杏堂1洞",
+      "NAME_CNG": "火炉烧烤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1075",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "秃山1洞",
+      "NAME_CNG": "火炉烧烤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1076",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "乙支路洞",
+      "NAME_CNG": "火炉白书"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1077",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "光熙洞",
+      "NAME_CNG": "火炉白书"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1078",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月4洞",
+      "NAME_CNG": "花石亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1079",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "孔徳洞",
+      "NAME_CNG": "华城"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1080",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "仁水洞",
+      "NAME_CNG": "华城山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1081",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "孝昌洞",
+      "NAME_CNG": "花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1082",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "驿村洞",
+      "NAME_CNG": "超级市场"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1083",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新亭4洞",
+      "NAME_CNG": "黄金鸭农场"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1084",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "大林3洞",
+      "NAME_CNG": "黄金鸭农场"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1085",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "黄金城"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1086",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "嘉会洞",
+      "NAME_CNG": "黄金城"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1087",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "黄富人"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1088",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "新内1洞",
+      "NAME_CNG": "黄牛小肠"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1089",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "沙斤洞",
+      "NAME_CNG": "黄牛小肠"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1090",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "弥阿洞",
+      "NAME_CNG": "黄牛小肠"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1091",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才1洞",
+      "NAME_CNG": "黄牛餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1092",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "崇仁2洞",
+      "NAME_CNG": "黄牛家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1093",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "黒石洞",
+      "NAME_CNG": "黄土村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1094",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "阿岘洞",
+      "NAME_CNG": "黄土路"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1095",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "黄鹤亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1096",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "下渓1洞",
+      "NAME_CNG": "會寧"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1097",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "道谷2洞",
+      "NAME_CNG": "厚浦港"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1098",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "黑豚家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1099",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "孔陵1洞",
+      "NAME_CNG": "黑豚家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1100",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "黒石洞",
+      "NAME_CNG": "黑石谷"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1101",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "普光洞",
+      "NAME_CNG": "兴夫家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1102",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成2洞",
+      "NAME_CNG": "喜乐"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1103",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才2洞",
+      "NAME_CNG": "喜来"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1104",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "成贤洞",
+      "NAME_CNG": "希尔屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0001",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "水宫洞",
+      "NAME_CNG": "竹子家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0002",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "上岩洞",
+      "NAME_CNG": "飞凤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0003",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "松树"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0004",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "梨花洞",
+      "NAME_CNG": "Solmoe村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0005",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "松鹤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0006",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "内谷洞",
+      "NAME_CNG": "修养"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0007",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "落星垈洞",
+      "NAME_CNG": "屋内"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0008",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "奖忠洞",
+      "NAME_CNG": "Jihwaja"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0009",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "龟山洞",
+      "NAME_CNG": "美味珍馐"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0010",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "延禧洞",
+      "NAME_CNG": "草香"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0011",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "茶山洞",
+      "NAME_CNG": "加纳安"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0012",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "Garam"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0013",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "窑村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0014",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "登村1洞",
+      "NAME_CNG": "大石锅手豆腐"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0015",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草2洞",
+      "NAME_CNG": "大石锅手豆腐"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0016",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "可乐本洞",
+      "NAME_CNG": "大石锅手豆腐"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0017",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "蚕院洞",
+      "NAME_CNG": "Gasiry嘉时理"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0018",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "Gasiry嘉时理"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0019",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "Gasiry嘉时理"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0020",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "Gasiry嘉时理"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0021",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "嘉园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0022",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "嘉园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0023",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "双门3洞",
+      "NAME_CNG": "韩国餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0024",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "家族会馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0025",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "可乐本洞",
+      "NAME_CNG": "葛梅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0026",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "往十里道诜洞",
+      "NAME_CNG": "民宿"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0027",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "傍花3洞",
+      "NAME_CNG": "柿子树屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0028",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "石村洞",
+      "NAME_CNG": "柿子树屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0029",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾2洞",
+      "NAME_CNG": "柿子树屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0030",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷1洞",
+      "NAME_CNG": "甘味屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0031",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "土豆谷"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0032",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "土豆岩石"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0033",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "Ganga恒河（印度料理）"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0034",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "始兴1洞",
+      "NAME_CNG": "羌羌水越来"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0035",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓1洞",
+      "NAME_CNG": "强羌水越来(上溪店)"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0036",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "书院洞",
+      "NAME_CNG": "羌羌水越来-新林店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0037",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "汝矣岛洞",
+      "NAME_CNG": "羌羌水越来(汝矣岛店)"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0038",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "江口港"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0039",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "江南面屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0040",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "江陵古早家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0041",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "江陵屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0042",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "遁村2洞",
+      "NAME_CNG": "江陵屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0043",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "九宜2洞",
+      "NAME_CNG": "江码头"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0044",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "小公洞",
+      "NAME_CNG": "江西面屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0045",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "元暁路1洞",
+      "NAME_CNG": "江原亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0046",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷2洞",
+      "NAME_CNG": "江村包饭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0047",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵2洞",
+      "NAME_CNG": "开城面屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0048",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老2洞",
+      "NAME_CNG": "开城面屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0049",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "塩仓洞",
+      "NAME_CNG": "开城面屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0050",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "新吉6洞",
+      "NAME_CNG": "开城面屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0051",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "开城屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0052",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "开城屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0053",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "小溪口"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0054",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "开花屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0055",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "九宜3洞",
+      "NAME_CNG": "渔村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0056",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "堂山1洞",
+      "NAME_CNG": "渔村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0057",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉江路洞",
+      "NAME_CNG": "渔村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0058",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "可乐本洞",
+      "NAME_CNG": "沙提章鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0059",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "三清洞",
+      "NAME_CNG": "景福宫"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0060",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "雨装山洞",
+      "NAME_CNG": "景福宫"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0061",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "乙支路洞",
+      "NAME_CNG": "景福宫"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0062",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "山谷山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0063",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "广壮洞",
+      "NAME_CNG": "鸡林"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0064",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓3.4洞",
+      "NAME_CNG": "小山村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0065",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "面牧2洞",
+      "NAME_CNG": "古宫"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0066",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "古宫"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0067",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "上道1洞",
+      "NAME_CNG": "烤肉世界"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0068",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "烤肉熙"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0069",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "殷川洞",
+      "NAME_CNG": "烤肉熙"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0070",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月5洞",
+      "NAME_CNG": "肉类市场"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0071",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "高徳1洞",
+      "NAME_CNG": "古德花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0072",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "鲸鱼佛"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0073",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙4洞",
+      "NAME_CNG": "美食之家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0074",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "城内3洞",
+      "NAME_CNG": "姑母元祖豆汤蒸干明太鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0075",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "城内1洞",
+      "NAME_CNG": "孤石亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0076",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "望远1洞",
+      "NAME_CNG": "故乡山水"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0077",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "黄鹤洞",
+      "NAME_CNG": "故乡山水"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0078",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "徽庆1洞",
+      "NAME_CNG": "故乡山水"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0079",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "松川洞",
+      "NAME_CNG": "故乡山水"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0080",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "东仙洞",
+      "NAME_CNG": "故乡牛杂汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0081",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "孔徳洞",
+      "NAME_CNG": "故乡饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0082",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "驿村洞",
+      "NAME_CNG": "故乡饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0083",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "开峰1洞",
+      "NAME_CNG": "故乡饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0084",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "故乡饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0085",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "开峰1洞",
+      "NAME_CNG": "老家包饭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0086",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "九宜1洞",
+      "NAME_CNG": "故乡家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0087",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "故乡家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0088",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "普门洞",
+      "NAME_CNG": "故乡家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0089",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "中央洞",
+      "NAME_CNG": "故乡家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0090",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草1洞",
+      "NAME_CNG": "故乡家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0091",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "高兴餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0092",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "樊1洞",
+      "NAME_CNG": "里屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0093",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "牛骨面条家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0094",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "牛骨面条家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0095",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "桥南洞",
+      "NAME_CNG": "熊岭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0096",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "熊岩"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0097",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "烤牛肉店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0098",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "东仙洞",
+      "NAME_CNG": "牛骨汤家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0099",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老5洞",
+      "NAME_CNG": "公园花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0100",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "公园山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0101",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓1洞",
+      "NAME_CNG": "公主屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0102",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月4洞",
+      "NAME_CNG": "光阳烤肉　"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0103",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "石村洞",
+      "NAME_CNG": "光阳烤肉　"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0104",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "盘浦4洞",
+      "NAME_CNG": "光阳烤肉　"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0105",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙2洞",
+      "NAME_CNG": "光杨烤肉本家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0106",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "光化门家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0107",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "九云梦"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0108",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "秃山1洞",
+      "NAME_CNG": "面条馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0109",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "城北洞",
+      "NAME_CNG": "面条家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0110",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "城北洞",
+      "NAME_CNG": "菊花庭园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0111",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦本洞",
+      "NAME_CNG": "洞打猎"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0112",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "石村洞",
+      "NAME_CNG": "早安"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0113",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "里门1洞",
+      "NAME_CNG": "宫"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0114",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "宫宴"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0115",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "巨余1洞",
+      "NAME_CNG": "宫中鸭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0116",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "弘済1洞",
+      "NAME_CNG": "绿色"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0117",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "平仓洞",
+      "NAME_CNG": "绿色屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0118",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "里门1洞",
+      "NAME_CNG": "金刚山"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0119",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "金刚山"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0120",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "阿岘洞",
+      "NAME_CNG": "金刚山"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0121",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "岩寺1洞",
+      "NAME_CNG": "金剛山土豆湯"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0122",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "青坡洞",
+      "NAME_CNG": "金剛山土豆湯"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0123",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月1洞",
+      "NAME_CNG": "晋江浩民淡水鰻鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0124",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "（今木来）金沙"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0125",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "锦绣河豚汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0126",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "杨坪1洞",
+      "NAME_CNG": "衿川餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0127",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "南営洞",
+      "NAME_CNG": "菊"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0128",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "瓦家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0129",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "面牧3.8洞",
+      "NAME_CNG": "瓦家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0130",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新林洞",
+      "NAME_CNG": "爱心包卷"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0131",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "光熙洞",
+      "NAME_CNG": "金三宝"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0132",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷3洞",
+      "NAME_CNG": "梦想小猪"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0133",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "千戸1洞",
+      "NAME_CNG": "民宿"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0134",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "桃花洞",
+      "NAME_CNG": "渡口"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0135",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "墨2洞",
+      "NAME_CNG": "罗州餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0136",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "长安1洞",
+      "NAME_CNG": "乐园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0137",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草2洞",
+      "NAME_CNG": "乐园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0138",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "秃山2洞",
+      "NAME_CNG": "鱿鱼院子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0139",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位2洞",
+      "NAME_CNG": "鱿鱼院子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0140",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "逸院1洞",
+      "NAME_CNG": "章鱼村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0141",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "城内2洞",
+      "NAME_CNG": "章鱼村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0142",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "枣园洞",
+      "NAME_CNG": "南道"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0143",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "梧琴洞",
+      "NAME_CNG": "南道马路"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0144",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "大方洞",
+      "NAME_CNG": "南道食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0145",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新亭4洞",
+      "NAME_CNG": "南道食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0146",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "天然洞",
+      "NAME_CNG": "兄妹家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0147",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草1洞",
+      "NAME_CNG": "南美屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0148",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "南北统一"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0149",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "阿岘洞",
+      "NAME_CNG": "南城"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0150",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "嘉会洞",
+      "NAME_CNG": "南原"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0151",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "长旨洞",
+      "NAME_CNG": "南原谷泥鳅汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0152",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾1洞",
+      "NAME_CNG": "南原谷泥鳅汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0153",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "开峰1洞",
+      "NAME_CNG": "南原食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0154",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室本洞",
+      "NAME_CNG": "南原食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0155",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "南営洞",
+      "NAME_CNG": "南原食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0156",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "弘済3洞",
+      "NAME_CNG": "南原屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0157",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "九宜2洞",
+      "NAME_CNG": "南原泥鳅汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0158",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "城山1洞",
+      "NAME_CNG": "南原泥鳅汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0159",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "新水洞",
+      "NAME_CNG": "南原泥鳅汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0160",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "南原泥鳅汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0161",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才2洞",
+      "NAME_CNG": "南原泥鳅汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0162",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "新堂5洞",
+      "NAME_CNG": "南原泥鳅汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0163",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路5.6街洞",
+      "NAME_CNG": "南原泥鳅汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0164",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "清凉里洞",
+      "NAME_CNG": "南原泥鳅汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0165",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "南原泥鳅汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0166",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "南浦面屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0167",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "松坡1洞",
+      "NAME_CNG": "南汉江"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0168",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新亭2洞",
+      "NAME_CNG": "南海水产"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0169",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草4洞",
+      "NAME_CNG": "黄色的韩服短上衣"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0170",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背1洞",
+      "NAME_CNG": "论谷之家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0171",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "千戸2洞",
+      "NAME_CNG": "农家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0172",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "世界"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0173",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "纽约龙虾"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0174",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "奖忠洞",
+      "NAME_CNG": "榉树屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0175",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "虎掌菇炖鸡"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0176",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "汝矣岛洞",
+      "NAME_CNG": "多味"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0177",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "大林3洞",
+      "NAME_CNG": "多松"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0178",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "多源"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0179",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑1洞",
+      "NAME_CNG": "多源"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0180",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才1洞",
+      "NAME_CNG": "多源"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0181",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "细谷洞",
+      "NAME_CNG": "甜味"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0182",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "月光餐桌"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0183",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "祭基洞",
+      "NAME_CNG": "一只鸡"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0184",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "城内1洞",
+      "NAME_CNG": "一只鸡"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0185",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "一只鸡"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0186",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "一只鸡"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0187",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "佛光1洞",
+      "NAME_CNG": "大关岭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0188",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩3洞",
+      "NAME_CNG": "大光"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0189",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "舍堂2洞",
+      "NAME_CNG": "竹子家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0190",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "青坡洞",
+      "NAME_CNG": "大道餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0191",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "上凤1洞",
+      "NAME_CNG": "大道餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0192",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "普门洞",
+      "NAME_CNG": "大道餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0193",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "中渓4洞",
+      "NAME_CNG": "大道餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0194",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "清云孝子洞",
+      "NAME_CNG": "大林亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0195",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "放鹤3洞",
+      "NAME_CNG": "大门"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0196",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "阿岘洞",
+      "NAME_CNG": "大发家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0197",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "傍花1洞",
+      "NAME_CNG": "大发家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0198",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月4洞",
+      "NAME_CNG": "大发家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0199",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "蚕院洞",
+      "NAME_CNG": "大发家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0200",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉江路洞",
+      "NAME_CNG": "大福"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0201",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "大福家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0202",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "大成"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0203",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "龙踏洞",
+      "NAME_CNG": "大成"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0204",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷2洞",
+      "NAME_CNG": "大成餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0205",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "大成餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0206",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "可乐1洞",
+      "NAME_CNG": "大成餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0207",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "新吉6洞",
+      "NAME_CNG": "大运羊杂汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0208",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "中谷2洞",
+      "NAME_CNG": "大圆炭火牛排"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0209",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "奖忠洞",
+      "NAME_CNG": "大长今"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0210",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "大长今"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0211",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "新沙2洞",
+      "NAME_CNG": "大长今"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0212",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "内谷洞",
+      "NAME_CNG": "大井"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0213",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月6洞",
+      "NAME_CNG": "大州餐桌"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0214",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "大青地板"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0215",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "内谷洞",
+      "NAME_CNG": "大青地板"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0216",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老2洞",
+      "NAME_CNG": "大青地板"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0217",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背本洞",
+      "NAME_CNG": "大村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0218",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "水宫洞",
+      "NAME_CNG": "大枣屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0219",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "大枣屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0220",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙2洞",
+      "NAME_CNG": "大韩民国"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0221",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "加山洞",
+      "NAME_CNG": "大韩会馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0222",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "小公洞",
+      "NAME_CNG": "大湖"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0223",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "韩村(驿三明星店)"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0224",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "杏堂2洞",
+      "NAME_CNG": "闺中谷"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0225",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "长安1洞",
+      "NAME_CNG": "独岛金枪鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0226",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草4洞",
+      "NAME_CNG": "豚家牛家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0227",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "豚DAY"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0228",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新亭2洞",
+      "NAME_CNG": "豚DAY"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0229",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "盖饭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0230",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "豚寿百"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0231",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月3洞",
+      "NAME_CNG": "豚圈"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0232",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木4洞",
+      "NAME_CNG": "豚好世界"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0233",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "登村1洞",
+      "NAME_CNG": "敦土"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0234",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "石墙屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0235",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "始兴4洞",
+      "NAME_CNG": "石墙屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0236",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵3洞",
+      "NAME_CNG": "东京食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0237",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "樊1洞",
+      "NAME_CNG": "东宫"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0238",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "空港洞",
+      "NAME_CNG": "东方"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0239",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "紫阳1洞",
+      "NAME_CNG": "洞村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0240",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "洞村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0241",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "天然洞",
+      "NAME_CNG": "东海别馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0242",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "东海别馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0243",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "开峰1洞",
+      "NAME_CNG": "东海水產"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0244",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "圣水1街2洞",
+      "NAME_CNG": "猪农场"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0245",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月3洞",
+      "NAME_CNG": "猪村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0246",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "桥南洞",
+      "NAME_CNG": "猪村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0271",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "塩仓洞",
+      "NAME_CNG": "马山炖琵琶鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0272",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "北阿岘洞",
+      "NAME_CNG": "马山炖琵琶鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0273",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "马山家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0274",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "崇仁2洞",
+      "NAME_CNG": "Macil"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0275",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "沙斤洞",
+      "NAME_CNG": "马场烤肉"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0276",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "普门洞",
+      "NAME_CNG": "麻浦排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0277",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "杏堂2洞",
+      "NAME_CNG": "麻浦排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0278",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "舍堂1洞",
+      "NAME_CNG": "麻浦排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0279",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老4洞",
+      "NAME_CNG": "麻浦排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0280",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "麻浦排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0281",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月7洞",
+      "NAME_CNG": "麻浦排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0282",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "三角山洞",
+      "NAME_CNG": "麻浦排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0283",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "殷川洞",
+      "NAME_CNG": "麻浦排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0284",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "新水洞",
+      "NAME_CNG": "麻浦渡口"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0285",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙2洞",
+      "NAME_CNG": "麻浦盐考"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0286",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "合井洞",
+      "NAME_CNG": "麻浦盐考"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0287",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "墨2洞",
+      "NAME_CNG": "麻浦盐考"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0288",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "风纳2洞",
+      "NAME_CNG": "麻浦炭火烤排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0289",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "堂山1洞",
+      "NAME_CNG": "麻浦炭火烤排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0290",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "马川2洞",
+      "NAME_CNG": "麻浦炭火烤排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0291",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "逸院1洞",
+      "NAME_CNG": "麻浦炭火烤排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0292",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "舍堂3洞",
+      "NAME_CNG": "麻浦店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0293",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦本洞",
+      "NAME_CNG": "老幺生鱼片中心"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0294",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背4洞",
+      "NAME_CNG": "满发"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0295",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "东仙洞",
+      "NAME_CNG": "晚仙"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0296",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "石串洞",
+      "NAME_CNG": "打糕店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0297",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "青龙洞",
+      "NAME_CNG": "墨谷"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0298",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "新内1洞",
+      "NAME_CNG": "小吃街"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0299",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "新内1洞",
+      "NAME_CNG": "小吃街"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0300",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷2洞",
+      "NAME_CNG": "荞麦村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0301",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩1洞",
+      "NAME_CNG": "荞麦村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0302",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "中和2洞",
+      "NAME_CNG": "荞麦村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0303",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "名家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0304",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "明洞饺子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0305",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西岗洞",
+      "NAME_CNG": "明洞刀切面"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0306",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩1洞",
+      "NAME_CNG": "明洞刀切面"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0307",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "三田洞",
+      "NAME_CNG": "名门司机饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0308",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "内谷洞",
+      "NAME_CNG": "名山长鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0309",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "放鹤1洞",
+      "NAME_CNG": "明珠"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0310",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背4洞",
+      "NAME_CNG": "图书馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0311",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "摩雅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0312",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "木莲食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0313",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "木庐"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0314",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "木觅山房"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0315",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "成贤洞",
+      "NAME_CNG": "木浦"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0316",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "东化洞",
+      "NAME_CNG": "木浦章鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0317",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "木浦姐妹家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0318",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "龙新洞",
+      "NAME_CNG": "木浦家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0319",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "Mudol"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0320",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "无花簪"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0321",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙4洞",
+      "NAME_CNG": "文"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0322",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "Muse缪斯"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0323",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "中谷1洞",
+      "NAME_CNG": "味家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0324",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "华阳洞",
+      "NAME_CNG": "味家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0325",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新林洞",
+      "NAME_CNG": "米卡奶奶"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0326",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木5洞",
+      "NAME_CNG": "美谈"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0327",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木5洞",
+      "NAME_CNG": "美谈"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0328",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "仁宪洞",
+      "NAME_CNG": "美都"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0329",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "道谷2洞",
+      "NAME_CNG": "美都"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0330",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "龙新洞",
+      "NAME_CNG": "味乐"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0331",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "新大方2洞",
+      "NAME_CNG": "味乐"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0332",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "孔徳洞",
+      "NAME_CNG": "味乐"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0333",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "石村洞",
+      "NAME_CNG": "味乐餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0334",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新亭4洞",
+      "NAME_CNG": "味乐餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0335",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "Mireu"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0336",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "中林洞",
+      "NAME_CNG": "Mireu"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0337",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "味山"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0338",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "味成屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0339",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三2洞",
+      "NAME_CNG": "味香"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0340",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "闵家茶轩"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0341",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "蒲公英"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0342",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "蒲公英"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0343",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "樊2洞",
+      "NAME_CNG": "民俗豆腐村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0344",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "延禧洞",
+      "NAME_CNG": "民俗餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0345",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "延禧洞",
+      "NAME_CNG": "民俗餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0346",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "民俗屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0347",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新林洞",
+      "NAME_CNG": "Badalbi （韩正食）"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0348",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "放鹤1洞",
+      "NAME_CNG": "巴宇饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0349",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "朴大人家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0350",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "朴女婿家的猪血肠汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0351",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "博石岭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0352",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙4洞",
+      "NAME_CNG": "盘龙山"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0353",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "放鹤1洞",
+      "NAME_CNG": "碓谷"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0940",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩1洞",
+      "NAME_CNG": "土房"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0620",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "千戸3洞",
+      "NAME_CNG": "老村子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0621",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "塩仓洞",
+      "NAME_CNG": "老村子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0622",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "吉音2洞",
+      "NAME_CNG": "老村子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0623",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "金湖4街洞",
+      "NAME_CNG": "老村子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0624",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "平仓洞",
+      "NAME_CNG": "老民居"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0625",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "老房子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0626",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新林洞",
+      "NAME_CNG": "老房子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0627",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷6洞",
+      "NAME_CNG": "老房子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0628",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "弘済1洞",
+      "NAME_CNG": "老房子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0629",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "细谷洞",
+      "NAME_CNG": "古屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0630",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "新吉6洞",
+      "NAME_CNG": "古屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0631",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "秃山4洞",
+      "NAME_CNG": "古村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0632",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "龙新洞",
+      "NAME_CNG": "韩国餐厅(鸡肉料理)"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0633",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "南岘洞",
+      "NAME_CNG": "不倒翁饭馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0634",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "松中洞",
+      "NAME_CNG": "鸭子农场"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0635",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "大林2洞",
+      "NAME_CNG": "鸭村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0636",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑1洞",
+      "NAME_CNG": "猎鸭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0637",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "傍花2洞",
+      "NAME_CNG": "鸭园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0638",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老2洞",
+      "NAME_CNG": "五里亭 "
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0639",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三2洞",
+      "NAME_CNG": "茅庐"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0640",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才1洞",
+      "NAME_CNG": "五味家(良才分店)"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0641",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "五发碳烤店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0642",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "五发碳烤店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0643",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "始兴1洞",
+      "NAME_CNG": "五福餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0644",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "长安1洞",
+      "NAME_CNG": "五福餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0645",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "明逸2洞",
+      "NAME_CNG": "平安道五父子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0646",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "无色桂香"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0647",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "獒树"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0648",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "欢迎再次光临"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0649",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "五友歌"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0650",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位3洞",
+      "NAME_CNG": "日食"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0651",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "紫阳2洞",
+      "NAME_CNG": "鱿鱼世界"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0652",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "城内3洞",
+      "NAME_CNG": "鱿鱼世界"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0653",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "九宜1洞",
+      "NAME_CNG": "鱿鱼村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0654",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "君子洞",
+      "NAME_CNG": "鱿鱼村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0655",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "华阳洞",
+      "NAME_CNG": "鱿鱼村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0656",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "小公洞",
+      "NAME_CNG": "午后厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0657",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "三清洞",
+      "NAME_CNG": "全村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0658",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓5洞",
+      "NAME_CNG": "瓷器村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0659",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "明逸2洞",
+      "NAME_CNG": "芥末"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0660",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "早稻田屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0661",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "王家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0662",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "王石潜"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0663",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "三成洞",
+      "NAME_CNG": "王十里烤红肠"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0664",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "圣水1街1洞",
+      "NAME_CNG": "王十里烤红肠"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0665",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "蚕院洞",
+      "NAME_CNG": "外婆家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0666",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "圣水2街3洞",
+      "NAME_CNG": "外婆家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0667",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "弥阿洞",
+      "NAME_CNG": "外婆家饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0668",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷6洞",
+      "NAME_CNG": "外婆家饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0669",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙4洞",
+      "NAME_CNG": "牛脾气杂汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0670",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西岗洞",
+      "NAME_CNG": "点心本家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0671",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "昌信3洞",
+      "NAME_CNG": "龙宫花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0672",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "盘浦4洞",
+      "NAME_CNG": "龙水山"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0673",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "三清洞",
+      "NAME_CNG": "龙秀山(三清店)"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0674",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才2洞",
+      "NAME_CNG": "牛家村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0675",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "乙支路洞",
+      "NAME_CNG": "又来屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0676",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙2洞",
+      "NAME_CNG": "又来屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0677",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑1洞",
+      "NAME_CNG": "我们的江山"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0678",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "城北洞",
+      "NAME_CNG": "我们的小麦面条"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0679",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "龙新洞",
+      "NAME_CNG": "友利餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0680",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "高尺2洞",
+      "NAME_CNG": "友利餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0681",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "友利餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0682",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "东化洞",
+      "NAME_CNG": "友利餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0683",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "堂山2洞",
+      "NAME_CNG": "友利餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0684",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "仁水洞",
+      "NAME_CNG": "友利餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0685",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "城山1洞",
+      "NAME_CNG": "友利餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0686",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "我家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0687",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "道谷1洞",
+      "NAME_CNG": "牛味阁"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0688",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "仓1洞",
+      "NAME_CNG": "优美馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0689",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "嘉会洞",
+      "NAME_CNG": "联排别墅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0690",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "友情餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0691",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "中央洞",
+      "NAME_CNG": "友情餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0692",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "友情餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0693",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "牛村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0694",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "去鸣梁海峡的路"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0695",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "圆光"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0696",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "三田洞",
+      "NAME_CNG": "圆光"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0697",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新亭2洞",
+      "NAME_CNG": "瓜棚"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0698",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "元祖菜包肉店(论岘本店)"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0699",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "千戸2洞",
+      "NAME_CNG": "原州泥鳅汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0700",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "黄鹤洞",
+      "NAME_CNG": "圆奶奶本家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0701",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "月香"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0702",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草4洞",
+      "NAME_CNG": "伟大的饭桌荣光的江南站"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0703",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "盘浦4洞",
+      "NAME_CNG": "儒多"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0704",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "儒林"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0705",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "钟岩洞",
+      "NAME_CNG": "悠亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0706",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "悠亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0707",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "始兴1洞",
+      "NAME_CNG": "柳靖饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0708",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "钟岩洞",
+      "NAME_CNG": "柳靖饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0709",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "有振"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0710",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "中谷1洞",
+      "NAME_CNG": "尤珍生鱼片海产"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0711",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "619rib"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0712",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "六七八"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0713",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新林洞",
+      "NAME_CNG": "银星会馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0714",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "银杏树"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0715",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "杨坪1洞",
+      "NAME_CNG": "银杏树"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0716",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "内谷洞",
+      "NAME_CNG": "银杏树屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0717",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "新内1洞",
+      "NAME_CNG": "银杏树屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0718",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "银杏树屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0719",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "长旨洞",
+      "NAME_CNG": "乙支路海螺"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0720",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "大学洞",
+      "NAME_CNG": "议政府"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0721",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才2洞",
+      "NAME_CNG": "议政府"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0722",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背本洞",
+      "NAME_CNG": "议政府"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0723",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "樊1洞",
+      "NAME_CNG": "李家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0724",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "舍堂1洞",
+      "NAME_CNG": "李家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0725",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "李家面屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0726",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "Inamjang(三成洞分店)"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0514",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "弘恩2洞",
+      "NAME_CNG": "松梧里"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0515",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "松屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0516",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "松原"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0517",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "奖忠洞",
+      "NAME_CNG": "松原"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0518",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草2洞",
+      "NAME_CNG": "松岘"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0519",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "寿江"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0520",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "堂山1洞",
+      "NAME_CNG": "御膳"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0521",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "水刺厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0522",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷4洞",
+      "NAME_CNG": "韩国餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0523",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "城内1洞",
+      "NAME_CNG": "水晶餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0524",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "上凤2洞",
+      "NAME_CNG": "水乡"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0525",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "淑子家部队火锅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0526",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "道谷2洞",
+      "NAME_CNG": "大厨弗洛"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0527",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "道谷2洞",
+      "NAME_CNG": "明星厨师"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0528",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "乡村小路"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0529",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "乡村农庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0530",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "开浦4洞",
+      "NAME_CNG": "农家乐"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0531",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "农家乐"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0532",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "农家乐"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0533",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "中和2洞",
+      "NAME_CNG": "农家乐"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0534",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "吉洞",
+      "NAME_CNG": "农家乐"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0535",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三2洞",
+      "NAME_CNG": "农家乐"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0536",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "津宽洞",
+      "NAME_CNG": "农家饭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0537",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "杨坪1洞",
+      "NAME_CNG": "农家乐包饭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0538",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新院洞",
+      "NAME_CNG": "农家乐包饭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0539",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "乡村小屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0540",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "龙新洞",
+      "NAME_CNG": "乡村小屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0541",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "乡村小屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0542",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "龙新洞",
+      "NAME_CNG": "乡村小屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0543",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "北加佐2洞",
+      "NAME_CNG": "乡村小屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0544",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "仓1洞",
+      "NAME_CNG": "乡村小屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0545",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "道峰2洞",
+      "NAME_CNG": "乡村小屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0546",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "光熙洞",
+      "NAME_CNG": "乡村小屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0547",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "光熙洞",
+      "NAME_CNG": "乡村小屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0548",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "落星垈洞",
+      "NAME_CNG": "乡村小屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0549",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "堂山1洞",
+      "NAME_CNG": "乡村小屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0550",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "紫阳4洞",
+      "NAME_CNG": "乡村泥鳅汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0551",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才2洞",
+      "NAME_CNG": "息影亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0552",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷6洞",
+      "NAME_CNG": "新麻浦烤肉"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0553",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "弥阿洞",
+      "NAME_CNG": "新麻浦烤肉"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0554",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "放鹤1洞",
+      "NAME_CNG": "新麻浦烤肉"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0555",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "新麻浦烤肉"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0556",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "始兴1洞",
+      "NAME_CNG": "新麻浦烤肉"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0557",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "神仙牛杂汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0558",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "新安村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0559",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "新亭(江南分店)"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0560",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "新亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0561",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老2洞",
+      "NAME_CNG": "身土不二"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0562",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "汝矣岛洞",
+      "NAME_CNG": "新韩国馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0563",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "忘忧本洞",
+      "NAME_CNG": "细雨饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0564",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背2洞",
+      "NAME_CNG": "细雨饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0565",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩1洞",
+      "NAME_CNG": "心家面玉"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0566",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "松中洞",
+      "NAME_CNG": "小荆家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0567",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "面牧2洞",
+      "NAME_CNG": "超爱琵琶鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0568",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "吉洞",
+      "NAME_CNG": "老大爷血肠(朝鲜风味血肠)"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0569",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "内谷洞",
+      "NAME_CNG": "安村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0570",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "乙支路洞",
+      "NAME_CNG": "安城家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0571",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "爱留轩"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0572",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "内谷洞",
+      "NAME_CNG": "药水山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0573",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "梧柳2洞",
+      "NAME_CNG": "矿泉处花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0574",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "汝矣岛洞",
+      "NAME_CNG": "好多羊"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0575",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "Yangmani(清潭分店)"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0576",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "良味屋(三成洞分店)"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0577",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "酿造厂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0578",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "九宜3洞",
+      "NAME_CNG": "阳村里"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0579",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "阳村里"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0580",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "阳村里"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0581",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "月渓1洞",
+      "NAME_CNG": "杨平醒酒汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0582",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "御廊"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0583",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "丘陵"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0584",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "上道1洞",
+      "NAME_CNG": "妈妈手"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0585",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木4洞",
+      "NAME_CNG": "妈妈手餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0586",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "千戸1洞",
+      "NAME_CNG": "妈妈手切刀面"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0587",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才2洞",
+      "NAME_CNG": "真诚友情"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0588",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙4洞",
+      "NAME_CNG": "丽水梧桐岛"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0589",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "塩里洞",
+      "NAME_CNG": "龙山站前会馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0590",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": " 延陀勃"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0591",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": " 延陀勃"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0592",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "延禧洞",
+      "NAME_CNG": "延禧洞刀切面"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0593",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "火车之家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0594",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "瑞林洞",
+      "NAME_CNG": "荣光餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0595",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "蚕院洞",
+      "NAME_CNG": "岭东牛杂汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0596",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "婚礼殿堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0597",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "面牧2洞",
+      "NAME_CNG": "映上江"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0598",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "秃山3洞",
+      "NAME_CNG": "映上江"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0599",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "紫阳2洞",
+      "NAME_CNG": "映上江"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0600",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "典农1洞",
+      "NAME_CNG": "营养中心"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0601",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "永川永化食肉食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0602",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "中渓本洞",
+      "NAME_CNG": "艺家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0603",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "礼堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0604",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老5洞",
+      "NAME_CNG": "艺素潭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0605",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "艺园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0606",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草1洞",
+      "NAME_CNG": "艺殿"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0607",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草2洞",
+      "NAME_CNG": "礼村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0608",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙2洞",
+      "NAME_CNG": "礼乡"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0609",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成2洞",
+      "NAME_CNG": "礼乡"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0610",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "礼乡"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0611",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "可乐2洞",
+      "NAME_CNG": "古村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0612",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "平仓洞",
+      "NAME_CNG": "古谷土城"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0613",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "上凤2洞",
+      "NAME_CNG": "古谷土城"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0614",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背4洞",
+      "NAME_CNG": "古谷土城"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0615",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "登村3洞",
+      "NAME_CNG": "古谷土城"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0616",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "老村子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0617",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "老村子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0618",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "道谷1洞",
+      "NAME_CNG": "老村子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0619",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "松中洞",
+      "NAME_CNG": "老村子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0727",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷6洞",
+      "NAME_CNG": "伊朗"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0728",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓2洞",
+      "NAME_CNG": "李相排骨(芦原分店)"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0729",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵3洞",
+      "NAME_CNG": "李相刀切面锅巴炖鸡"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0730",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "东村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0731",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩3洞",
+      "NAME_CNG": "李朝排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0732",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "杏堂1洞",
+      "NAME_CNG": "利川"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0733",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "仁寺洞-那家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0734",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "仁寿峰"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0735",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "回基洞",
+      "NAME_CNG": "一味"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0736",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "细谷洞",
+      "NAME_CNG": "一味餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0737",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "忠岘洞",
+      "NAME_CNG": "一味餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0738",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月7洞",
+      "NAME_CNG": "日出司机饭馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0739",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "中谷2洞",
+      "NAME_CNG": "临津江"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0740",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "龙踏洞",
+      "NAME_CNG": "姐妹餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0741",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "松中洞",
+      "NAME_CNG": "姐妹餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0742",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草2洞",
+      "NAME_CNG": "兹山鱼谱"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0743",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "望远2洞",
+      "NAME_CNG": "自由餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0744",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "兰谷洞",
+      "NAME_CNG": "喜面"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0745",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "筵席店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0746",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室本洞",
+      "NAME_CNG": "韩国餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0747",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "龙江洞",
+      "NAME_CNG": "张家烤肠"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0748",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "龙江洞",
+      "NAME_CNG": "长江"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0749",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "中谷2洞",
+      "NAME_CNG": "将军排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0750",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "中央洞",
+      "NAME_CNG": "将军屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0751",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "平仓洞",
+      "NAME_CNG": "酱缸台"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0752",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路5.6街洞",
+      "NAME_CNG": "玫瑰"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0753",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "将厢房"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0754",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾1洞",
+      "NAME_CNG": "長壽牛排"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0755",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "小公洞",
+      "NAME_CNG": "長壽牛排"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0756",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "君子洞",
+      "NAME_CNG": "長壽牛排"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0757",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "仁水洞",
+      "NAME_CNG": "长水四季汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0758",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草2洞",
+      "NAME_CNG": "长寿食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0759",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "面牧本洞",
+      "NAME_CNG": "长寿食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0760",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背本洞",
+      "NAME_CNG": "长寿园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0761",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷6洞",
+      "NAME_CNG": "长寿园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0762",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩3洞",
+      "NAME_CNG": "长寿屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0763",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "弘恩2洞",
+      "NAME_CNG": "长寿村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0764",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "城山2洞",
+      "NAME_CNG": "市政厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0765",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾2洞",
+      "NAME_CNG": "长安切面"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0766",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "鳗鱼村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0767",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑1洞",
+      "NAME_CNG": "鳗鱼村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0768",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "千戸1洞",
+      "NAME_CNG": "庄园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0769",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "中和1洞",
+      "NAME_CNG": "长位洞柳成家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0770",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "吉洞",
+      "NAME_CNG": "长位洞柳成家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0771",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "奖忠洞王猪蹄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0772",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "上凤2洞",
+      "NAME_CNG": "奖忠王猪腿"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0773",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "小公洞",
+      "NAME_CNG": "玉杯果酱"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0774",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三2洞",
+      "NAME_CNG": "田园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0775",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "奖忠洞",
+      "NAME_CNG": "田园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0776",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "内谷洞",
+      "NAME_CNG": "田园花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0777",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "佛光1洞",
+      "NAME_CNG": "田园包饭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0778",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "钵山1洞",
+      "NAME_CNG": "田园日记"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0779",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩1洞",
+      "NAME_CNG": "全州餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0780",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "华阳洞",
+      "NAME_CNG": "全州餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0781",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "全州餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0782",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "昌信2洞",
+      "NAME_CNG": "全州餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0783",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "上道3洞",
+      "NAME_CNG": "全州餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0784",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "大兴洞",
+      "NAME_CNG": "全州餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0785",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "新吉4洞",
+      "NAME_CNG": "全州餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0786",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "青坡洞",
+      "NAME_CNG": "全州餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0787",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "石村洞",
+      "NAME_CNG": "全州餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0788",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "圣水2街1洞",
+      "NAME_CNG": "全州餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0789",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "文来洞",
+      "NAME_CNG": "全州餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0790",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷4洞",
+      "NAME_CNG": "全州餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0791",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "津宽洞",
+      "NAME_CNG": "全州餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0792",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "枣园洞",
+      "NAME_CNG": "全州餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0793",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "新堂5洞",
+      "NAME_CNG": "全州餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0794",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "仁水洞",
+      "NAME_CNG": "全州餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0795",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "清云孝子洞",
+      "NAME_CNG": "全州餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0796",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "圣水2街1洞",
+      "NAME_CNG": "全州餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0797",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "吉音2洞",
+      "NAME_CNG": "全州餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0798",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "三阳洞",
+      "NAME_CNG": "全州营养汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0799",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室本洞",
+      "NAME_CNG": "全州黄豆芽汤饭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0800",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "巨余1洞",
+      "NAME_CNG": "全州醒酒汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0801",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "往十里2洞",
+      "NAME_CNG": "郑氏家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0802",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "郑氏家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0803",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "鹭梁津1洞",
+      "NAME_CNG": "正东津"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0804",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "可乐2洞",
+      "NAME_CNG": "精选"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0805",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "弘恩1洞",
+      "NAME_CNG": "庭园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0806",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "庭园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0807",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾3洞",
+      "NAME_CNG": "精肉店餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0808",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位1洞",
+      "NAME_CNG": "井邑"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0809",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "正一品"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0810",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室本洞",
+      "NAME_CNG": "燕子院"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0811",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "圣水2街3洞",
+      "NAME_CNG": "第一"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0812",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "第一院子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0813",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑1洞",
+      "NAME_CNG": "济州沙锅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0814",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "青龙洞",
+      "NAME_CNG": "济州银带鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0815",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "忘忧本洞",
+      "NAME_CNG": "济州港"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0816",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "水西洞",
+      "NAME_CNG": "朝鲜面屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0817",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才2洞",
+      "NAME_CNG": "朝鲜面屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0818",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "盘浦4洞",
+      "NAME_CNG": "朝鲜面屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0819",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "弥阿洞",
+      "NAME_CNG": "朝鲜屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0820",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓2洞",
+      "NAME_CNG": "朝鲜屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0821",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "宗家府"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0822",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩1洞",
+      "NAME_CNG": "好样"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0823",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "青龙洞",
+      "NAME_CNG": "好奉天站店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0824",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木1洞",
+      "NAME_CNG": "注文津"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0825",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背1洞",
+      "NAME_CNG": "智异山早晨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0826",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "仓1洞",
+      "NAME_CNG": "志豪韩方参鸡汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0827",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "延禧洞",
+      "NAME_CNG": "志豪韩方参鸡汤延禧店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0828",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "新沙1洞",
+      "NAME_CNG": "真价碳烤肉"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0829",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草4洞",
+      "NAME_CNG": "珍岛家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0830",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "珍岛家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0831",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "遁村2洞",
+      "NAME_CNG": "珍味馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0832",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "杏堂2洞",
+      "NAME_CNG": "珍味餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0941",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "仁水洞",
+      "NAME_CNG": "土房"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0942",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "风纳2洞",
+      "NAME_CNG": "土房"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0943",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "津宽洞",
+      "NAME_CNG": "土俗亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0944",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "延禧洞",
+      "NAME_CNG": "土俗村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0945",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩1洞",
+      "NAME_CNG": "本土米肠汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0946",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "佛光1洞",
+      "NAME_CNG": "原木屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0947",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "内谷洞",
+      "NAME_CNG": "原木屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0948",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "双门3洞",
+      "NAME_CNG": "原木屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0949",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木2洞",
+      "NAME_CNG": "原木屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0950",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "中和2洞",
+      "NAME_CNG": "统荣蚝饭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0951",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "松坡1洞",
+      "NAME_CNG": "统荣蚝饭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0952",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "统荣蚝饭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0953",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "文井1洞",
+      "NAME_CNG": "廊檐餐桌"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0954",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "孔陵1洞",
+      "NAME_CNG": "八道"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0955",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "石串洞",
+      "NAME_CNG": "平壤面屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0956",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "水西洞",
+      "NAME_CNG": "平昌排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0957",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "葡萄食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0958",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "长旨洞",
+      "NAME_CNG": "捕盗厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0959",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "青海"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0960",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新亭3洞",
+      "NAME_CNG": "倒酒屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0961",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "大林3洞",
+      "NAME_CNG": "倒酒屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0962",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "秃山1洞",
+      "NAME_CNG": "丰富之家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0963",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "草香"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0964",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "风景"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0965",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "可乐1洞",
+      "NAME_CNG": "丰年排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0966",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩3洞",
+      "NAME_CNG": "丰年名节"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0967",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "开浦4洞",
+      "NAME_CNG": "丰川淡水鳗鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0968",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "高徳1洞",
+      "NAME_CNG": "丰川鳗鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0969",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓3.4洞",
+      "NAME_CNG": "丰川鳗鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0970",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "龙门洞",
+      "NAME_CNG": "丰川鳗鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0971",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "丰川鳗鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0972",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "丰川鳗鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0973",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "蚕院洞",
+      "NAME_CNG": "Pro酱蟹"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0974",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "PRO酱蟹(三成店)"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0975",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "平壤老奶奶"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0976",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "水西洞",
+      "NAME_CNG": "必敬斋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0977",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "仓5洞",
+      "NAME_CNG": "韩牛"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0978",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "三田洞",
+      "NAME_CNG": "天坛"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0979",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "河东馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0980",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "石村洞",
+      "NAME_CNG": "一天"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0981",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓3.4洞",
+      "NAME_CNG": "哈尔坊猪肉坊"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0982",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才2洞",
+      "NAME_CNG": "白家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0983",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "吉洞",
+      "NAME_CNG": "韩国餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0984",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "西冰库洞",
+      "NAME_CNG": "汉江花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0985",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "韩国馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0986",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "南営洞",
+      "NAME_CNG": "韩国馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0987",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "塩仓洞",
+      "NAME_CNG": "韩国馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0988",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "道谷1洞",
+      "NAME_CNG": "韩国馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0989",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "韩国会馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0990",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "米星洞",
+      "NAME_CNG": "韩麻卢"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0991",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背4洞",
+      "NAME_CNG": "韩麻卢"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0992",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "韩美庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0993",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑1洞",
+      "NAME_CNG": "韩爱"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0994",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "葛岘2洞",
+      "NAME_CNG": "韩国餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0995",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "北阿岘洞",
+      "NAME_CNG": "韩瑞"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0996",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "汉城馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0997",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "汉城馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0998",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "内谷洞",
+      "NAME_CNG": "韩素朴"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0999",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "南加佐2洞",
+      "NAME_CNG": "韩松亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1000",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "大学洞",
+      "NAME_CNG": "韩锅便当"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1001",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "华阳洞",
+      "NAME_CNG": "韩锅便当"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1002",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "中渓1洞",
+      "NAME_CNG": "韩锅便当"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1003",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "樊1洞",
+      "NAME_CNG": "汉阳花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1004",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "毋岳洞",
+      "NAME_CNG": "韩屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1005",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵3洞",
+      "NAME_CNG": "韩屋餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1006",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "开浦2洞",
+      "NAME_CNG": "韩宇利"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1007",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "韩牛村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1008",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "黄鹤洞",
+      "NAME_CNG": "韩牛村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1009",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "韩牛湾"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1010",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "乙支路洞",
+      "NAME_CNG": "韩牛村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1011",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "上岩洞",
+      "NAME_CNG": "韩牛村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1012",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "一只牛"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1013",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "平仓洞",
+      "NAME_CNG": "韩牛香味"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1014",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背3洞",
+      "NAME_CNG": "韩宇"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1015",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "韩一馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1016",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "双门3洞",
+      "NAME_CNG": "韩一餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1017",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "韩一庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1018",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "城内3洞",
+      "NAME_CNG": "韩村牛肉汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1019",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "汉滩江"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1020",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙2洞",
+      "NAME_CNG": "老奶奶蚬汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1021",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉江路洞",
+      "NAME_CNG": "咸鏡麵屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1022",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "成贤洞",
+      "NAME_CNG": "咸池"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1023",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "驿村洞",
+      "NAME_CNG": "咸兴冷面"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1024",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "面牧5洞",
+      "NAME_CNG": "咸兴面屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1025",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵3洞",
+      "NAME_CNG": "缸"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1026",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩3洞",
+      "NAME_CNG": "缸罐家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1027",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "缸罐刀削面"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1028",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "城山2洞",
+      "NAME_CNG": "韩国餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1029",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "上凤2洞",
+      "NAME_CNG": "日出屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1030",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "水色洞",
+      "NAME_CNG": "日出屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1031",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "祭基洞",
+      "NAME_CNG": "阳光庭院"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1032",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "阳光庭院"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1033",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "龙江洞",
+      "NAME_CNG": "海鲜世界"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1034",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "新吉1洞",
+      "NAME_CNG": "海鲜世界"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1035",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "梧柳2洞",
+      "NAME_CNG": "海鮮村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1036",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "海鲜刀切面"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1037",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩1洞",
+      "NAME_CNG": "汉密尔"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1038",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "内谷洞",
+      "NAME_CNG": "海星花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1039",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "舍堂4洞",
+      "NAME_CNG": "太阳升起"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1040",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "南加佐2洞",
+      "NAME_CNG": "太阳升起"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1041",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "孔陵1洞",
+      "NAME_CNG": "海圆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1042",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "登村3洞",
+      "NAME_CNG": "海月土墙农家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1043",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成2洞",
+      "NAME_CNG": "碧海之恋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1044",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷2洞",
+      "NAME_CNG": "快乐时光"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1045",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "幸福饭桌"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1046",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "桃花洞",
+      "NAME_CNG": "檜樹屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1047",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "檜樹屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-1048",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "忠岘洞",
+      "NAME_CNG": "乡村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0512",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "堂山2洞",
+      "NAME_CNG": "松柏饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0513",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "松岩"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0833",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "黒石洞",
+      "NAME_CNG": "珍味餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0834",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "珍味餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0835",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "昌信1洞",
+      "NAME_CNG": "珍味餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0836",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "南営洞",
+      "NAME_CNG": "珍味亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0837",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "枣园洞",
+      "NAME_CNG": "珍味亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0838",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成2洞",
+      "NAME_CNG": "珍味居"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0839",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "堂山2洞",
+      "NAME_CNG": "珍味居"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0840",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "龙江洞",
+      "NAME_CNG": "进士宅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0841",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草2洞",
+      "NAME_CNG": "珍象(瑞草店)"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0842",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路5.6街洞",
+      "NAME_CNG": "晋州家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0843",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "南岘洞",
+      "NAME_CNG": "橡树屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0844",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "阿岘洞",
+      "NAME_CNG": "橡树屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0845",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "下渓1洞",
+      "NAME_CNG": "黄牛花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0846",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "普门洞",
+      "NAME_CNG": "真味谷"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0847",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "汝矣岛洞",
+      "NAME_CNG": "好梨树沟(汝矣岛店)"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0848",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "道峰1洞",
+      "NAME_CNG": "麻雀磨坊"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0849",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "里门1洞",
+      "NAME_CNG": "麻雀磨坊"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0850",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "弘恩2洞",
+      "NAME_CNG": "顶级木炭村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0851",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "顶级木炭村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0852",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓2洞",
+      "NAME_CNG": "真味土豆排骨汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0853",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "真好味牛骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0854",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙2洞",
+      "NAME_CNG": "菜根谭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0855",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草1洞",
+      "NAME_CNG": "彩石江"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0856",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "菜鲜堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0857",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "登村1洞",
+      "NAME_CNG": "菜鲜堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0858",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "明逸2洞",
+      "NAME_CNG": "菜鲜堂明逸店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0859",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷3洞",
+      "NAME_CNG": "天下太平"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0860",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙1洞",
+      "NAME_CNG": "韩国餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0861",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才2洞",
+      "NAME_CNG": "清溪山美味"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0862",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "可乐本洞",
+      "NAME_CNG": "清溪碳烤肉"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0863",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "空港洞",
+      "NAME_CNG": "青瓦"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0864",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背4洞",
+      "NAME_CNG": "青瓦屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0865",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "孔陵1洞",
+      "NAME_CNG": "青瓦屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0866",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "清潭巷弄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0867",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "清潭鳆(河豚)家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0868",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "吉洞",
+      "NAME_CNG": "青梁"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0869",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "三田洞",
+      "NAME_CNG": "青木"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0870",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "青山园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0871",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "风纳2洞",
+      "NAME_CNG": "青松餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0872",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "甑山洞",
+      "NAME_CNG": "青松餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0873",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "青梅鹰洞",
+      "NAME_CNG": "青松面屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0874",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "光熙洞",
+      "NAME_CNG": "清水"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0875",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "大学洞",
+      "NAME_CNG": "清水面屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0876",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾3洞",
+      "NAME_CNG": "清秀大麦饭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0877",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "清水富湯"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0878",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "三清洞",
+      "NAME_CNG": "靑受亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0879",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "清净生鱼片"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0880",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "马场洞",
+      "NAME_CNG": "清进洞醒酒汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0881",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "始兴1洞",
+      "NAME_CNG": "清进洞醒酒汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0882",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "清进洞醒酒汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0883",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "登村2洞",
+      "NAME_CNG": "清进洞醒酒汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0884",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "千戸3洞",
+      "NAME_CNG": "清进洞醒酒汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0885",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "面牧3.8洞",
+      "NAME_CNG": "清进洞醒酒汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0886",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "龙新洞",
+      "NAME_CNG": "清进洞醒酒汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0887",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新亭2洞",
+      "NAME_CNG": "青海大计城"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0888",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷2洞",
+      "NAME_CNG": "青海津"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0889",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "城内1洞",
+      "NAME_CNG": "青海津"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0890",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "草家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0891",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "草家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0892",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "草家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0893",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老5洞",
+      "NAME_CNG": "草家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0894",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路5.6街洞",
+      "NAME_CNG": "草堂站"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0895",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背2洞",
+      "NAME_CNG": "楚彤家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0896",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老5洞",
+      "NAME_CNG": "草原"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0897",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "草原"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0898",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "草原"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0899",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "草原花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0900",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老5洞",
+      "NAME_CNG": "草原花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0901",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "嘉会洞",
+      "NAME_CNG": "草原花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0902",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "高尺2洞",
+      "NAME_CNG": "草原食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0903",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "加山洞",
+      "NAME_CNG": "草原食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0904",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "米星洞",
+      "NAME_CNG": "草原食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0905",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "草原食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0906",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "中谷2洞",
+      "NAME_CNG": "草原食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0907",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "城山2洞",
+      "NAME_CNG": "崔固执"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0908",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "崔固执"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0909",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "驿村洞",
+      "NAME_CNG": "崔固执刀削面"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0910",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "城内2洞",
+      "NAME_CNG": "秋风岭土豆火锅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0911",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "秋风岭土豆火锅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0912",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "春子鳕鱼汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0913",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "加山洞",
+      "NAME_CNG": "春川屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0914",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "回基洞",
+      "NAME_CNG": "春川王烤雞排"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0915",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "平仓洞",
+      "NAME_CNG": "春川屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0916",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木1洞",
+      "NAME_CNG": "春川屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0917",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "孝昌洞",
+      "NAME_CNG": "春夏秋冬"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0918",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "津宽洞",
+      "NAME_CNG": "春夏秋冬"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0919",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草2洞",
+      "NAME_CNG": "春夏秋冬"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0920",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "可乐本洞",
+      "NAME_CNG": "春香谷南元泥鰍鱼汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0921",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "忠武路小章鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0922",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "Kogii Kogii"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0923",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙2洞",
+      "NAME_CNG": "克巴克"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0924",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "开浦4洞",
+      "NAME_CNG": "黄豆芽汤饭 "
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0925",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "嘉会洞",
+      "NAME_CNG": "豆爱情"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0926",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "Koo Dining"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0927",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "大枣洞",
+      "NAME_CNG": "磐石"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0928",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙2洞",
+      "NAME_CNG": "大屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0929",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "龙踏洞",
+      "NAME_CNG": "泰陵烤排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0930",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "佛光2洞",
+      "NAME_CNG": "泰安水产"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0931",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "长旨洞",
+      "NAME_CNG": "太平洋水产"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0932",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "樊1洞",
+      "NAME_CNG": "超级市场"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0933",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "光熙洞",
+      "NAME_CNG": "土墙"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0934",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "大兴洞",
+      "NAME_CNG": "土墙"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0935",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "松中洞",
+      "NAME_CNG": "土墙"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0936",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "大学洞",
+      "NAME_CNG": "土墙"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0937",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "大学洞",
+      "NAME_CNG": "土墙"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0938",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新亭1洞",
+      "NAME_CNG": "土墙巷弄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0939",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "始兴1洞",
+      "NAME_CNG": "土墙巷弄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0354",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "清云孝子洞",
+      "NAME_CNG": "白松"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0355",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "白岩米肠"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0356",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "葛岘2洞",
+      "NAME_CNG": "白岩王米肠"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0357",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草1洞",
+      "NAME_CNG": "白岩王米肠"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0358",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "白云山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0359",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "白云山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0360",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "高尺1洞",
+      "NAME_CNG": "百合"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0361",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "竹屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0362",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "船笛"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0363",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "江一洞",
+      "NAME_CNG": "柳树家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0364",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "梧琴洞",
+      "NAME_CNG": "柳树家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0365",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "柳树家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0366",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "阿岘洞",
+      "NAME_CNG": "柳树家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0367",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "仓2洞",
+      "NAME_CNG": "柳树家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0368",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "往十里道诜洞",
+      "NAME_CNG": "柳树家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0369",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草2洞",
+      "NAME_CNG": "柳树家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0370",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉江路洞",
+      "NAME_CNG": "蘑菇村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0371",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "Bums流浪者"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0372",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑1洞",
+      "NAME_CNG": "碧帝排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0373",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "三清洞",
+      "NAME_CNG": "别宫食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0374",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "别堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0375",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "普门洞",
+      "NAME_CNG": "别美情"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0376",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月7洞",
+      "NAME_CNG": "稻草烤肉村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0377",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "逸院1洞",
+      "NAME_CNG": "稻草烤肉村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0378",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "鹭梁津2洞",
+      "NAME_CNG": "竝川米肠"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0379",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "杨坪2洞",
+      "NAME_CNG": "竝川米肠"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0380",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙2洞",
+      "NAME_CNG": "菩提树"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0381",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "遁村2洞",
+      "NAME_CNG": "麦谷"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0382",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "延禧洞",
+      "NAME_CNG": "宝物岛"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0383",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "宝元"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0384",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "普通人家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0385",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "本家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0386",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "本家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0387",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位2洞",
+      "NAME_CNG": "本家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0388",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "凤山屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0389",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉江路洞",
+      "NAME_CNG": "凤山家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0390",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "山峰"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0391",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "凤雏炖鸡"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0392",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "松中洞",
+      "NAME_CNG": "凤雏炖鸡"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0393",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "沙斤洞",
+      "NAME_CNG": "凤雏炖鸡"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0394",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "东仙洞",
+      "NAME_CNG": "凤雏炖鸡"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0395",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑1洞",
+      "NAME_CNG": "本平壤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0396",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "甑山洞",
+      "NAME_CNG": "凤熙牛杂汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0397",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "布杜磨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0398",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "紫阳4洞",
+      "NAME_CNG": "富临亭木炭烤肉"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0399",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "富民屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0400",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "长安1洞",
+      "NAME_CNG": "釜山河豚家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0401",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "釜山河豚家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0402",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "梧琴洞",
+      "NAME_CNG": "釜山河豚家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0403",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "釜山河豚家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0404",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "清凉里洞",
+      "NAME_CNG": "釜山食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0405",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "釜山食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0406",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "釜山家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0407",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "富一烤排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0408",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "平仓洞",
+      "NAME_CNG": "北岳亭-李相排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0409",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "东仙洞",
+      "NAME_CNG": "北村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0410",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "寺洞面屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0411",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "孔徳洞",
+      "NAME_CNG": "厢房"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0412",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "厢房"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0413",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "梨花洞",
+      "NAME_CNG": "厢房"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0414",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "文井1洞",
+      "NAME_CNG": "舍廊房"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0415",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背1洞",
+      "NAME_CNG": "舍廊房"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0416",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "上道1洞",
+      "NAME_CNG": "沙里院"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0417",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "放鹤1洞",
+      "NAME_CNG": "沙里院"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0418",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "堂山2洞",
+      "NAME_CNG": "思潮金枪鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0419",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "内谷洞",
+      "NAME_CNG": "山高水长"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0420",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "石串洞",
+      "NAME_CNG": "山谷餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0421",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "南岘洞",
+      "NAME_CNG": "山顶"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0422",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "山之爱"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0423",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "高徳2洞",
+      "NAME_CNG": "山里花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0424",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "南岘洞",
+      "NAME_CNG": "山水甲山"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0425",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "圣水2街3洞",
+      "NAME_CNG": "山水亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0426",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "龟山洞",
+      "NAME_CNG": "山水亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0427",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "内谷洞",
+      "NAME_CNG": "山水亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0428",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "山上的硫磺鸭子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0429",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "广壮洞",
+      "NAME_CNG": "山蔚"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0430",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "平仓洞",
+      "NAME_CNG": "山有花"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0431",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "奖忠洞",
+      "NAME_CNG": "山有花"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0432",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "遁村2洞",
+      "NAME_CNG": "山庄花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0433",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "山井"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0434",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "山村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0435",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "珊瑚"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0436",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "钵山1洞",
+      "NAME_CNG": "杏树庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0437",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才1洞",
+      "NAME_CNG": "三岔路口"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0438",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "葛岘1洞",
+      "NAME_CNG": "三岔口饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0439",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "沙斤洞",
+      "NAME_CNG": "三岔口饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0440",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "大方洞",
+      "NAME_CNG": "三乐"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0441",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "三友庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0442",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "三元花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0443",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "下渓1洞",
+      "NAME_CNG": "三清阁"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0444",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背本洞",
+      "NAME_CNG": "三湖花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0445",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月2洞",
+      "NAME_CNG": "三湖花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0446",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草2洞",
+      "NAME_CNG": "三号福家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0447",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "常乐园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0448",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "新村食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0449",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "秃山3洞",
+      "NAME_CNG": "新村食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0450",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "回基洞",
+      "NAME_CNG": "新村食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0451",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室本洞",
+      "NAME_CNG": "新村食堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0452",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "清晨家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0453",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "青梅鹰洞",
+      "NAME_CNG": "泉水花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0454",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "源泉大厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0455",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "徐罗伐"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0456",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "安岩洞",
+      "NAME_CNG": "西莱"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0457",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室本洞",
+      "NAME_CNG": "西莱"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0458",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "葛岘2洞",
+      "NAME_CNG": "西莱"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0459",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "南営洞",
+      "NAME_CNG": "西莱"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0460",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "瑞麟章鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0461",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "佳阳1洞",
+      "NAME_CNG": "西西排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0462",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "狎鸥亭立食烤排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0463",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "新大方1洞",
+      "NAME_CNG": "首尔花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0464",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "杨坪1洞",
+      "NAME_CNG": "首尔砂锅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0465",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "龙新洞",
+      "NAME_CNG": "首尔餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0466",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "杨坪1洞",
+      "NAME_CNG": "首尔餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0467",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓5洞",
+      "NAME_CNG": "首尔餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0468",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "千戸1洞",
+      "NAME_CNG": "首尔餐馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0469",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "奖忠洞",
+      "NAME_CNG": "首尔俱乐部"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0470",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "瑞草谷"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0471",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "石兰"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0472",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "上道3洞",
+      "NAME_CNG": "雪岳泥鳅汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0473",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "城北洞",
+      "NAME_CNG": "城对面家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0474",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "城北洞",
+      "NAME_CNG": "城北洞锅巴白煮鸡"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0475",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "城北洞",
+      "NAME_CNG": "城北洞烤猪小牌店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0476",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "九宜2洞",
+      "NAME_CNG": "星愿餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0477",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木2洞",
+      "NAME_CNG": "圣地餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0478",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "世宗花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0479",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "小公洞沙锅店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0480",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "小公洞",
+      "NAME_CNG": "小公洞沙锅店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0481",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "盘浦4洞",
+      "NAME_CNG": "小公洞沙锅店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0482",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "阿岘洞",
+      "NAME_CNG": "松树"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0483",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "松树"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0484",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "青梅鹰洞",
+      "NAME_CNG": "松树屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0485",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "津宽洞",
+      "NAME_CNG": "松树屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0486",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙4洞",
+      "NAME_CNG": "素淡"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0487",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "东仙洞",
+      "NAME_CNG": "素淡"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0247",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "黒石洞",
+      "NAME_CNG": "吊桶"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0248",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩3洞",
+      "NAME_CNG": "斗美山谷"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0249",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "逸院1洞",
+      "NAME_CNG": "斗美山谷"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0250",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "豆腐村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0251",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "紫阳1洞",
+      "NAME_CNG": "豆腐村"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0252",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "津宽洞",
+      "NAME_CNG": "豆腐院子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0253",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "金湖2.3街洞",
+      "NAME_CNG": "窝巢"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0254",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "野草"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0255",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "清云孝子洞",
+      "NAME_CNG": "野草"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0256",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "上道1洞",
+      "NAME_CNG": "野草"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0257",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老3洞",
+      "NAME_CNG": "藤树屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0258",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "清凉里洞",
+      "NAME_CNG": "藤树屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0259",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "藤树屋"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0260",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "紫阳1洞",
+      "NAME_CNG": "登村刀削面"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0261",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "庭院"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0262",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "九宜3洞",
+      "NAME_CNG": "庭院"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0263",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "庭院"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0264",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "龙江洞",
+      "NAME_CNG": "Lamb Land"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0265",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙4洞",
+      "NAME_CNG": "明夫人"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0266",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "忠岘洞",
+      "NAME_CNG": "院子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0267",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "马山炖琵琶鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0268",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "开峰1洞",
+      "NAME_CNG": "马山炖琵琶鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0269",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "石村洞",
+      "NAME_CNG": "马山炖琵琶鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0270",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "樊2洞",
+      "NAME_CNG": "马山炖琵琶鱼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0488",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "石村洞",
+      "NAME_CNG": "素淡"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0489",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "弘済1洞",
+      "NAME_CNG": "素淡"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0490",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三2洞",
+      "NAME_CNG": "牛脊"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0491",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "杨坪2洞",
+      "NAME_CNG": "牛头肉浓汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0492",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月7洞",
+      "NAME_CNG": "牛头肉浓汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0493",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "韩国餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0494",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩3洞",
+      "NAME_CNG": "素饭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0495",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才2洞",
+      "NAME_CNG": "小白山"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0496",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才2洞",
+      "NAME_CNG": "小白山花园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0497",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "松中洞",
+      "NAME_CNG": "莲池"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0498",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "祭基洞",
+      "NAME_CNG": "小亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0499",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才2洞",
+      "NAME_CNG": "笑豪亭"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0500",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "小公洞",
+      "NAME_CNG": "束草鲜明太鱼汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0501",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "城北洞",
+      "NAME_CNG": "孙家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0502",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "仁水洞",
+      "NAME_CNG": "韩国餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0503",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "大方洞",
+      "NAME_CNG": "松林巷"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0504",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "松川洞",
+      "NAME_CNG": "松田木炭排骨"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0505",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "杨坪2洞",
+      "NAME_CNG": "松香"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0506",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "元暁路1洞",
+      "NAME_CNG": "松香"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0507",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "高杆旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0508",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "延南洞",
+      "NAME_CNG": "松潭泥鳅汤"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0509",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "清凉里洞",
+      "NAME_CNG": "韩国餐厅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW16-0510",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "紫阳3洞",
+      "NAME_CNG": "松林饭店"
+    }
+  ]
+}

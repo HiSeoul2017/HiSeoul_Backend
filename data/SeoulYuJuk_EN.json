@@ -1,0 +1,1110 @@
+{
+  "DESCRIPTION": {
+    "H_ENG_CITY": "행정 시",
+    "NAME_ENG": "명칭",
+    "H_ENG_GU": "행정 구",
+    "H_ENG_DONG": "행정 동",
+    "MAIN_KEY": "메인 키"
+  },
+  "DATA": [
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gajeongdang",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0001"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gangnyeongjeon Hall",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0002"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Graveyard for Geochang Sin Clan",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Ogeum-dong",
+      "MAIN_KEY": "BE_LiST40-0003"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geoncheonggung Palace of Gyeongbokgung",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0004"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Goksuji Pond of Gyeongbokgung",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0005"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jagyeongjeon Hall of Gyeongbokgung",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0006"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "hyangwonjeon of Gyeongbokgung",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0007"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gyeonghoeru Pavilion",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0008"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gyeonghungak",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0009"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gyeonghuigung Palace Site",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sajik-dong",
+      "MAIN_KEY": "BE_LiST40-0010"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Twin Lion Stone Lantern from Godalsa Temple Site",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Seobinggo-dong",
+      "MAIN_KEY": "BE_LiST40-0011"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Shrine of King Gongmin",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0012"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The Site of Office of Meteorology and Astronomy",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0013"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Tombstone of the Great King Gwanggyeto",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Namyeong-dong",
+      "MAIN_KEY": "BE_LiST40-0014"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Tomb of Prince Gwangpyeong",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Irwonbon-dong",
+      "MAIN_KEY": "BE_LiST40-0015"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Graveyard for Prince Gwangpyeong",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Suseo-dong",
+      "MAIN_KEY": "BE_LiST40-0016"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gwanghwamun Gate",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0017"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gyotaejeon",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0018"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "April 19th National Cemetery",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Ui-dong",
+      "MAIN_KEY": "BE_LiST40-0019"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul National Cemetery",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sadang2-dong",
+      "MAIN_KEY": "BE_LiST40-0020"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geumjeongmun",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0021"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geunjeongjeon Hall of Gyeongbokgung Palace",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0022"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Vajracchedika prajnaparamita Sutra (The Diamond Sutra",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Cheongnyangni-dong",
+      "MAIN_KEY": "BE_LiST40-0023"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geumwon Garden",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0024"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Statue of General Kim Yusin",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST40-0025"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Nakseonjae Pavilion",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0026"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Nakseongdae",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Nakseongdae-dong",
+      "MAIN_KEY": "BE_LiST40-0027"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Namsangol Hanok Village",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST40-0028"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Namsan Beacon Fire Station",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST40-0029"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Namsan Beacon Fire Station Site",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST40-0030"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Naeuiwon Royal Hospital",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0031"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Octagonal Seven-story Stone Pagoda ",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0032"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Statue of Dasan Jeong Yakyong ",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Huam-dong",
+      "MAIN_KEY": "BE_LiST40-0033"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Danbongmun",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0034"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daeonsil the Great Glass House",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0035"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daeungjeon Hall Buddhist Painting of King Gamno   ",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sadang2-dong",
+      "MAIN_KEY": "BE_LiST40-0036"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daejojeon Hall",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0037"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daehanmun",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Sogong-dong",
+      "MAIN_KEY": "BE_LiST40-0038"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gwangmyeongmun Gate of Deoksugung Palace",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Sogong-dong",
+      "MAIN_KEY": "BE_LiST40-0039"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Statue of King Sejong the Great of Deoksugung Palace",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Sogong-dong",
+      "MAIN_KEY": "BE_LiST40-0040"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Carpenter Yi Seungeop's House",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST40-0041"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dongnimmun Gate",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Cheonyeon-dong",
+      "MAIN_KEY": "BE_LiST40-0042"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Donhwamun Gate",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0043"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dongjeongmun Gate",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0044"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mangmyoru",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0045"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Myeongjeongjeon Hall",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0046"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mongchontoseong (Earthen Fortress)",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Oryun-dong",
+      "MAIN_KEY": "BE_LiST40-0047"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mumyeonggak",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0048"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mujeongjeon Hall",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0049"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Graveyard for Munhwa Ryu Clan",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Ogeum-dong",
+      "MAIN_KEY": "BE_LiST40-0050"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ancient Tombs in Bangi-dong",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Oryun-dong",
+      "MAIN_KEY": "BE_LiST40-0051"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Baengnyeonsa Temple",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Ui-dong",
+      "MAIN_KEY": "BE_LiST40-0052"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "White Horse Statue",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Neung-dong",
+      "MAIN_KEY": "BE_LiST40-0053"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Baekbeom Plaza",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST40-0054"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Statue of Baekbeom Kim Gu",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hyochang-dong",
+      "MAIN_KEY": "BE_LiST40-0055"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Baekje Ancient Tombs",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi1-dong",
+      "MAIN_KEY": "BE_LiST40-0056"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Clepsydra of Borugak Pavilion",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Sogong-dong",
+      "MAIN_KEY": "BE_LiST40-0057"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bronze Bell of Bosingak Pavilion",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Seobinggo-dong",
+      "MAIN_KEY": "BE_LiST40-0058"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Busanjin sunjeoldo (Patriotic Martyrs at the Battle of Busanjin Fortress)",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Gongneung2-dong",
+      "MAIN_KEY": "BE_LiST40-0059"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Buyongjeong Pavilion",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0060"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sajeongjeon Hall ",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0061"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samgukji Yeonuido Folk Painting",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sajik-dong",
+      "MAIN_KEY": "BE_LiST40-0062"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sambong Jeong Dojeon's Poetry Monument",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0063"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samjeondobi (Monument)",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil3-dong",
+      "MAIN_KEY": "BE_LiST40-0064"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Taereung and Gangneung Royal Tombs, Seoul ",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Gongneung2-dong",
+      "MAIN_KEY": "BE_LiST40-0065"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seokeodang ",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Sogong-dong",
+      "MAIN_KEY": "BE_LiST40-0066"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seonjeongneung (Tomb)",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong2-dong",
+      "MAIN_KEY": "BE_LiST40-0067"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "World Peace Gate",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Oryun-dong",
+      "MAIN_KEY": "BE_LiST40-0068"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Soaknu Pavilion",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Gayang1-dong",
+      "MAIN_KEY": "BE_LiST40-0069"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Portrait of Song Siyeol",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sajik-dong",
+      "MAIN_KEY": "BE_LiST40-0070"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sujeongjeon Chamber",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0071"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sunginwon Royal Tomb",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Cheongnyangni-dong",
+      "MAIN_KEY": "BE_LiST40-0072"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sungjeongngjeon Hall",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sajik-dong",
+      "MAIN_KEY": "BE_LiST40-0073"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Old and New Celestial Charts",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0074"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chimney with Ten Symbols of Longevity in Relief",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0075"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Achasan Beacon Fire Station Site",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Muk1-dong",
+      "MAIN_KEY": "BE_LiST40-0076"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Achasan Beacon Fire Station Ground",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Muk1-dong",
+      "MAIN_KEY": "BE_LiST40-0077"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Akgongcheong",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0078"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Statue of Patriot Ahn Junggeun",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Huam-dong",
+      "MAIN_KEY": "BE_LiST40-0079"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Prehistoric Settlement Site in Amsa-dong",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Amsa2-dong",
+      "MAIN_KEY": "BE_LiST40-0080"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Eojeong",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0081"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Graveyard for Yeo Gye",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Gocheok2-dong",
+      "MAIN_KEY": "BE_LiST40-0082"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeonsangun Royal Tomb",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Banghak3-dong",
+      "MAIN_KEY": "BE_LiST40-0083"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeonchumun Gate",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0084"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Plinths of Yeongeunmun Gate",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Cheonyeon-dong",
+      "MAIN_KEY": "BE_LiST40-0085"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeongjegyo Bridge",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0086"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeongchunheon",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0087"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeonghuiwon",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Cheongnyangni-dong",
+      "MAIN_KEY": "BE_LiST40-0088"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yejangdong zelkova",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST40-0089"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Commander Kim Chunyeong's House in Samcheong-dong",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST40-0090"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Oakcheongyo(Br.)",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0091"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Wolgye-dong Gaksimjae",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Wolgye2-dong",
+      "MAIN_KEY": "BE_LiST40-0092"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Statue of Yoo Kwan-Sun",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Jangchung-dong",
+      "MAIN_KEY": "BE_LiST40-0093"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Statue of Admiral Eulji Mundeok ",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Neung-dong",
+      "MAIN_KEY": "BE_LiST40-0094"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Uireung",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Seokgwan-dong",
+      "MAIN_KEY": "BE_LiST40-0095"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Uipunggak",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0096"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ihwajang House",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Ihwa-dong",
+      "MAIN_KEY": "BE_LiST40-0097"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Injeongmun Gate",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0098"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Injeongjeon",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0099"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeonsacheong",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0100"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "War Memorial of Korea, Monuments for Killed in Action",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Namyeong-dong",
+      "MAIN_KEY": "BE_LiST40-0101"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Streetcar No. 363",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0102"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeonggwanheon",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Sogong-dong",
+      "MAIN_KEY": "BE_LiST40-0103"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeongneung (A Royal Tomb)",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung2-dong",
+      "MAIN_KEY": "BE_LiST40-0104"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bronze Gong of the Fifth Jeongwoo Year",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_LiST40-0105"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeonghyeon Queen's neung (Stone Tomb)",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong2-dong",
+      "MAIN_KEY": "BE_LiST40-0106"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seolleung Royal Tomb",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong2-dong",
+      "MAIN_KEY": "BE_LiST40-0107"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Portrait of King Yeongjo ",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0108"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeongneung Royal Tomb",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong2-dong",
+      "MAIN_KEY": "BE_LiST40-0109"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeongnyeongjeon Hall of Jongmyo Shrine",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0110"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jaejeong Well of Jongmyo Shrine",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0111"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Juhamnu(Gyujanggak Bldg)",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0112"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Junghwamun Gate ",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Sogong-dong",
+      "MAIN_KEY": "BE_LiST40-0113"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeukjodang(Hall)",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Sogong-dong",
+      "MAIN_KEY": "BE_LiST40-0114"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Stupa of State Preceptor Jigwang ",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0115"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Honghwamun Gate of Changgyeonggung Palace ",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0116"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Changnyeongwigung Ritual House",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Beon3-dong",
+      "MAIN_KEY": "BE_LiST40-0117"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Changdeokgung Palace and Huwon",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0118"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Graveyard for Lady Changbin An",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sadang2-dong",
+      "MAIN_KEY": "BE_LiST40-0119"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cheonnyeonuimun",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Sangam-dong",
+      "MAIN_KEY": "BE_LiST40-0120"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Celestial Chart Stone",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Sogong-dong",
+      "MAIN_KEY": "BE_LiST40-0121"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cheonchujeon Hall",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0122"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cheonkwonsa Shrine",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Bangbae1-dong",
+      "MAIN_KEY": "BE_LiST40-0123"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Tombs in Choansan Mountain",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Wolgye2-dong",
+      "MAIN_KEY": "BE_LiST40-0124"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Graveyard for Lord Chungsuk Yi Sanggil",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Hagye1-dong",
+      "MAIN_KEY": "BE_LiST40-0125"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Graveyard for Lord Chungheon Kim Gu",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Oryun-dong",
+      "MAIN_KEY": "BE_LiST40-0126"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chilsadang Government Office of Joseon",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0127"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gangneung of Taegangneung Royal Tombs (World Heritage)",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Gongneung2-dong",
+      "MAIN_KEY": "BE_LiST40-0128"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Taereung of Taegangneung Royal Tombs (World Heritage)",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Gongneung2-dong",
+      "MAIN_KEY": "BE_LiST40-0129"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Taereung Royal Tomb / Royal Tomb of Queen Munjeong",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Gongneung2-dong",
+      "MAIN_KEY": "BE_LiST40-0130"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Tongmyeongjeon Hall ",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0131"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Wind Streamer Pedestal",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0132"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Wind Streamer Pedestal",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0133"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hamyangmun",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0134"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Graveyard for Hamyang Yeo Clan",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Gocheok2-dong",
+      "MAIN_KEY": "BE_LiST40-0135"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Haminjeong Pavilion",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0136"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hyangdaecheong",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0137"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Heolleung and Illeung Royal Tombs(World Heritage)",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Naegok-dong",
+      "MAIN_KEY": "BE_LiST40-0138"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Illeung of Heonilleung Royal Tombs",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Naegok-dong",
+      "MAIN_KEY": "BE_LiST40-0139"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Heolleung of Heonilleung Royal Tombs",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Naegok-dong",
+      "MAIN_KEY": "BE_LiST40-0140"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hogukjijangsa Temple",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sadang2-dong",
+      "MAIN_KEY": "BE_LiST40-0141"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Heungnyemun Gate",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0142"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hongneung Royal Tomb / Royal Tomb of King Gojong",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Cheongnyangni-dong",
+      "MAIN_KEY": "BE_LiST40-0143"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Honghwamun Gate",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sajik-dong",
+      "MAIN_KEY": "BE_LiST40-0144"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Graveyard for Lord Hyogan Yi Jeongyeong",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sadang4-dong",
+      "MAIN_KEY": "BE_LiST40-0145"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hyoryeongdaegunneung Tomb ",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Bangbae1-dong",
+      "MAIN_KEY": "BE_LiST40-0146"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Graveyard for Prince Hyoryeong Yi Bo",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Bangbae1-dong",
+      "MAIN_KEY": "BE_LiST40-0147"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Huijeongdang Hall",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0148"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gyeongbokgung Palace ",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST40-0149"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gyeonghuigung Palace",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sajik-dong",
+      "MAIN_KEY": "BE_LiST40-0150"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daedongmun",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Insu-dong",
+      "MAIN_KEY": "BE_LiST40-0151"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Deoksugung Palace",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Sogong-dong",
+      "MAIN_KEY": "BE_LiST40-0152"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sungnyemun Gate",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Sogong-dong",
+      "MAIN_KEY": "BE_LiST40-0153"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jongmyo Shrine(World Heritage)",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0154"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Changgyeonggung Palace",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0155"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Changgyeonggung Palace(World Heritage)",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST40-0156"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Heonjun Memorial Hall",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Gayang2-dong",
+      "MAIN_KEY": "BE_LiST40-0157"
+    }
+  ]
+}

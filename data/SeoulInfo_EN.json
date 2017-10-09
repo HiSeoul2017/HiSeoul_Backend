@@ -1,0 +1,220 @@
+{
+  "DESCRIPTION": {
+    "H_ENG_CITY": "행정 시",
+    "NAME_ENG": "배포장소 이름",
+    "H_ENG_GU": "행정 구",
+    "TEL": "전화",
+    "H_ENG_DONG": "행정 동",
+    "MAIN_KEY": "키"
+  },
+  "DATA": [
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Myeongdong Tourist Information Center",
+      "H_ENG_GU": "Jung-gu",
+      "TEL": "02-778-0333",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_IW05-0001"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "JEJU Tourist Information Center",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "TEL": "02-785-2210",
+      "H_ENG_DONG": "Yeoui-dong",
+      "MAIN_KEY": "BE_IW05-0002"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gangnam Tourist Information Center",
+      "H_ENG_GU": "Gangnam-gu",
+      "TEL": "02-3445-0111",
+      "H_ENG_DONG": "Sinsa-dong",
+      "MAIN_KEY": "BE_IW05-0003"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Global Cultural Experience Center",
+      "H_ENG_GU": "Jung-gu",
+      "TEL": "02-3789-7961",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_IW05-0004"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gwanghwamun Tourist Information Center",
+      "H_ENG_GU": "Jongno-gu",
+      "TEL": "02-735-8688",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_IW05-0005"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gimpo International Airport Tourist Information Center",
+      "H_ENG_GU": "Gangseo-gu",
+      "TEL": "02-2660-2486",
+      "H_ENG_DONG": "Gonghang-dong",
+      "MAIN_KEY": "BE_IW05-0006"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Namdaemun Market Tourist Information Center",
+      "H_ENG_GU": "Jung-gu",
+      "TEL": "02-752-1913",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_IW05-0007"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Namdaemun Market Tourist Information Center",
+      "H_ENG_GU": "Jung-gu",
+      "TEL": "02-2153-0407",
+      "H_ENG_DONG": "Gwanghui-dong",
+      "MAIN_KEY": "BE_IW05-0008"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Global Cultural Center",
+      "H_ENG_GU": "Jung-gu",
+      "TEL": "02-3789-7961",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_IW05-0009"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jamsil Tourist Information Center ",
+      "H_ENG_GU": "Songpa-gu",
+      "TEL": "02-3431-9472",
+      "H_ENG_DONG": "Jamsil3-dong",
+      "MAIN_KEY": "BE_IW05-0010"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gyeongbokgung Palace Tourist Translator Information Center",
+      "H_ENG_GU": "Jongno-gu",
+      "TEL": "02-774-3238",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_IW05-0011"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dongdaemun Tourist Information Center ",
+      "H_ENG_GU": "Jung-gu",
+      "TEL": "02-2236-9135",
+      "H_ENG_DONG": "Gwanghui-dong",
+      "MAIN_KEY": "BE_IW05-0012"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samilgyo Tourist Information Center ",
+      "H_ENG_GU": "Jongno-gu",
+      "TEL": "02-720-0872",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_IW05-0013"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "the Seoul Citizens Hall Tourist Information Center ",
+      "H_ENG_GU": "Jung-gu",
+      "TEL": "02-739-7755",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_IW05-0014"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hongik University Entrance Tourist Information Center ",
+      "H_ENG_GU": "Mapo-gu",
+      "TEL": "02-323-2240",
+      "H_ENG_DONG": "Hapjeong-dong",
+      "MAIN_KEY": "BE_IW05-0015"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Itaewon Station Tourist Information Center ",
+      "H_ENG_GU": "Yongsan-gu",
+      "TEL": "02-3785-0942",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_IW05-0016"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Naminsa Tourist Information Center",
+      "H_ENG_GU": "Jongno-gu",
+      "TEL": "02-737-7885",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_IW05-0017"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Buginsa Tourist Information Center",
+      "H_ENG_GU": "Jongno-gu",
+      "TEL": "02-734-0222",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_IW05-0018"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bukchon Jaedong Tourist Information Center",
+      "H_ENG_GU": "Jongno-gu",
+      "TEL": "02-2148-4160",
+      "H_ENG_DONG": "Gahoe-dong",
+      "MAIN_KEY": "BE_IW05-0019"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bukchon Hwadong Tourist Information Center",
+      "H_ENG_GU": "Jongno-gu",
+      "TEL": "02-2148-4161",
+      "H_ENG_DONG": "Samcheong-dong",
+      "MAIN_KEY": "BE_IW05-0020"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Insadong P.R Center",
+      "H_ENG_GU": "Jongno-gu",
+      "TEL": "02-737-7890",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_IW05-0021"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mapo Tourism Center",
+      "H_ENG_GU": "Mapo-gu",
+      "TEL": "02-334-7878",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_IW05-0022"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinchon Station Tourist Information Center",
+      "H_ENG_GU": "Mapo-gu",
+      "TEL": "02-363-7833",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_IW05-0023"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Itaewon Station Tourist Translator Information Center ",
+      "H_ENG_GU": "Yongsan-gu",
+      "TEL": "02-794-5579",
+      "H_ENG_DONG": "Hannam-dong",
+      "MAIN_KEY": "BE_IW05-0024"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Myeongdong Tourist Translator Information Center",
+      "H_ENG_GU": "Jung-gu",
+      "TEL": "02-774-3238",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_IW05-0025"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Korea Tourism Organization TIC",
+      "H_ENG_GU": "Jung-gu",
+      "TEL": "02-729-9497",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_IW05-0026"
+    }
+  ]
+}

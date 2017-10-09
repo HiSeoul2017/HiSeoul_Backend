@@ -1,0 +1,1124 @@
+{
+  "DESCRIPTION": {
+    "H_CNG_CITY": "행정 시",
+    "MAIN_KEY": "메인 키",
+    "H_CNG_GU": "행정 구",
+    "H_CNG_DONG": "행정 동",
+    "NAME_CNG": "명칭"
+  },
+  "DATA": [
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0097",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "RAZA酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0098",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "南営洞",
+      "NAME_CNG": "Hotel Rainbow（长虹大酒店）"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0099",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "雷克斯酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0100",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "勒克西酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0101",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "首尔皇家酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0102",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓6.7洞",
+      "NAME_CNG": "丽兹酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0103",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "上凤2洞",
+      "NAME_CNG": "美观光酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0104",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙4洞",
+      "NAME_CNG": "大调酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0105",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "小公洞",
+      "NAME_CNG": "瓦比恩2号套房服务式公寓"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0106",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成2洞",
+      "NAME_CNG": "百丽酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0107",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "吉洞",
+      "NAME_CNG": "百丽酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0108",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "威尼斯酒店 "
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0109",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "佛光1洞",
+      "NAME_CNG": "贝拉吉奥酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0110",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "昌信1洞",
+      "NAME_CNG": "Samho Hotel"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0111",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "首尔酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0112",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草4洞",
+      "NAME_CNG": "西湖酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0113",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "双门3洞",
+      "NAME_CNG": "旅游酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0114",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "星星酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0115",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "东仙洞",
+      "NAME_CNG": "电影院酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0116",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "青龙洞",
+      "NAME_CNG": "电影院酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0117",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "奖忠洞",
+      "NAME_CNG": "新罗酒店迎宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0118",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "上宾酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0119",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "吉洞",
+      "NAME_CNG": "亚果酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0120",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三2洞",
+      "NAME_CNG": "爱玛乐酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0121",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三2洞",
+      "NAME_CNG": "IMI酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0122",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "仁水洞",
+      "NAME_CNG": "学院酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0123",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "南営洞",
+      "NAME_CNG": "首尔爱丽酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0124",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成2洞",
+      "NAME_CNG": "M Biz Hotel(首尔M碧姿酒店)"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0125",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "大兴洞",
+      "NAME_CNG": "M酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0126",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "旅馆麽尼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0127",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "光熙洞",
+      "NAME_CNG": "旅游酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0128",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "五轮洞",
+      "NAME_CNG": "奥林匹克公园特尔"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0129",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "柳阳酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0130",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "有愿酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0131",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "伊莎贝尔酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0132",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成2洞",
+      "NAME_CNG": "巨人酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0133",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "朱英21"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0134",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "合井洞",
+      "NAME_CNG": "居尼宾精品酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0135",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷6洞",
+      "NAME_CNG": "卡尔顿酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0136",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "城内2洞",
+      "NAME_CNG": "韩国观光酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0137",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "三田洞",
+      "NAME_CNG": "韩国酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0138",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "汝矣岛洞",
+      "NAME_CNG": "首尔考波士酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0139",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷本洞",
+      "NAME_CNG": "主题酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0140",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "上凤2洞",
+      "NAME_CNG": "主题酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0141",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "光熙洞",
+      "NAME_CNG": "东横酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0142",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "旅游酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0143",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "Tomgi酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0144",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "TETE"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0145",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "钵山1洞",
+      "NAME_CNG": "提帕尼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0146",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "公主酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0147",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "清凉里洞",
+      "NAME_CNG": "百花酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0148",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "君子洞",
+      "NAME_CNG": "品酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0149",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "酒店G"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0150",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "乡间别墅酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0151",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "加山洞",
+      "NAME_CNG": "MIND酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0152",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "忘忧本洞",
+      "NAME_CNG": "L&S酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0153",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "徽庆1洞",
+      "NAME_CNG": "KP酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0154",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "蒂芬妮观光酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0155",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "CF酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0156",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "碌磻洞",
+      "NAME_CNG": "安东Gallery酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0157",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "首尔伙伴之家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0158",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "首尔世林酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0159",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "Jelly酒店 "
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0001",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "盘浦4洞",
+      "NAME_CNG": "首尔JW万豪酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0002",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "汝矣岛洞",
+      "NAME_CNG": "MEA首尔"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0003",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "广壮洞",
+      "NAME_CNG": "首尔华克山庄W酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0004",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "奖忠洞",
+      "NAME_CNG": "首尔大使铂尔曼酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0005",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "首尔格兰洲际酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0006",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "首尔君悦酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0007",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "弘恩2洞",
+      "NAME_CNG": "希尔顿大酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0008",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "诺富特江南大使酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0009",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "傍花2洞",
+      "NAME_CNG": "金浦机场乐天城市酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0010",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "首尔乐天酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0011",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室3洞",
+      "NAME_CNG": "乐天世界酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0012",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "文艺复兴酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0013",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "钵山1洞",
+      "NAME_CNG": "Mayfield酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0014",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "首尔希尔顿千禧酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0015",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "奖忠洞",
+      "NAME_CNG": "首尔榕树俱乐部&酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0016",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "盘浦4洞",
+      "NAME_CNG": "首尔宫殿酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0017",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "广壮洞",
+      "NAME_CNG": "华克山庄喜来登酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0018",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "新道林洞",
+      "NAME_CNG": "首尔 D 立方市喜来登酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0019",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "奖忠洞",
+      "NAME_CNG": "首尔新罗酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0020",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "埃露艾酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0021",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "小公洞",
+      "NAME_CNG": "威斯汀朝鲜酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0022",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "首尔江南世贸中心洲际酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0023",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "首尔皇宫酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0024",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "汝矣岛洞",
+      "NAME_CNG": "首尔港丽酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0025",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙2洞",
+      "NAME_CNG": "首尔帕悦酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0026",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "小公洞",
+      "NAME_CNG": "广场酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0027",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "首尔丽思卡尔顿酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0028",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "秃山4洞",
+      "NAME_CNG": "首尔诺富特秃山大使酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0029",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成2洞",
+      "NAME_CNG": "首尔华美达酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0030",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "小公洞",
+      "NAME_CNG": "华美达大酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0031",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "汝矣岛洞",
+      "NAME_CNG": "列克星敦酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0032",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "阿岘洞",
+      "NAME_CNG": "麻浦乐天城市酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0033",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "最佳西方高级江南酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0034",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "塩仓洞",
+      "NAME_CNG": "最佳西方尼亚加拉酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0035",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "桃花洞",
+      "NAME_CNG": "假日酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0036",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "世宗酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0037",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "上岩洞",
+      "NAME_CNG": "首尔斯坦福酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0038",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "乙支路洞",
+      "NAME_CNG": "阿卡西亚酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0039",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "西冰库洞",
+      "NAME_CNG": "首都酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0040",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "韩国酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0041",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "首尔太平洋酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0042",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "普瑞玛酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0043",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "里维埃拉酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0044",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "总统酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0045",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "光熙洞",
+      "NAME_CNG": "PJ酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0046",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "钟岩洞",
+      "NAME_CNG": "城北假日酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0047",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "长安2洞",
+      "NAME_CNG": "庆南观光饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0048",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓6.7洞",
+      "NAME_CNG": "贵族"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0049",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷6洞",
+      "NAME_CNG": "怀旧酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0050",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "石村洞",
+      "NAME_CNG": "滨湖酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0051",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "塩仓洞",
+      "NAME_CNG": "江边公园观光酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0052",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "麦特劳大酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0053",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "松中洞",
+      "NAME_CNG": "维多利亚酒店 "
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0054",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "沙威酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0055",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "三亭观光酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0056",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "首尔瑞克斯酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0057",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "阿斯托利亚酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0058",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙4洞",
+      "NAME_CNG": "宜必思首尔大使酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0059",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "汝矣岛洞",
+      "NAME_CNG": "汝矣岛酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0060",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "永东酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0061",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "可乐本洞",
+      "NAME_CNG": "加利福尼亚观光酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0062",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "梨泰院皇冠酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0063",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "仁寺洞皇冠酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0064",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "特里亚酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0065",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "波普格林观光酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0066",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "首尔王子大酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0067",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "广壮洞",
+      "NAME_CNG": "汉江酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0068",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "汉密尔顿酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0069",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "登村2洞",
+      "NAME_CNG": "绿世界酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0070",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷6洞",
+      "NAME_CNG": "新丽江酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0071",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "典农1洞",
+      "NAME_CNG": "New Bu Lim Hotel"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0072",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "蚕院洞",
+      "NAME_CNG": "巴比伦酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0073",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "普门洞",
+      "NAME_CNG": "布朗观光酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0074",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "秘苑观光酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0075",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室本洞",
+      "NAME_CNG": "蚕室观光酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0076",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草1洞",
+      "NAME_CNG": "友谊酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0077",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "酒店R"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0078",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "首尔嘟嘟酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0079",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "空港洞",
+      "NAME_CNG": "金浦机场酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0080",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三2洞",
+      "NAME_CNG": "CF酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0081",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "龙踏洞",
+      "NAME_CNG": "JJ Hotel"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0082",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才2洞",
+      "NAME_CNG": "首尔 K 酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0083",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "南営洞",
+      "NAME_CNG": "伽倻观光酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0084",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "古宫酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0085",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成2洞",
+      "NAME_CNG": "绿草酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0086",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "合井洞",
+      "NAME_CNG": "南京"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0087",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "贵族酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0088",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "诺克斯酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0089",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "首尔新东方酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0090",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "乙支路洞",
+      "NAME_CNG": "新天地观光酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0091",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "New Hill Top 观光饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0092",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "蚕院洞",
+      "NAME_CNG": "河堤酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0093",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "中林洞",
+      "NAME_CNG": "DRDL"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0094",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "大兴洞",
+      "NAME_CNG": "拉奴伊特酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0095",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "La Mir酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST37-0096",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "旅游酒店"
+    }
+  ]
+}

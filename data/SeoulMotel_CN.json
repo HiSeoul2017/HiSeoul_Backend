@@ -1,0 +1,2391 @@
+{
+  "DESCRIPTION": {
+    "H_CNG_CITY": "행정시",
+    "MAIN_KEY": "키",
+    "H_CNG_GU": "행정구",
+    "H_CNG_DONG": "행정동",
+    "NAME_CNG": "명칭"
+  },
+  "DATA": [
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0273",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "日新山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0274",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "易姆斯庄园酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0275",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "崇仁2洞",
+      "NAME_CNG": "Java旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0276",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "平仓洞",
+      "NAME_CNG": "紫霞门宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0277",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "新吉6洞",
+      "NAME_CNG": "第一旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0278",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "青龙洞",
+      "NAME_CNG": "第一山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0279",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷本洞",
+      "NAME_CNG": "乔伊娜"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0280",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "中谷3洞",
+      "NAME_CNG": "朱诺"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0281",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "加里峰洞",
+      "NAME_CNG": "晋阳旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0282",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老2洞",
+      "NAME_CNG": "昌原山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0283",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "圣水2街1洞",
+      "NAME_CNG": "天水山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0284",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "加里峰洞",
+      "NAME_CNG": "清水山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0285",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "清水山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0286",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "千戸3洞",
+      "NAME_CNG": "青云山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0287",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "中和2洞",
+      "NAME_CNG": "清原山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0288",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "南営洞",
+      "NAME_CNG": "大提琴"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0289",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "清凉里洞",
+      "NAME_CNG": "初室山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0290",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "崇仁2洞",
+      "NAME_CNG": "草原山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0291",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新林洞",
+      "NAME_CNG": "草原公园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0292",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "松坡1洞",
+      "NAME_CNG": "美人蕉"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0293",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "青龙洞",
+      "NAME_CNG": "Kay ester"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0294",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新林洞",
+      "NAME_CNG": "Cube Motel"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0295",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "Crux"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0296",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "Crossing十字宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0297",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷本洞",
+      "NAME_CNG": "克罗彩旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0298",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "青龙洞",
+      "NAME_CNG": "克里奥旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0299",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "新大方1洞",
+      "NAME_CNG": "顶级旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0300",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "toptel"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0301",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "祭基洞",
+      "NAME_CNG": "泰林山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0302",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "陵洞",
+      "NAME_CNG": "太和山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0303",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "触摸旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0304",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "华阳洞",
+      "NAME_CNG": "主题"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0305",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老5洞",
+      "NAME_CNG": "主题21"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0306",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "落星垈洞",
+      "NAME_CNG": "主题25时"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0307",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "典农1洞",
+      "NAME_CNG": "主题旅店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0308",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "九宜3洞",
+      "NAME_CNG": "主题酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0309",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "天堂"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0310",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "吉洞",
+      "NAME_CNG": "Tripe-R（江东吉洞）旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0311",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成2洞",
+      "NAME_CNG": "T"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0312",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "塩仓洞",
+      "NAME_CNG": "蒂罗尔宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0313",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "空港洞",
+      "NAME_CNG": "提帕尼"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0001",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "松树公寓"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0002",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才1洞",
+      "NAME_CNG": "Tovice公寓"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0003",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "青龙洞",
+      "NAME_CNG": "21世纪旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0004",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "塩仓洞",
+      "NAME_CNG": "CL汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0005",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0006",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "龙新洞",
+      "NAME_CNG": "M汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0007",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "千戸2洞",
+      "NAME_CNG": "UNI汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0008",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0009",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "那边旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0010",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "梧柳2洞",
+      "NAME_CNG": "Gelleoria汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0011",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "南岘洞",
+      "NAME_CNG": "豪华旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0012",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "龙踏洞",
+      "NAME_CNG": "金刚山旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0013",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "吉洞",
+      "NAME_CNG": "吉洞旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0014",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾1洞",
+      "NAME_CNG": "娜都汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0015",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾1洞",
+      "NAME_CNG": "贵族汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0016",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "来宝酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0017",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓6.7洞",
+      "NAME_CNG": "新蒙德旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0018",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "仁水洞",
+      "NAME_CNG": "旅客旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0019",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "紫阳4洞",
+      "NAME_CNG": "大东汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0020",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "the view旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0021",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "葛岘1洞",
+      "NAME_CNG": "德寿旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0022",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "迪奥旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0023",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "佛光2洞",
+      "NAME_CNG": "Lanos旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0024",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "东仙洞",
+      "NAME_CNG": "华美达高级旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0025",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "Lifestyle旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0026",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "彩虹酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0027",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新亭4洞",
+      "NAME_CNG": "洛代奥旅社"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0028",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "面牧7洞",
+      "NAME_CNG": "洛代奥旅社"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0029",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "雷诺酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0030",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "东仙洞",
+      "NAME_CNG": "里维埃拉旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0031",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "明逸1洞",
+      "NAME_CNG": "麻麻旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0032",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "Meridian旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0033",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "摩洛哥酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0034",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩1洞",
+      "NAME_CNG": "Su旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0035",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "往十里道诜洞",
+      "NAME_CNG": "米兰汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0036",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "仁水洞",
+      "NAME_CNG": "巴兰西亚汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0037",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "贝拉吉奥酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0038",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "波波酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0039",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "塩仓洞",
+      "NAME_CNG": "本旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0040",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "放鹤2洞",
+      "NAME_CNG": "西厢旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0041",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "三五旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0042",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "三田洞",
+      "NAME_CNG": "三友旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0043",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "中谷1洞",
+      "NAME_CNG": "萨蒙旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0044",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "山姆旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0045",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "香格里拉酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0046",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "阳光公园旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0047",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "Sereubil旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0048",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓6.7洞",
+      "NAME_CNG": "乌贼旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0049",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背本洞",
+      "NAME_CNG": "雪尔旅社"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0050",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "君子洞",
+      "NAME_CNG": "雪尔住宅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0051",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "佛光2洞",
+      "NAME_CNG": "雪尔住宅"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0052",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "长安2洞",
+      "NAME_CNG": "休旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0053",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "天空旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0054",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "天空旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0055",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室本洞",
+      "NAME_CNG": "天空旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0056",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "华阳洞",
+      "NAME_CNG": "天空旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0057",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "长安2洞",
+      "NAME_CNG": "电影院"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0058",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "紫阳4洞",
+      "NAME_CNG": "电影院"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0059",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0060",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾3洞",
+      "NAME_CNG": "电影院旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0061",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "大枣洞",
+      "NAME_CNG": "西安旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0062",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "樊1洞",
+      "NAME_CNG": "午休旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0063",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "梧柳2洞",
+      "NAME_CNG": "汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0064",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "松中洞",
+      "NAME_CNG": "新世界旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0065",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "秃山4洞",
+      "NAME_CNG": "阿罗马旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0066",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室本洞",
+      "NAME_CNG": "亚洲旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0067",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "加山洞",
+      "NAME_CNG": "埃菲尔六月旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0068",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "九宜2洞",
+      "NAME_CNG": "Emkeolleo旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0069",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "M酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0070",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "盘浦4洞",
+      "NAME_CNG": "奥斯卡旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0071",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "奥斯陆宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0072",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "普门洞",
+      "NAME_CNG": "联盟旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0073",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "吉洞",
+      "NAME_CNG": "由美旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0074",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "龙踏洞",
+      "NAME_CNG": "银山酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0075",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "开峰2洞",
+      "NAME_CNG": "初夏旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0076",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月2洞",
+      "NAME_CNG": "青瓦旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0077",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾3洞",
+      "NAME_CNG": "大提琴旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0078",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "大提琴旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0079",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "大提琴旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0080",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "巧克力酒店 "
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0081",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "巧克力酒店 "
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0082",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "Cafri卡普里"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0083",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷本洞",
+      "NAME_CNG": "Q旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0084",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "吉洞",
+      "NAME_CNG": "塔楼旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0085",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "上道2洞",
+      "NAME_CNG": "主题旅店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0086",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "面牧2洞",
+      "NAME_CNG": "主题旅店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0087",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "往十里道诜洞",
+      "NAME_CNG": "天国"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0088",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾1洞",
+      "NAME_CNG": "Palace宾馆 "
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0089",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "花园路宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0090",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "樊1洞",
+      "NAME_CNG": "庭院宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0091",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新林洞",
+      "NAME_CNG": "葡萄宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0092",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室本洞",
+      "NAME_CNG": "品旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0093",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月1洞",
+      "NAME_CNG": "布拉格汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0094",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "吉洞",
+      "NAME_CNG": "Prima酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0095",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "普门洞",
+      "NAME_CNG": "钢琴酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0096",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "仁水洞",
+      "NAME_CNG": "毕加索旅店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0097",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "忘忧本洞",
+      "NAME_CNG": "海伊汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0098",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "落星垈洞",
+      "NAME_CNG": "海特旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0099",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "青龙洞",
+      "NAME_CNG": "天上花园宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0100",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新林洞",
+      "NAME_CNG": "韩丽山庄宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0101",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "墨2洞",
+      "NAME_CNG": "汉阳"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0102",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "好莱坞宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0103",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "秃山1洞",
+      "NAME_CNG": "瓦伦丁酒店 "
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0104",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "时尚酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0314",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "Tiffany提帕尼旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0315",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老3洞",
+      "NAME_CNG": "平安旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0316",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "梧柳2洞",
+      "NAME_CNG": "福克斯旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0317",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "北极星"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0318",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "华阳洞",
+      "NAME_CNG": "prima旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0319",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "忘忧本洞",
+      "NAME_CNG": "爱的天空旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0320",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "松汀洞",
+      "NAME_CNG": "哈琳旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0321",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "始兴1洞",
+      "NAME_CNG": "凯悦旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0322",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "上凤2洞",
+      "NAME_CNG": "爱心山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0323",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "南営洞",
+      "NAME_CNG": "汉阳旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0324",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "杨坪1洞",
+      "NAME_CNG": "海东山庄旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0325",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "华阳洞",
+      "NAME_CNG": "虎（湖）林旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0326",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓6.7洞",
+      "NAME_CNG": "豪华酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0327",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "梧柳2洞",
+      "NAME_CNG": "椰子酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0328",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "假日韩国青年旅舍"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0329",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "忘忧本洞",
+      "NAME_CNG": "洪林山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0330",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "大枣洞",
+      "NAME_CNG": "华城山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0331",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "葛岘1洞",
+      "NAME_CNG": "黄金山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0332",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "九宜2洞",
+      "NAME_CNG": "黄金公园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0333",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷本洞",
+      "NAME_CNG": "希尔顿旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0334",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "希尔豪斯酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0335",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓3.4洞",
+      "NAME_CNG": "清迈农场"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0336",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "南岘堂韩屋Guesthouse"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0337",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "Moon青年旅社"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0338",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "刘真之家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0339",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "朋友之家"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0340",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "嘉会洞",
+      "NAME_CNG": "休岸"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0105",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾1洞",
+      "NAME_CNG": "一杆进洞汽车旅馆 "
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0106",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "禾谷旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0107",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "大方洞",
+      "NAME_CNG": "秀汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0108",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "K2"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0109",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "PX旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0110",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "仓5洞",
+      "NAME_CNG": "W旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0111",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "华阳洞",
+      "NAME_CNG": "W旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0112",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新林洞",
+      "NAME_CNG": "花园公园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0113",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成2洞",
+      "NAME_CNG": "伽倻"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0114",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "岩寺2洞",
+      "NAME_CNG": "渡口山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0115",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "紫阳4洞",
+      "NAME_CNG": "河畔山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0116",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "开峰2洞",
+      "NAME_CNG": "开丰山庄（旅馆）"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0117",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "双门3洞",
+      "NAME_CNG": "景林山庄（旅馆）"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0118",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "千戸3洞",
+      "NAME_CNG": "鸡林山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0119",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "黄金广场"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0120",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "中林洞",
+      "NAME_CNG": "广德山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0121",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新林洞",
+      "NAME_CNG": "国宾山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0122",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新林洞",
+      "NAME_CNG": "国一"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0123",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩1洞",
+      "NAME_CNG": "宫(Gung)"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0124",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "圣水1街1洞",
+      "NAME_CNG": "贵宾山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0125",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "大兴洞",
+      "NAME_CNG": "大奖"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0126",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "绿色"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0127",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "绿色皮亚"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0128",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "石串洞",
+      "NAME_CNG": "极东旅店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0129",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "大枣洞",
+      "NAME_CNG": "锦江旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0130",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "堂山1洞",
+      "NAME_CNG": "锦江旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0131",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新林洞",
+      "NAME_CNG": "金井山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0132",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新亭3洞",
+      "NAME_CNG": "锦湖山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0133",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "上凤2洞",
+      "NAME_CNG": "吉林山庄旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0134",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙4洞",
+      "NAME_CNG": "故地"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0135",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "落星垈洞",
+      "NAME_CNG": "梦中殿堂旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0136",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "加里峰洞",
+      "NAME_CNG": "南山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0137",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "南阳"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0138",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "鹭梁津2洞",
+      "NAME_CNG": "南川山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0139",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "长安2洞",
+      "NAME_CNG": "贝尔内旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0140",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "道峰1洞",
+      "NAME_CNG": "新星山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0141",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "新阿尔卑斯山旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0142",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "秃山3洞",
+      "NAME_CNG": "新希尔顿旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0143",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "南岘洞",
+      "NAME_CNG": "Dyna 旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0144",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "大林1洞",
+      "NAME_CNG": "大道山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0145",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "大洋山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0146",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "中林洞",
+      "NAME_CNG": "大荣山庄旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0147",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "大兴洞",
+      "NAME_CNG": "好运山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0148",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "月渓1洞",
+      "NAME_CNG": "大湖山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0149",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "南営洞",
+      "NAME_CNG": "德成山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0150",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "道峰1洞",
+      "NAME_CNG": "道峰山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0151",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老4洞",
+      "NAME_CNG": "桃园旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0152",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "东京旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0153",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "祭基洞",
+      "NAME_CNG": "东宝山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0154",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "上道2洞",
+      "NAME_CNG": "同一山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0155",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "同一山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0156",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "大枣洞",
+      "NAME_CNG": "同志旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0157",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新林洞",
+      "NAME_CNG": "拉诺斯旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0158",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "大兴洞",
+      "NAME_CNG": "洛杉矶旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0159",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾1洞",
+      "NAME_CNG": "生活宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0160",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "往十里道诜洞",
+      "NAME_CNG": " Ratera"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0161",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "岩石宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0162",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "南岘洞",
+      "NAME_CNG": "城墙"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0163",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷6洞",
+      "NAME_CNG": "情书"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0164",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉江路洞",
+      "NAME_CNG": "彩虹雨衣"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0165",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "力士旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0166",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "新大方2洞",
+      "NAME_CNG": "力士旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0167",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "来客宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0168",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "千戸2洞",
+      "NAME_CNG": "浪漫旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0169",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "上凤2洞",
+      "NAME_CNG": "玫瑰希尔汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0170",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "九宜1洞",
+      "NAME_CNG": "如"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0171",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "光熙洞",
+      "NAME_CNG": "如宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0172",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "文艺复兴"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0173",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "君子洞",
+      "NAME_CNG": "小河旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0174",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "上凤2洞",
+      "NAME_CNG": "利贝拉"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0175",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "龙新洞",
+      "NAME_CNG": "里奥汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0176",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "利兹"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0177",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "小公洞",
+      "NAME_CNG": "玛露旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0178",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "21号地铁宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0179",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老4洞",
+      "NAME_CNG": "明洞山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0180",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "青龙洞",
+      "NAME_CNG": "明洞公园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0181",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新林洞",
+      "NAME_CNG": "明宝山庄旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0182",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "典农1洞",
+      "NAME_CNG": "明城公园"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0183",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新林洞",
+      "NAME_CNG": "约会旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0184",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "华阳洞",
+      "NAME_CNG": "和旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0185",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "月亮旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0186",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "棉花旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0187",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "万宝龙旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0188",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "付岩洞",
+      "NAME_CNG": "海市蜃楼旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0189",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成2洞",
+      "NAME_CNG": "美林山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0190",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "上凤2洞",
+      "NAME_CNG": "美旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0191",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "米佐旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0192",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "新吉1洞",
+      "NAME_CNG": "美和山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0193",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老5洞",
+      "NAME_CNG": "米兰旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0194",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "千年"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0195",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "白垩馆旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0196",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月1洞",
+      "NAME_CNG": "白天鹅山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0197",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "落星垈洞",
+      "NAME_CNG": "百合山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0198",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三2洞",
+      "NAME_CNG": "非常之六酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0199",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "茶山洞",
+      "NAME_CNG": "首尔本乎尔酒店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0200",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室本洞",
+      "NAME_CNG": "宝明庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0201",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "青龙洞",
+      "NAME_CNG": "汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0202",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "孔徳洞",
+      "NAME_CNG": "宝城庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0203",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "宝城庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0204",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "往十里道诜洞",
+      "NAME_CNG": "凤山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0205",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "往十里道诜洞",
+      "NAME_CNG": "呼唤旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0206",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "舍堂1洞",
+      "NAME_CNG": "富元庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0207",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "大林1洞",
+      "NAME_CNG": "富兴旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0208",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新林洞",
+      "NAME_CNG": "汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0209",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "南岘洞",
+      "NAME_CNG": "美好旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0210",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "蓝色汽车旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0211",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "遁村2洞",
+      "NAME_CNG": "圣塔菲别墅（旅馆）"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0212",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "堂山1洞",
+      "NAME_CNG": "三星旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0213",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "普光洞",
+      "NAME_CNG": "三星山庄（旅馆）"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0214",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "三亚山庄（旅馆）"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0215",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "大林2洞",
+      "NAME_CNG": "三元山庄（旅馆）"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0216",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新林洞",
+      "NAME_CNG": "三元山庄（旅馆）"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0217",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "上凤2洞",
+      "NAME_CNG": "萨蒙旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0218",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷本洞",
+      "NAME_CNG": "Charmant旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0219",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "枣园洞",
+      "NAME_CNG": "曙光山庄（旅馆）"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0220",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉江路洞",
+      "NAME_CNG": "西林山庄（旅馆）"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0221",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "加山洞",
+      "NAME_CNG": "首尔山庄（旅馆）"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0222",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "杨坪2洞",
+      "NAME_CNG": "仙游岛"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0223",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "忘忧本洞",
+      "NAME_CNG": "盛林山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0224",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "三阳洞",
+      "NAME_CNG": "盛源山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0225",
+      "H_CNG_GU": "衿川区",
+      "H_CNG_DONG": "秃山4洞",
+      "NAME_CNG": "星湖宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0226",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "SOO宾馆 "
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0227",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "寿松山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0228",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0229",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新林洞",
+      "NAME_CNG": "瑞士宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0230",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三2洞",
+      "NAME_CNG": "斯特拉宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0231",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老5洞",
+      "NAME_CNG": "两人世界"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0232",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷6洞",
+      "NAME_CNG": "电影旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0233",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "西雅图饭店"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0234",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "南加佐1洞",
+      "NAME_CNG": "CF宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0235",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "中和2洞",
+      "NAME_CNG": "新那旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0236",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "新吉1洞",
+      "NAME_CNG": "新罗山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0237",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "付岩洞",
+      "NAME_CNG": "新荣旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0238",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "新荣宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0239",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "松川洞",
+      "NAME_CNG": "新一庄旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0240",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "华阳洞",
+      "NAME_CNG": "圣塔菲旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0241",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "芳香旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0242",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "里门1洞",
+      "NAME_CNG": "爱神旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0243",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "空港洞",
+      "NAME_CNG": "Hotel Amigos朋友宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0244",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "青龙洞",
+      "NAME_CNG": "奥贝森旅馆 "
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0245",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "忘忧本洞",
+      "NAME_CNG": "雅典"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0246",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷6洞",
+      "NAME_CNG": "阿尔卑斯山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0247",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "山坡上的白房子"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0248",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "爱宝绿色"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0249",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "爱宝绿色"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0250",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "吉洞",
+      "NAME_CNG": "S曲线"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0251",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "帝国"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0252",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "M-普勒斯"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0253",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "枣园洞",
+      "NAME_CNG": "如家山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0254",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三2洞",
+      "NAME_CNG": "驿三旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0255",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "紫阳4洞",
+      "NAME_CNG": "永同山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0256",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "忘忧本洞",
+      "NAME_CNG": "橙子旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0257",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背本洞",
+      "NAME_CNG": "奥斯陆旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0258",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "O2氧气旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0259",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "新大方1洞",
+      "NAME_CNG": "玉水山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0260",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "橄榄宾馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0261",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "All-in旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0262",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "哇"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0263",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "堂山1洞",
+      "NAME_CNG": "友利山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0264",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老2洞",
+      "NAME_CNG": "雨林山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0265",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "月壁城"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0266",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "加里峰洞",
+      "NAME_CNG": "月城客栈"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0267",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "墨2洞",
+      "NAME_CNG": "威尼安"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0268",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "上凤2洞",
+      "NAME_CNG": "银星旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0269",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "永登浦洞",
+      "NAME_CNG": "银星山庄"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0270",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "ez旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0271",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "异彩旅馆"
+    },
+    {
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW18-0272",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路5.6街洞",
+      "NAME_CNG": "因特网旅馆"
+    }
+  ]
+}

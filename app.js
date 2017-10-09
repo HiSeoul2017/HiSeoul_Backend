@@ -1,6 +1,7 @@
 var express = require('express')
 var bodyParser = require('body-parser')
 var fs = require('fs')
+var node_xj = require("xls-to-json");
 var app = express()
 var PORT = process.env.PORT || 3000
 var db = require('./database/mongo')
@@ -27,5 +28,5 @@ app.listen(PORT, (err)=>{
     }
 })
 
-require('./data/DataSetting')(fs, db)
+require('./data/DataSetting')(fs, db, node_xj)
 

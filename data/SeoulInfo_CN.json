@@ -1,0 +1,220 @@
+{
+  "DESCRIPTION": {
+    "TEL": "전화",
+    "H_CNG_CITY": "행정 시",
+    "MAIN_KEY": "키",
+    "H_CNG_GU": "행정 구",
+    "H_CNG_DONG": "행정 동",
+    "NAME_CNG": "배포장소 이름"
+  },
+  "DATA": [
+    {
+      "TEL": "02-778-0333",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0001",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "明洞旅游信息中心"
+    },
+    {
+      "TEL": "02-785-2210",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0002",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "汝矣岛洞",
+      "NAME_CNG": "济州旅游信息中心 多宝馆"
+    },
+    {
+      "TEL": "02-3445-0111",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0003",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "江南旅游信息中心"
+    },
+    {
+      "TEL": "02-3789-7961",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0004",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "首尔国际文化中心"
+    },
+    {
+      "TEL": "02-735-8688",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0005",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "清云孝子洞",
+      "NAME_CNG": "光化门旅游咨询处"
+    },
+    {
+      "TEL": "02-2660-2486",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0006",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "空港洞",
+      "NAME_CNG": "金浦机场旅游信息中心"
+    },
+    {
+      "TEL": "02-752-1913",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0007",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "南大门市场旅游咨询处"
+    },
+    {
+      "TEL": "02-2153-0407",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0008",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "光熙洞",
+      "NAME_CNG": "DDP旅游咨询处"
+    },
+    {
+      "TEL": "02-3789-7961",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0009",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "首尔国际文化中心"
+    },
+    {
+      "TEL": "02-3431-9472",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0010",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室3洞",
+      "NAME_CNG": "蚕室旅游咨询处"
+    },
+    {
+      "TEL": "02-774-3238",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0011",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "清云孝子洞",
+      "NAME_CNG": "景福宫旅游翻译咨询处"
+    },
+    {
+      "TEL": "02-2236-9135",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0012",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "光熙洞",
+      "NAME_CNG": "东大门旅游咨询处"
+    },
+    {
+      "TEL": "02-720-0872",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0013",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "三一桥旅游咨询处"
+    },
+    {
+      "TEL": "02-739-7755",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0014",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "市民听旅游咨询处"
+    },
+    {
+      "TEL": "02-323-2240",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0015",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "合井洞",
+      "NAME_CNG": "弘益大学入口旅游咨询处"
+    },
+    {
+      "TEL": "02-3785-0942",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0016",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "梨泰院历史旅游咨询处"
+    },
+    {
+      "TEL": "02-737-7885",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0017",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "南仁寺旅游咨询处"
+    },
+    {
+      "TEL": "02-734-0222",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0018",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "北仁寺旅游咨询处"
+    },
+    {
+      "TEL": "02-2148-4160",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0019",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "嘉会洞",
+      "NAME_CNG": "北村斋洞旅游咨询处"
+    },
+    {
+      "TEL": "02-2148-4161",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0020",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "三清洞",
+      "NAME_CNG": "北村花洞旅游咨询处"
+    },
+    {
+      "TEL": "02-737-7890",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0021",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "仁寺洞宣传馆"
+    },
+    {
+      "TEL": "02-334-7878",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0022",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "麻浦旅游信息中心"
+    },
+    {
+      "TEL": "02-363-7833",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0023",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "新村历史旅游咨询处"
+    },
+    {
+      "TEL": "02-794-5579",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0024",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "梨泰院旅游翻译咨询处"
+    },
+    {
+      "TEL": "02-774-3238",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0025",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "明洞旅游翻译咨询处"
+    },
+    {
+      "TEL": "02-729-9497",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_IW05-0026",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "韩国旅游发展局旅游咨询展示馆"
+    }
+  ]
+}

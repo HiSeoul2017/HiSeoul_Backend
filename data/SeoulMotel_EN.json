@@ -1,0 +1,2391 @@
+{
+  "DESCRIPTION": {
+    "H_ENG_CITY": "행정시",
+    "NAME_ENG": "명칭",
+    "H_ENG_GU": "행정구",
+    "H_ENG_DONG": "행정동",
+    "MAIN_KEY": "키"
+  },
+  "DATA": [
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinyeong Motel",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Yeongdeungpo-dong",
+      "MAIN_KEY": "BE_IW18-0238"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Siniljang",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Songcheon-dong",
+      "MAIN_KEY": "BE_IW18-0239"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Santafe Motel",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Hwayang-dong",
+      "MAIN_KEY": "BE_IW18-0240"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Aroma",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sajik-dong",
+      "MAIN_KEY": "BE_IW18-0241"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Amor",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Imun1-dong",
+      "MAIN_KEY": "BE_IW18-0242"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Amigos Hotel",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Gonghang-dong",
+      "MAIN_KEY": "BE_IW18-0243"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Absong Motel",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Cheongnyong-dong",
+      "MAIN_KEY": "BE_IW18-0244"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Atene",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Mangubon-dong",
+      "MAIN_KEY": "BE_IW18-0245"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Alpss Sanjang",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok6-dong",
+      "MAIN_KEY": "BE_IW18-0246"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Undukyue Hayanzib",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_IW18-0247"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Evergreen ",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi2-dong",
+      "MAIN_KEY": "BE_IW18-0248"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Evergreen ",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok1-dong",
+      "MAIN_KEY": "BE_IW18-0249"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "S Line",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Gil-dong",
+      "MAIN_KEY": "BE_IW18-0250"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Empire",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_IW18-0251"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "M Plus",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong1-dong",
+      "MAIN_KEY": "BE_IW18-0252"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeogajang",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Jowon-dong",
+      "MAIN_KEY": "BE_IW18-0253"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeoksam Motel",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam2-dong",
+      "MAIN_KEY": "BE_IW18-0254"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeongdongjang Inn",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Jayang4-dong",
+      "MAIN_KEY": "BE_IW18-0255"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Orange Motel",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Mangubon-dong",
+      "MAIN_KEY": "BE_IW18-0256"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Oslo",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Bangbaebon-dong",
+      "MAIN_KEY": "BE_IW18-0257"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Otu Motel",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok1-dong",
+      "MAIN_KEY": "BE_IW18-0258"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ocksujang",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sindaebang1-dong",
+      "MAIN_KEY": "BE_IW18-0259"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Olive Hotel",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi2-dong",
+      "MAIN_KEY": "BE_IW18-0260"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "All-in Motel",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Nonhyeon2-dong",
+      "MAIN_KEY": "BE_IW18-0261"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Wow",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi2-dong",
+      "MAIN_KEY": "BE_IW18-0262"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Woorijang Inn",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Dangsan1-dong",
+      "MAIN_KEY": "BE_IW18-0263"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Woorimjang",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Guro2-dong",
+      "MAIN_KEY": "BE_IW18-0264"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Wallbyeok Town",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Ui-dong",
+      "MAIN_KEY": "BE_IW18-0265"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Wallsung Yeoinsuk",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Garibong-dong",
+      "MAIN_KEY": "BE_IW18-0266"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Union",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Muk2-dong",
+      "MAIN_KEY": "BE_IW18-0267"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Eunsung Yeoguan",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Sangbong2-dong",
+      "MAIN_KEY": "BE_IW18-0268"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Eunsungjang",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Yeongdeungpo-dong",
+      "MAIN_KEY": "BE_IW18-0269"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Easy Motel",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_IW18-0270"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Echae",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_IW18-0271"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Internet Motel",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno5.6ga-dong",
+      "MAIN_KEY": "BE_IW18-0272"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yilsinjang",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_IW18-0273"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yims House",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_IW18-0274"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Java Motel",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sungin2-dong",
+      "MAIN_KEY": "BE_IW18-0275"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jagamoon Hotel",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Pyeongchang-dong",
+      "MAIN_KEY": "BE_IW18-0276"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jaeil Yeoinsuk",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Singil6-dong",
+      "MAIN_KEY": "BE_IW18-0277"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeiljang",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Cheongnyong-dong",
+      "MAIN_KEY": "BE_IW18-0278"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Joina",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagokbon-dong",
+      "MAIN_KEY": "BE_IW18-0279"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Juno",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Junggok3-dong",
+      "MAIN_KEY": "BE_IW18-0280"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jinyang Yeoinsuk",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Garibong-dong",
+      "MAIN_KEY": "BE_IW18-0281"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Changwonjang",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Guro2-dong",
+      "MAIN_KEY": "BE_IW18-0282"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cheonsujang",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Seongsu2ga1-dong",
+      "MAIN_KEY": "BE_IW18-0283"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cheongsujang",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Garibong-dong",
+      "MAIN_KEY": "BE_IW18-0284"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cheongsujang",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_IW18-0285"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chinese Restaurant",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Cheonho3-dong",
+      "MAIN_KEY": "BE_IW18-0286"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cheongwonjang",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Junghwa2-dong",
+      "MAIN_KEY": "BE_IW18-0287"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chello",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Namyeong-dong",
+      "MAIN_KEY": "BE_IW18-0288"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chosiljang",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Cheongnyangni-dong",
+      "MAIN_KEY": "BE_IW18-0289"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chowonjang",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sungin2-dong",
+      "MAIN_KEY": "BE_IW18-0290"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chowon Park",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Sillim-dong",
+      "MAIN_KEY": "BE_IW18-0291"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Khanna",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Songpa1-dong",
+      "MAIN_KEY": "BE_IW18-0292"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "KS-tel",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Cheongnyong-dong",
+      "MAIN_KEY": "BE_IW18-0293"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cube Motel",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Sillim-dong",
+      "MAIN_KEY": "BE_IW18-0294"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Crux",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_IW18-0295"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Clossing Hotel",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok1-dong",
+      "MAIN_KEY": "BE_IW18-0296"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Croce Motel",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagokbon-dong",
+      "MAIN_KEY": "BE_IW18-0297"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Clio Motel",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Cheongnyong-dong",
+      "MAIN_KEY": "BE_IW18-0298"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Top Motel",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sindaebang1-dong",
+      "MAIN_KEY": "BE_IW18-0299"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Top Tel",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Samseon-dong",
+      "MAIN_KEY": "BE_IW18-0300"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Taerimjang",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Jegi-dong",
+      "MAIN_KEY": "BE_IW18-0301"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Taehwajang",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Neung-dong",
+      "MAIN_KEY": "BE_IW18-0302"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Touch Motel",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_IW18-0303"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Theme",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Hwayang-dong",
+      "MAIN_KEY": "BE_IW18-0304"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Theme 21",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Guro5-dong",
+      "MAIN_KEY": "BE_IW18-0305"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Theme 25 O'Clock",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Nakseongdae-dong",
+      "MAIN_KEY": "BE_IW18-0306"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Theme Motel",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Jeonnong1-dong",
+      "MAIN_KEY": "BE_IW18-0307"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Theme Hotel",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Guui3-dong",
+      "MAIN_KEY": "BE_IW18-0308"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "To Heaven",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_IW18-0309"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Triple R",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Gil-dong",
+      "MAIN_KEY": "BE_IW18-0310"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "T",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong2-dong",
+      "MAIN_KEY": "BE_IW18-0311"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Tirol Hotel",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Yeomchang-dong",
+      "MAIN_KEY": "BE_IW18-0312"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Tiffany",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Gonghang-dong",
+      "MAIN_KEY": "BE_IW18-0313"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Tiffany Motel",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi2-dong",
+      "MAIN_KEY": "BE_IW18-0314"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Pyeongan Yeoinsuk",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Guro3-dong",
+      "MAIN_KEY": "BE_IW18-0315"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Fox Motel",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Oryu2-dong",
+      "MAIN_KEY": "BE_IW18-0316"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Polaris Motel",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Yeongdeungpo-dong",
+      "MAIN_KEY": "BE_IW18-0317"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Prima Motel",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Hwayang-dong",
+      "MAIN_KEY": "BE_IW18-0318"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Haneulsarang Motel",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Mangubon-dong",
+      "MAIN_KEY": "BE_IW18-0319"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Harim Motel",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Songjeong-dong",
+      "MAIN_KEY": "BE_IW18-0320"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hyatt",
+      "H_ENG_GU": "Geumcheon-gu",
+      "H_ENG_DONG": "Siheung1-dong",
+      "MAIN_KEY": "BE_IW18-0321"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hartjang",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Sangbong2-dong",
+      "MAIN_KEY": "BE_IW18-0322"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hanyang Yeoinsuk",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Namyeong-dong",
+      "MAIN_KEY": "BE_IW18-0323"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Haedongjang Yeoinsuk",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Yangpyeong1-dong",
+      "MAIN_KEY": "BE_IW18-0324"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Horim Motel",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Hwayang-dong",
+      "MAIN_KEY": "BE_IW18-0325"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hotel Lux",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Sanggye6.7-dong",
+      "MAIN_KEY": "BE_IW18-0326"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hotel Yaja",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Oryu2-dong",
+      "MAIN_KEY": "BE_IW18-0327"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Holiday in Korea Hostel",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_IW18-0328"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hongrimjang",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Mangubon-dong",
+      "MAIN_KEY": "BE_IW18-0329"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hawseongjang",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Daejo-dong",
+      "MAIN_KEY": "BE_IW18-0330"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "HwangGeumjang",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Galhyeon1-dong",
+      "MAIN_KEY": "BE_IW18-0331"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "HwangGeum Park",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Guui2-dong",
+      "MAIN_KEY": "BE_IW18-0332"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hilton Motel",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagokbon-dong",
+      "MAIN_KEY": "BE_IW18-0333"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hill house Hotel",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_IW18-0334"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cheongmoegol Farm",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Sanggye3.4-dong",
+      "MAIN_KEY": "BE_IW18-0335"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Namhyundang Hanok Guesthouse",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_IW18-0336"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Moon Guest House",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_IW18-0337"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Eugene House",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Hyehwa-dong",
+      "MAIN_KEY": "BE_IW18-0338"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Friends House",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Hyehwa-dong",
+      "MAIN_KEY": "BE_IW18-0339"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hueahn",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Gahoe-dong",
+      "MAIN_KEY": "BE_IW18-0340"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The Pine Tree Condo",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Ui-dong",
+      "MAIN_KEY": "BE_IW18-0001"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Tovis",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Yangjae1-dong",
+      "MAIN_KEY": "BE_IW18-0002"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "21 Saegi Motel",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Cheongnyong-dong",
+      "MAIN_KEY": "BE_IW18-0003"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "CL Motel",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Yeomchang-dong",
+      "MAIN_KEY": "BE_IW18-0004"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "GS Hotel",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_IW18-0005"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "M Motel",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Yongsin-dong",
+      "MAIN_KEY": "BE_IW18-0006"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "UNI Motel",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Cheonho2-dong",
+      "MAIN_KEY": "BE_IW18-0007"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "VOLE Hotel",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_IW18-0008"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geogi",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok1-dong",
+      "MAIN_KEY": "BE_IW18-0009"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Galleria Motel",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Oryu2-dong",
+      "MAIN_KEY": "BE_IW18-0010"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Graend Motel",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Namhyeon-dong",
+      "MAIN_KEY": "BE_IW18-0011"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geumgangsan Motel",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Yongdap-dong",
+      "MAIN_KEY": "BE_IW18-0012"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gildong Motel",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Gil-dong",
+      "MAIN_KEY": "BE_IW18-0013"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Nadu Motel",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Suyu1-dong",
+      "MAIN_KEY": "BE_IW18-0014"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Noblesse Motel",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Suyu1-dong",
+      "MAIN_KEY": "BE_IW18-0015"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Noble Hotel",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_IW18-0016"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Newmond Motel",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Sanggye6.7-dong",
+      "MAIN_KEY": "BE_IW18-0017"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dinus Motel",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Insu-dong",
+      "MAIN_KEY": "BE_IW18-0018"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daedong Motel",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Jayang4-dong",
+      "MAIN_KEY": "BE_IW18-0019"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The view ",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi2-dong",
+      "MAIN_KEY": "BE_IW18-0020"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Deoksu Motel",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Galhyeon1-dong",
+      "MAIN_KEY": "BE_IW18-0021"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "D`oro Hotel",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_IW18-0022"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Lanos Motel",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Bulgwang2-dong",
+      "MAIN_KEY": "BE_IW18-0023"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ramada Motel",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Dongseon-dong",
+      "MAIN_KEY": "BE_IW18-0024"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Life Style F Motel",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Yeongdeungpo-dong",
+      "MAIN_KEY": "BE_IW18-0025"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Rainbow Motel",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok1-dong",
+      "MAIN_KEY": "BE_IW18-0026"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Rodeo Motel",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinjeong4-dong",
+      "MAIN_KEY": "BE_IW18-0027"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Rodeo Motel",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Myeonmok7-dong",
+      "MAIN_KEY": "BE_IW18-0028"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Lino Hotel",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi2-dong",
+      "MAIN_KEY": "BE_IW18-0029"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Rivera Motel",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Dongseon-dong",
+      "MAIN_KEY": "BE_IW18-0030"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mama Motel",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Myeongil1-dong",
+      "MAIN_KEY": "BE_IW18-0031"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Meridian Motel",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_IW18-0032"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Morocco Hotel",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi2-dong",
+      "MAIN_KEY": "BE_IW18-0033"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Motel Soo",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Eungam1-dong",
+      "MAIN_KEY": "BE_IW18-0034"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Milano Motel",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Wangsimnidoseon-dong",
+      "MAIN_KEY": "BE_IW18-0035"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Valencia Motel",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Insu-dong",
+      "MAIN_KEY": "BE_IW18-0036"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bellagio Hotels",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi2-dong",
+      "MAIN_KEY": "BE_IW18-0037"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bobo Hotel",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_IW18-0038"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Von Motel",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Yeomchang-dong",
+      "MAIN_KEY": "BE_IW18-0039"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sarangbang Motel",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Banghak2-dong",
+      "MAIN_KEY": "BE_IW18-0040"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samo Motel ",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_IW18-0041"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samoo Motel ",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Samjeon-dong",
+      "MAIN_KEY": "BE_IW18-0042"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Saelmon Motel",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Junggok1-dong",
+      "MAIN_KEY": "BE_IW18-0043"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sam Motel",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_IW18-0044"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sangria Motel",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_IW18-0045"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sun Park",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi2-dong",
+      "MAIN_KEY": "BE_IW18-0046"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chereville Hotel ",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi2-dong",
+      "MAIN_KEY": "BE_IW18-0047"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sefia Motel",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Sanggye6.7-dong",
+      "MAIN_KEY": "BE_IW18-0048"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Shell Motel",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Bangbaebon-dong",
+      "MAIN_KEY": "BE_IW18-0049"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Swil Motel",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Gunja-dong",
+      "MAIN_KEY": "BE_IW18-0050"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Swil Motel",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Bulgwang2-dong",
+      "MAIN_KEY": "BE_IW18-0051"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Shim Hotel",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Jangan2-dong",
+      "MAIN_KEY": "BE_IW18-0052"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sky Motel",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_IW18-0053"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sky Motel",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_IW18-0054"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sky Motel",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsilbon-dong",
+      "MAIN_KEY": "BE_IW18-0055"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sky Motel",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Hwayang-dong",
+      "MAIN_KEY": "BE_IW18-0056"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cinema",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Jangan2-dong",
+      "MAIN_KEY": "BE_IW18-0057"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cinema",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Jayang4-dong",
+      "MAIN_KEY": "BE_IW18-0058"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cinema Motel",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_IW18-0059"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cinema Palace Hotel ",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Suyu3-dong",
+      "MAIN_KEY": "BE_IW18-0060"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Xian Motel",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Daejo-dong",
+      "MAIN_KEY": "BE_IW18-0061"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Siesta Motel",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Beon1-dong",
+      "MAIN_KEY": "BE_IW18-0062"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Siwon Motel",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Oryu2-dong",
+      "MAIN_KEY": "BE_IW18-0063"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Shinsegae  Motel",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Songjung-dong",
+      "MAIN_KEY": "BE_IW18-0064"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Aroma Motel",
+      "H_ENG_GU": "Geumcheon-gu",
+      "H_ENG_DONG": "Doksan4-dong",
+      "MAIN_KEY": "BE_IW18-0065"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Asia Motel",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsilbon-dong",
+      "MAIN_KEY": "BE_IW18-0066"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Eiffel Jun Motel",
+      "H_ENG_GU": "Geumcheon-gu",
+      "H_ENG_DONG": "Gasan-dong",
+      "MAIN_KEY": "BE_IW18-0067"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Color M Motel",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Guui2-dong",
+      "MAIN_KEY": "BE_IW18-0068"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "M Hotel",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_IW18-0069"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Oscar Motel",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Banpo4-dong",
+      "MAIN_KEY": "BE_IW18-0070"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Olso Motel",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok1-dong",
+      "MAIN_KEY": "BE_IW18-0071"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Union Motel",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Bomun-dong",
+      "MAIN_KEY": "BE_IW18-0072"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yumi Motel",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Gil-dong",
+      "MAIN_KEY": "BE_IW18-0073"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Eunsan Motel",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Yongdap-dong",
+      "MAIN_KEY": "BE_IW18-0074"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Joha Motel",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Gaebong2-dong",
+      "MAIN_KEY": "BE_IW18-0075"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cheonggiwa Motel",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinwol2-dong",
+      "MAIN_KEY": "BE_IW18-0076"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chelo Motel",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Suyu3-dong",
+      "MAIN_KEY": "BE_IW18-0077"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chelo Motel",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi2-dong",
+      "MAIN_KEY": "BE_IW18-0078"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chelo Hotel",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho3-dong",
+      "MAIN_KEY": "BE_IW18-0079"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chocolate Motel",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok1-dong",
+      "MAIN_KEY": "BE_IW18-0080"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chocolate Motel",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_IW18-0081"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cafri",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi2-dong",
+      "MAIN_KEY": "BE_IW18-0082"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Q Motel",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagokbon-dong",
+      "MAIN_KEY": "BE_IW18-0083"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Tower Motel",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Gil-dong",
+      "MAIN_KEY": "BE_IW18-0084"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Theme Motel",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sangdo2-dong",
+      "MAIN_KEY": "BE_IW18-0085"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Theme Motel",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Myeonmok2-dong",
+      "MAIN_KEY": "BE_IW18-0086"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Paradise ",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Wangsimnidoseon-dong",
+      "MAIN_KEY": "BE_IW18-0087"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Palace Motel",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Suyu1-dong",
+      "MAIN_KEY": "BE_IW18-0088"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Parkway Hotel",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi2-dong",
+      "MAIN_KEY": "BE_IW18-0089"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Patio Motel",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Beon1-dong",
+      "MAIN_KEY": "BE_IW18-0090"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Podo Motel",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Sillim-dong",
+      "MAIN_KEY": "BE_IW18-0091"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Pom Motel",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsilbon-dong",
+      "MAIN_KEY": "BE_IW18-0092"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Prague Motel",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinwol1-dong",
+      "MAIN_KEY": "BE_IW18-0093"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Prima Hotel",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Gil-dong",
+      "MAIN_KEY": "BE_IW18-0094"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Piano Motel",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Bomun-dong",
+      "MAIN_KEY": "BE_IW18-0095"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Picasso Motel",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Insu-dong",
+      "MAIN_KEY": "BE_IW18-0096"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hi Motel",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Mangubon-dong",
+      "MAIN_KEY": "BE_IW18-0097"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hite Motel",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Nakseongdae-dong",
+      "MAIN_KEY": "BE_IW18-0098"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "High Park Motel",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Cheongnyong-dong",
+      "MAIN_KEY": "BE_IW18-0099"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hanryeojang Motel",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Sillim-dong",
+      "MAIN_KEY": "BE_IW18-0100"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hanyang ",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Muk2-dong",
+      "MAIN_KEY": "BE_IW18-0101"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hollywood Motel",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Yeongdeungpo-dong",
+      "MAIN_KEY": "BE_IW18-0102"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hotel Valentine",
+      "H_ENG_GU": "Geumcheon-gu",
+      "H_ENG_DONG": "Doksan1-dong",
+      "MAIN_KEY": "BE_IW18-0103"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hotel HIP",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_IW18-0104"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hole in one Motel",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Suyu1-dong",
+      "MAIN_KEY": "BE_IW18-0105"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hwagok Motel",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok1-dong",
+      "MAIN_KEY": "BE_IW18-0106"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hyu Motel",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Daebang-dong",
+      "MAIN_KEY": "BE_IW18-0107"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "K2",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok1-dong",
+      "MAIN_KEY": "BE_IW18-0108"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "PX Motel",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Yeongdeungpo-dong",
+      "MAIN_KEY": "BE_IW18-0109"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "W Motel",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Chang5-dong",
+      "MAIN_KEY": "BE_IW18-0110"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "W Motel",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Hwayang-dong",
+      "MAIN_KEY": "BE_IW18-0111"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Garden Park",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Sillim-dong",
+      "MAIN_KEY": "BE_IW18-0112"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gaya",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong2-dong",
+      "MAIN_KEY": "BE_IW18-0113"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gangnarujang",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Amsa2-dong",
+      "MAIN_KEY": "BE_IW18-0114"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gangnbyeonjang",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Jayang4-dong",
+      "MAIN_KEY": "BE_IW18-0115"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gaepungjang Motel",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Gaebong2-dong",
+      "MAIN_KEY": "BE_IW18-0116"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gyeongrimjang Yeogwan",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Ssangmun3-dong",
+      "MAIN_KEY": "BE_IW18-0117"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gyerimjang",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Cheonho3-dong",
+      "MAIN_KEY": "BE_IW18-0118"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Golden Plaza",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok1-dong",
+      "MAIN_KEY": "BE_IW18-0119"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gwangdeokjang",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Jungnim-dong",
+      "MAIN_KEY": "BE_IW18-0120"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gukbinjang",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Sillim-dong",
+      "MAIN_KEY": "BE_IW18-0121"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gukil",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Sillim-dong",
+      "MAIN_KEY": "BE_IW18-0122"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gung",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Eungam1-dong",
+      "MAIN_KEY": "BE_IW18-0123"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Guibinjang",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Seongsu1ga1-dong",
+      "MAIN_KEY": "BE_IW18-0124"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Grand Prix",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Daheung-dong",
+      "MAIN_KEY": "BE_IW18-0125"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Green ",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok1-dong",
+      "MAIN_KEY": "BE_IW18-0126"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Greenpia ",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok1-dong",
+      "MAIN_KEY": "BE_IW18-0127"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geukdongjang",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Seokgwan-dong",
+      "MAIN_KEY": "BE_IW18-0128"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geumgang Motel",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Daejo-dong",
+      "MAIN_KEY": "BE_IW18-0129"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geumgang Yeoinsuk",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Dangsan1-dong",
+      "MAIN_KEY": "BE_IW18-0130"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geumjungjang",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Sillim-dong",
+      "MAIN_KEY": "BE_IW18-0131"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geumhojang",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinjeong3-dong",
+      "MAIN_KEY": "BE_IW18-0132"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gilimjang Yeoguan",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Sangbong2-dong",
+      "MAIN_KEY": "BE_IW18-0133"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cutee",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Daechi4-dong",
+      "MAIN_KEY": "BE_IW18-0134"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Kkumuigungjeon Motel",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Nakseongdae-dong",
+      "MAIN_KEY": "BE_IW18-0135"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Namsanjang",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Garibong-dong",
+      "MAIN_KEY": "BE_IW18-0136"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Namyang ",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Yeongdeungpo-dong",
+      "MAIN_KEY": "BE_IW18-0137"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Namcheonjang",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Noryangjin2-dong",
+      "MAIN_KEY": "BE_IW18-0138"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Nex Motel",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Jangan2-dong",
+      "MAIN_KEY": "BE_IW18-0139"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "New Starjang(Inn)",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Dobong1-dong",
+      "MAIN_KEY": "BE_IW18-0140"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "New Alpss Motel",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok1-dong",
+      "MAIN_KEY": "BE_IW18-0141"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "New Hilton",
+      "H_ENG_GU": "Geumcheon-gu",
+      "H_ENG_DONG": "Doksan3-dong",
+      "MAIN_KEY": "BE_IW18-0142"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dina Mote",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Namhyeon-dong",
+      "MAIN_KEY": "BE_IW18-0143"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daedojang",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Daerim1-dong",
+      "MAIN_KEY": "BE_IW18-0144"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daeyangjang",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_IW18-0145"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daeyungjang",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Jungnim-dong",
+      "MAIN_KEY": "BE_IW18-0146"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daewunjang",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Daheung-dong",
+      "MAIN_KEY": "BE_IW18-0147"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daehojang",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Wolgye1-dong",
+      "MAIN_KEY": "BE_IW18-0148"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Deoksungjang",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Namyeong-dong",
+      "MAIN_KEY": "BE_IW18-0149"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dobongsanjang",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Dobong1-dong",
+      "MAIN_KEY": "BE_IW18-0150"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dowon Yeoinsuk",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Guro4-dong",
+      "MAIN_KEY": "BE_IW18-0151"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "DongGyeong Motel",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_IW18-0152"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dongbojang",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Jegi-dong",
+      "MAIN_KEY": "BE_IW18-0153"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dongiljang",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sangdo2-dong",
+      "MAIN_KEY": "BE_IW18-0154"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dongiljang",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_IW18-0155"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dongji Motel",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Daejo-dong",
+      "MAIN_KEY": "BE_IW18-0156"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ranos ",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Sillim-dong",
+      "MAIN_KEY": "BE_IW18-0157"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "La Seine Motel",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Daheung-dong",
+      "MAIN_KEY": "BE_IW18-0158"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Life Hotel",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Suyu1-dong",
+      "MAIN_KEY": "BE_IW18-0159"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Laterra",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Wangsimnidoseon-dong",
+      "MAIN_KEY": "BE_IW18-0160"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Rock Hotel",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_IW18-0161"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ram Part",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Namhyeon-dong",
+      "MAIN_KEY": "BE_IW18-0162"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Love Letter",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok6-dong",
+      "MAIN_KEY": "BE_IW18-0163"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Rainbowjang",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hangangno-dong",
+      "MAIN_KEY": "BE_IW18-0164"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Rex Motel",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok1-dong",
+      "MAIN_KEY": "BE_IW18-0165"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Rex Motel",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sindaebang2-dong",
+      "MAIN_KEY": "BE_IW18-0166"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Rexy Hotel",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_IW18-0167"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Motel",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Cheonho2-dong",
+      "MAIN_KEY": "BE_IW18-0168"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Rose Hill Motel",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Sangbong2-dong",
+      "MAIN_KEY": "BE_IW18-0169"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ru",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Guui1-dong",
+      "MAIN_KEY": "BE_IW18-0170"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ru Motel",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Gwanghui-dong",
+      "MAIN_KEY": "BE_IW18-0171"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Renaissance",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok1-dong",
+      "MAIN_KEY": "BE_IW18-0172"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "River Motel",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Gunja-dong",
+      "MAIN_KEY": "BE_IW18-0173"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ribera",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Sangbong2-dong",
+      "MAIN_KEY": "BE_IW18-0174"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Rio Motel",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Yongsin-dong",
+      "MAIN_KEY": "BE_IW18-0175"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ritz",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Sinsa-dong",
+      "MAIN_KEY": "BE_IW18-0176"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Maru",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Sogong-dong",
+      "MAIN_KEY": "BE_IW18-0177"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Metro 21 Hotel",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi2-dong",
+      "MAIN_KEY": "BE_IW18-0178"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Myeongdongjang",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Guro4-dong",
+      "MAIN_KEY": "BE_IW18-0179"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Myeongdong Park",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Cheongnyong-dong",
+      "MAIN_KEY": "BE_IW18-0180"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Myeongbojang Motel",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Sillim-dong",
+      "MAIN_KEY": "BE_IW18-0181"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Myeongsung Park",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Jeonnong1-dong",
+      "MAIN_KEY": "BE_IW18-0182"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "MoaMoa Motel",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Sillim-dong",
+      "MAIN_KEY": "BE_IW18-0183"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Motel Grigo",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Hwayang-dong",
+      "MAIN_KEY": "BE_IW18-0184"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Motel Mong",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_IW18-0185"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mokhwa Motel",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho3-dong",
+      "MAIN_KEY": "BE_IW18-0186"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Montblanc ",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Yeongdeungpo-dong",
+      "MAIN_KEY": "BE_IW18-0187"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mirage Motel",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Buam-dong",
+      "MAIN_KEY": "BE_IW18-0188"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mirimjang",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong2-dong",
+      "MAIN_KEY": "BE_IW18-0189"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mi Motel",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Sangbong2-dong",
+      "MAIN_KEY": "BE_IW18-0190"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mizo Motel",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_IW18-0191"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mihwajang",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Singil1-dong",
+      "MAIN_KEY": "BE_IW18-0192"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Millano",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Guro5-dong",
+      "MAIN_KEY": "BE_IW18-0193"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Millennium ",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_IW18-0194"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Baegakgwan Motel",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_IW18-0195"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Baekjojang",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinwol1-dong",
+      "MAIN_KEY": "BE_IW18-0196"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Baekhapjang",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Nakseongdae-dong",
+      "MAIN_KEY": "BE_IW18-0197"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Very Six Hotels",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam2-dong",
+      "MAIN_KEY": "BE_IW18-0198"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Benhur Hotel",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Dasan-dong",
+      "MAIN_KEY": "BE_IW18-0199"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bomyeongjang",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsilbon-dong",
+      "MAIN_KEY": "BE_IW18-0200"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bobos Motel",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Cheongnyong-dong",
+      "MAIN_KEY": "BE_IW18-0201"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Boseongjang Inn",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Gongdeok-dong",
+      "MAIN_KEY": "BE_IW18-0202"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Boseongjang Inn",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Yeongdeungpo-dong",
+      "MAIN_KEY": "BE_IW18-0203"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bongsanjang",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Wangsimnidoseon-dong",
+      "MAIN_KEY": "BE_IW18-0204"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bureune Motel",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Wangsimnidoseon-dong",
+      "MAIN_KEY": "BE_IW18-0205"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Buwonjang Inn",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sadang1-dong",
+      "MAIN_KEY": "BE_IW18-0206"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Buheung Yeoinsuk",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Daerim1-dong",
+      "MAIN_KEY": "BE_IW18-0207"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Veiw Motel",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Sillim-dong",
+      "MAIN_KEY": "BE_IW18-0208"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Beuty Motel",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Namhyeon-dong",
+      "MAIN_KEY": "BE_IW18-0209"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Blue Motel",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_IW18-0210"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Santafe",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Dunchon2-dong",
+      "MAIN_KEY": "BE_IW18-0211"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samsung Yeoinsuk",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Dangsan1-dong",
+      "MAIN_KEY": "BE_IW18-0212"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samsungjang",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Bogwang-dong",
+      "MAIN_KEY": "BE_IW18-0213"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samajang",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Nonhyeon2-dong",
+      "MAIN_KEY": "BE_IW18-0214"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samwonjang",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Daerim2-dong",
+      "MAIN_KEY": "BE_IW18-0215"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samwonjang",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Sillim-dong",
+      "MAIN_KEY": "BE_IW18-0216"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Saelmon Motel",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Sangbong2-dong",
+      "MAIN_KEY": "BE_IW18-0217"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Charmant Motel",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagokbon-dong",
+      "MAIN_KEY": "BE_IW18-0218"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "SeoGwangjang Motel",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Jowon-dong",
+      "MAIN_KEY": "BE_IW18-0219"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seorimjang",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hangangno-dong",
+      "MAIN_KEY": "BE_IW18-0220"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seouljang Inn",
+      "H_ENG_GU": "Geumcheon-gu",
+      "H_ENG_DONG": "Gasan-dong",
+      "MAIN_KEY": "BE_IW18-0221"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seonyudo Island",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Yangpyeong2-dong",
+      "MAIN_KEY": "BE_IW18-0222"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seongrimjang",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Mangubon-dong",
+      "MAIN_KEY": "BE_IW18-0223"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sungwonjang",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Samyang-dong",
+      "MAIN_KEY": "BE_IW18-0224"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sungho Motel",
+      "H_ENG_GU": "Geumcheon-gu",
+      "H_ENG_DONG": "Doksan4-dong",
+      "MAIN_KEY": "BE_IW18-0225"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Su Motel",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_IW18-0226"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Su-Song Motel",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_IW18-0227"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cherevel Hotel",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi2-dong",
+      "MAIN_KEY": "BE_IW18-0228"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Suisse",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Sillim-dong",
+      "MAIN_KEY": "BE_IW18-0229"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Stella",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam2-dong",
+      "MAIN_KEY": "BE_IW18-0230"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Story two",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Guro5-dong",
+      "MAIN_KEY": "BE_IW18-0231"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cinema Motel",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok6-dong",
+      "MAIN_KEY": "BE_IW18-0232"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seattle Hotel",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_IW18-0233"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "CF Hotel",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Namgajwa1-dong",
+      "MAIN_KEY": "BE_IW18-0234"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinna Motel",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Junghwa2-dong",
+      "MAIN_KEY": "BE_IW18-0235"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sillajang Inn",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Singil1-dong",
+      "MAIN_KEY": "BE_IW18-0236"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinyeong ",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Buam-dong",
+      "MAIN_KEY": "BE_IW18-0237"
+    }
+  ]
+}

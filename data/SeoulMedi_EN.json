@@ -1,0 +1,4412 @@
+{
+  "DESCRIPTION": {
+    "H_ENG_CITY": "행정시",
+    "NAME_ENG": "약국이름",
+    "TEL": "전화번호",
+    "H_ENG_GU": "행정구",
+    "H_ENG_DONG": "행정동",
+    "MAIN_KEY": "키값"
+  },
+  "DATA": [
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinseong ",
+      "TEL": "02-3491-0731",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Banghak3-dong",
+      "MAIN_KEY": "BE_LiST22-0281"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sangnoksu Onnuri ",
+      "TEL": "02-954-2950",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Banghak2-dong",
+      "MAIN_KEY": "BE_LiST22-0282"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gwangjang",
+      "TEL": "02-990-6527",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Chang4-dong",
+      "MAIN_KEY": "BE_LiST22-0283"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hyemin",
+      "TEL": "02-954-1653",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Dobong1-dong",
+      "MAIN_KEY": "BE_LiST22-0284"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dongseo Pharmacy",
+      "TEL": "02-2266-8911",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno5.6ga-dong",
+      "MAIN_KEY": "BE_LiST22-0010"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Donga Pharmacy",
+      "TEL": "02-2285-5702",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST22-0011"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dongin Pharmacy",
+      "TEL": "02-743-7371",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Changsin2-dong",
+      "MAIN_KEY": "BE_LiST22-0012"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Medical Seoul Pharmacy",
+      "TEL": "02-766-9000",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Hyehwa-dong",
+      "MAIN_KEY": "BE_LiST22-0013"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mideum Pharmacy",
+      "TEL": "02-745-6678",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Changsin1-dong",
+      "MAIN_KEY": "BE_LiST22-0014"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bogwang Pharmacy",
+      "TEL": "02-762-2515",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST22-0015"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Boram Pharmacy",
+      "TEL": "02-743-7915",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Changsin1-dong",
+      "MAIN_KEY": "BE_LiST22-0016"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Boryeong Pharmacy",
+      "TEL": "02-763-8181",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno5.6ga-dong",
+      "MAIN_KEY": "BE_LiST22-0017"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samjeong Baro Pharmacy",
+      "TEL": "02-736-3385",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Gyonam-dong",
+      "MAIN_KEY": "BE_LiST22-0018"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jongno Jeil Pharmacy",
+      "TEL": "02-3672-8558",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno5.6ga-dong",
+      "MAIN_KEY": "BE_LiST22-0019"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Saehyundae Pharmacy",
+      "TEL": "02-720-5662",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sajik-dong",
+      "MAIN_KEY": "BE_LiST22-0020"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Jongno Pharmacy",
+      "TEL": "02-3676-1400",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Hyehwa-dong",
+      "MAIN_KEY": "BE_LiST22-0021"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seongsim Pharmacy",
+      "TEL": "02-743-2062",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Changsin1-dong",
+      "MAIN_KEY": "BE_LiST22-0022"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seongjin Pharmacy",
+      "TEL": "02-762-2211",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Hyehwa-dong",
+      "MAIN_KEY": "BE_LiST22-0023"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sungin Pharmacy",
+      "TEL": "02-929-0754",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sungin2-dong",
+      "MAIN_KEY": "BE_LiST22-0024"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sungin Damoa Pharmacy",
+      "TEL": "02-765-5885",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sungin1-dong",
+      "MAIN_KEY": "BE_LiST22-0025"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Simin Pharmacy",
+      "TEL": "02-736-6512",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sajik-dong",
+      "MAIN_KEY": "BE_LiST22-0026"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeollin Pharmacy",
+      "TEL": "02-2264-8211",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST22-0027"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Inje Pharmacy",
+      "TEL": "02-2266-4312",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST22-0028"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeongmun Pharmacy",
+      "TEL": "02-765-7200",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST22-0029"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jesin Pharmacy",
+      "TEL": "02-2279-7388",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno5.6ga-dong",
+      "MAIN_KEY": "BE_LiST22-0030"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jonggeundang Pharmacy",
+      "TEL": "02-2274-1311",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno5.6ga-dong",
+      "MAIN_KEY": "BE_LiST22-0031"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jongno Baekje Pharmacy",
+      "TEL": "02-745-8492",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno5.6ga-dong",
+      "MAIN_KEY": "BE_LiST22-0032"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jongno Plaza Pharmacy",
+      "TEL": "02-736-0806",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST22-0033"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chungsin Pharmacy",
+      "TEL": "02-762-9909",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno5.6ga-dong",
+      "MAIN_KEY": "BE_LiST22-0034"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Handok Pharmacy",
+      "TEL": "02-762-4636",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Ihwa-dong",
+      "MAIN_KEY": "BE_LiST22-0035"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hamchun Pharmacy",
+      "TEL": "02-741-0370",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Ihwa-dong",
+      "MAIN_KEY": "BE_LiST22-0036"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Saegye Pharmacy",
+      "TEL": "02-776-8000",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Sogong-dong",
+      "MAIN_KEY": "BE_LiST22-0037"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Pharmacy",
+      "TEL": "02-737-2636",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST22-0038"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Baekjo Pharmacy",
+      "TEL": "02-738-8808",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST22-0039"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Inu Pharmacy",
+      "TEL": "02-392-7291",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Jungnim-dong",
+      "MAIN_KEY": "BE_LiST22-0040"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Namsi Pharmacy",
+      "TEL": "02-753-7466",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Sogong-dong",
+      "MAIN_KEY": "BE_LiST22-0041"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Huigu Pharmacy",
+      "TEL": "02-752-0229",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST22-0042"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Saesamseong Pharmacy",
+      "TEL": "02-756-3301",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Sogong-dong",
+      "MAIN_KEY": "BE_LiST22-0043"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Wang Pharmacy",
+      "TEL": "02-3789-7048",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Sogong-dong",
+      "MAIN_KEY": "BE_LiST22-0044"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Namsan Uri Pharmacy",
+      "TEL": "02-3789-7582",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST22-0045"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daeusa Pharmacy",
+      "TEL": "02-753-2703",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST22-0046"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinusin Pharmacy",
+      "TEL": "02-752-9086",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST22-0047"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Centural Pham Pharmacy",
+      "TEL": "02-393-5505",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Namyeong-dong",
+      "MAIN_KEY": "BE_LiST22-0048"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Saewon Pharmacy",
+      "TEL": "02-776-4476",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST22-0049"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeonhap Pharmacy",
+      "TEL": "02-778-3451",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST22-0050"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Saechungmu Pharmacy",
+      "TEL": "02-776-4820",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST22-0051"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Pureun Pharmacy",
+      "TEL": "02-775-7428",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST22-0052"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Unesco Pharmacy",
+      "TEL": "02-778-7880",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST22-0053"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Myeongdong Jungang Pharmacy",
+      "TEL": "02-777-0505",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST22-0054"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Myeongdong Sarang Pharmacy",
+      "TEL": "02-778-9975",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST22-0055"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Oseong Pharmacy",
+      "TEL": "02-2279-5500",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Gwanghui-dong",
+      "MAIN_KEY": "BE_LiST22-0056"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seonggyun Jeil Pharmacy",
+      "TEL": "02-2269-6872",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST22-0057"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinseong Pharmacy",
+      "TEL": "02-2273-1390",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Donghwa-dong",
+      "MAIN_KEY": "BE_LiST22-0058"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hana Pharmacy",
+      "TEL": "02-755-5155",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST22-0059"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Eulji Su Pharmacy",
+      "TEL": "02-2275-2113",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Euljiro-dong",
+      "MAIN_KEY": "BE_LiST22-0060"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Pil Pharmacy",
+      "TEL": "02-2268-7552",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST22-0061"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jiha Geunhwasa Pharmacy",
+      "TEL": "02-2272-4986",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Euljiro-dong",
+      "MAIN_KEY": "BE_LiST22-0062"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jangsu Pharmacy",
+      "TEL": "02-2252-2929",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Sindang5-dong",
+      "MAIN_KEY": "BE_LiST22-0063"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Silla Pharmacy",
+      "TEL": "02-777-4826",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST22-0064"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bosaengdang Pharmacy",
+      "TEL": "02-2267-8830",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST22-0065"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Wangran Pharmacy",
+      "TEL": "02-2267-1492",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Gwanghui-dong",
+      "MAIN_KEY": "BE_LiST22-0066"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Medipham Choi Pharmacy",
+      "TEL": "02-715-6009",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Cheongpa-dong",
+      "MAIN_KEY": "BE_LiST22-0067"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Myeongjindang Pharmacy",
+      "TEL": "02-717-5603",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Cheongpa-dong",
+      "MAIN_KEY": "BE_LiST22-0068"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Somyeong Pharmacy",
+      "TEL": "02-795-9954",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST22-0069"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeon Pharmacy",
+      "TEL": "02-979-9834",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Wonhyoro2-dong",
+      "MAIN_KEY": "BE_LiST22-0070"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jongno Plaza Pharmacy",
+      "TEL": "02-2012-1276",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hangangno-dong",
+      "MAIN_KEY": "BE_LiST22-0071"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeil Pharmacy",
+      "TEL": "02-792-8422",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hannam-dong",
+      "MAIN_KEY": "BE_LiST22-0072"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hyundae Onnuri Pharmacy",
+      "TEL": "02-795-9842",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Ichon1-dong",
+      "MAIN_KEY": "BE_LiST22-0073"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Uri Pharmacy",
+      "TEL": "02-2012-1507",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hangangno-dong",
+      "MAIN_KEY": "BE_LiST22-0074"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gajangkeun Taepyeongyang Pharmacy",
+      "TEL": "02-790-3376",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hannam-dong",
+      "MAIN_KEY": "BE_LiST22-0075"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gonghang Pharmacy",
+      "TEL": "02-313-2780",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Namyeong-dong",
+      "MAIN_KEY": "BE_LiST22-0076"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Su Pharmacy",
+      "TEL": "02-701-8224",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hyochang-dong",
+      "MAIN_KEY": "BE_LiST22-0077"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ichon Plaza Pharmacy",
+      "TEL": "02-749-8686",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Ichon1-dong",
+      "MAIN_KEY": "BE_LiST22-0078"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Wonhyo Pharmacy",
+      "TEL": "02-6407-7234",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Wonhyoro1-dong",
+      "MAIN_KEY": "BE_LiST22-0079"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hi Pharmacy",
+      "TEL": "070-4122-1004",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Namyeong-dong",
+      "MAIN_KEY": "BE_LiST22-0080"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geumbo Pharmacy",
+      "TEL": "02-718-3673",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Wonhyoro2-dong",
+      "MAIN_KEY": "BE_LiST22-0081"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Balgeunnuri Pharmacy",
+      "TEL": "02-792-2621",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST22-0082"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dongbu Pharmacy",
+      "TEL": "02-795-6242",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Ichon1-dong",
+      "MAIN_KEY": "BE_LiST22-0083"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Singeumho Pharmacy",
+      "TEL": "02-2282-5230",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Guemho1ga-dong",
+      "MAIN_KEY": "BE_LiST22-0084"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Pyeongan Pharmacy",
+      "TEL": "02-2294-8111",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Haengdang1-dong",
+      "MAIN_KEY": "BE_LiST22-0085"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daehak Pharmacy",
+      "TEL": "02-2293-0554",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Sageun-dong",
+      "MAIN_KEY": "BE_LiST22-0086"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Iljin Pharmacy",
+      "TEL": "02-2245-3665",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Yongdap-dong",
+      "MAIN_KEY": "BE_LiST22-0087"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeongmin Pharmacy",
+      "TEL": "02-466-1377",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Seongsu2ga3-dong",
+      "MAIN_KEY": "BE_LiST22-0088"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Danaeul Pharmacy",
+      "TEL": "02-2231-1703",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Guemho2.3ga-dong",
+      "MAIN_KEY": "BE_LiST22-0089"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Girin Pharmacy",
+      "TEL": "02-2299-8850",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Oksu-dong",
+      "MAIN_KEY": "BE_LiST22-0090"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Umyeonghan Pharmacy",
+      "TEL": "02-2238-9268",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Guemho2.3ga-dong",
+      "MAIN_KEY": "BE_LiST22-0091"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daejung Pharmacy",
+      "TEL": "02-2292-4418",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Wangsimni2-dong",
+      "MAIN_KEY": "BE_LiST22-0092"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Medipham Hansol Pharmacy",
+      "TEL": "02-2282-7948",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Haengdang2-dong",
+      "MAIN_KEY": "BE_LiST22-0093"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Myeongdong Onnuri Pharmacy",
+      "TEL": "02-2281-7292",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Haengdang1-dong",
+      "MAIN_KEY": "BE_LiST22-0094"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hyemin Pharmacy",
+      "TEL": "02-2293-2729",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Sageun-dong",
+      "MAIN_KEY": "BE_LiST22-0095"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeongmin Pharmacy",
+      "TEL": "02-2212-8762",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Yongdap-dong",
+      "MAIN_KEY": "BE_LiST22-0096"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeil Pharmacy",
+      "TEL": "02-2293-6946",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Eungbong-dong",
+      "MAIN_KEY": "BE_LiST22-0097"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gunae Pharmacy",
+      "TEL": "02-450-4759",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Gwangjang-dong",
+      "MAIN_KEY": "BE_LiST22-0098"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cheonsa Pharmacy",
+      "TEL": "02-463-9380",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Junggok3-dong",
+      "MAIN_KEY": "BE_LiST22-0099"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dongseoul Pharmacy",
+      "TEL": "02-452-0015",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Guui3-dong",
+      "MAIN_KEY": "BE_LiST22-0100"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samseong M Pharmacy",
+      "TEL": "02-967-3315",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Cheongnyangni-dong",
+      "MAIN_KEY": "BE_LiST22-0101"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Saegwang Pharmacy",
+      "TEL": "02-962-8989",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Jegi-dong",
+      "MAIN_KEY": "BE_LiST22-0102"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bokji Pharmacy",
+      "TEL": "02-2217-3606",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Dapsimni1-dong",
+      "MAIN_KEY": "BE_LiST22-0103"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chamewha Pharmacy",
+      "TEL": "02-2247-5029",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Dapsimni1-dong",
+      "MAIN_KEY": "BE_LiST22-0104"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Janganpyeong Pharmacy",
+      "TEL": "02-2212-9430",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Jangan2-dong",
+      "MAIN_KEY": "BE_LiST22-0105"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Saeewha Pharmacy",
+      "TEL": "02-2214-2488",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Jangan2-dong",
+      "MAIN_KEY": "BE_LiST22-0106"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Nana Pharmacy",
+      "TEL": "02-2245-2594",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Jangan2-dong",
+      "MAIN_KEY": "BE_LiST22-0107"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dongdaemun Pharmacy",
+      "TEL": "02-965-7162",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Yongsin-dong",
+      "MAIN_KEY": "BE_LiST22-0108"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dongdaemun 21st Century Pharmacy",
+      "TEL": "02-964-1717",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Yongsin-dong",
+      "MAIN_KEY": "BE_LiST22-0109"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dapsimni Baekhwajeom Pharmacy",
+      "TEL": "02-2215-9454",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Dapsimni2-dong",
+      "MAIN_KEY": "BE_LiST22-0110"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Newmedical Pharmacy",
+      "TEL": "02-2215-6291",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Jeonnong1-dong",
+      "MAIN_KEY": "BE_LiST22-0111"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinhaengdang Pharmacy",
+      "TEL": "02-2212-1931",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Jeonnong2-dong",
+      "MAIN_KEY": "BE_LiST22-0112"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Eunhyedang Pharmacy",
+      "TEL": "02-437-3337",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Myeonmok2-dong",
+      "MAIN_KEY": "BE_LiST22-0113"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Saebonghwa Pharmacy",
+      "TEL": "02-3421-3383",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Sinnae2-dong",
+      "MAIN_KEY": "BE_LiST22-0114"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geongang Jeil Onnuri Pharmacy",
+      "TEL": "02-491-1114",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Junghwa1-dong",
+      "MAIN_KEY": "BE_LiST22-0115"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ian Onnuri Pharmacy",
+      "TEL": "02-493-5074",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Myeonmok7-dong",
+      "MAIN_KEY": "BE_LiST22-0116"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Naeul",
+      "TEL": "02-433-4955",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Myeonmok5-dong",
+      "MAIN_KEY": "BE_LiST22-0117"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Taereung Plaza ",
+      "TEL": "02-2208-0922",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Junghwa2-dong",
+      "MAIN_KEY": "BE_LiST22-0118"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Uri Jongno ",
+      "TEL": "02-433-1100",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Mangubon-dong",
+      "MAIN_KEY": "BE_LiST22-0119"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Medical ",
+      "TEL": "02-3422-5000",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Sinnae1-dong",
+      "MAIN_KEY": "BE_LiST22-0120"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Unyong Pharmacy",
+      "TEL": "02-912-3417",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jongam-dong",
+      "MAIN_KEY": "BE_LiST22-0121"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gangwon Pharmacy",
+      "TEL": "02-914-8814",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung2-dong",
+      "MAIN_KEY": "BE_LiST22-0122"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Gomyeong Pharmacy",
+      "TEL": "02-923-6811",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Donam1-dong",
+      "MAIN_KEY": "BE_LiST22-0123"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Alpha Pharmacy",
+      "TEL": "02-918-7692",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Seongbuk-dong",
+      "MAIN_KEY": "BE_LiST22-0124"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Onnuri Cheongsu Pharmacy",
+      "TEL": "02-913-2328",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung4-dong",
+      "MAIN_KEY": "BE_LiST22-0125"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeongsaeng Pharmacy",
+      "TEL": "02-928-5777",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jongam-dong",
+      "MAIN_KEY": "BE_LiST22-0126"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinseonmyeong Pharmacy",
+      "TEL": "02-966-5913",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Seokgwan-dong",
+      "MAIN_KEY": "BE_LiST22-0127"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daerimdang Pharmacy",
+      "TEL": "02-913-0832",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Gireum1-dong",
+      "MAIN_KEY": "BE_LiST22-0128"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jaseong Pharmacy",
+      "TEL": "02-928-8974",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Anam-dong",
+      "MAIN_KEY": "BE_LiST22-0129"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Busan Pharmacy",
+      "TEL": "02-915-4560",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jangwi2-dong",
+      "MAIN_KEY": "BE_LiST22-0130"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeongneung Pharmacy",
+      "TEL": "02-914-3982",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung4-dong",
+      "MAIN_KEY": "BE_LiST22-0131"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daegeon Pharmacy",
+      "TEL": "02-914-6815",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung1-dong",
+      "MAIN_KEY": "BE_LiST22-0132"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Taemyeong Pharmacy",
+      "TEL": "02-915-1365",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jangwi3-dong",
+      "MAIN_KEY": "BE_LiST22-0133"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Namjin Pharmacy",
+      "TEL": "02-913-9270",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Gireum1-dong",
+      "MAIN_KEY": "BE_LiST22-0134"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sejong Pharmacy",
+      "TEL": "02-914-3685",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung4-dong",
+      "MAIN_KEY": "BE_LiST22-0135"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Onnuri Jae Pharmacy",
+      "TEL": "02-926-6678",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Bomun-dong",
+      "MAIN_KEY": "BE_LiST22-0136"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Inhyeon Pharmacy",
+      "TEL": "02-918-7353",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jangwi1-dong",
+      "MAIN_KEY": "BE_LiST22-0137"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bogeon Pharmacy",
+      "TEL": "02-915-1336",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jangwi1-dong",
+      "MAIN_KEY": "BE_LiST22-0138"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Baekgyeong Pharmacy",
+      "TEL": "02-963-8974",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Seokgwan-dong",
+      "MAIN_KEY": "BE_LiST22-0139"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dongseon Pharmacy",
+      "TEL": "02-923-7731",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Dongseon-dong",
+      "MAIN_KEY": "BE_LiST22-0140"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Subo Pharmacy",
+      "TEL": "02-914-1555",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung3-dong",
+      "MAIN_KEY": "BE_LiST22-0141"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gwanmun Pharmacy",
+      "TEL": "02-915-1241",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jangwi3-dong",
+      "MAIN_KEY": "BE_LiST22-0142"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Guwon Pharmacy",
+      "TEL": "02-913-1139",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Wolgok2-dong",
+      "MAIN_KEY": "BE_LiST22-0143"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Nabaron Pharmacy",
+      "TEL": "02-762-6300",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Samseon-dong",
+      "MAIN_KEY": "BE_LiST22-0144"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Saeminu Pharmacy",
+      "TEL": "02-917-4275",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung1-dong",
+      "MAIN_KEY": "BE_LiST22-0145"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Good Morning Pharmacy",
+      "TEL": "02-913-3623",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Samseon-dong",
+      "MAIN_KEY": "BE_LiST22-0146"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Somang Pharmacy",
+      "TEL": "02-918-8055",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung1-dong",
+      "MAIN_KEY": "BE_LiST22-0147"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jangil Pharmacy",
+      "TEL": "02-916-8373",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung1-dong",
+      "MAIN_KEY": "BE_LiST22-0148"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dongbu Pharmacy",
+      "TEL": "02-983-7950",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Gireum2-dong",
+      "MAIN_KEY": "BE_LiST22-0149"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gungmin Pharmacy",
+      "TEL": "02-914-5782",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung3-dong",
+      "MAIN_KEY": "BE_LiST22-0150"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Modang Pharmacy",
+      "TEL": "02-925-4465",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Dongseon-dong",
+      "MAIN_KEY": "BE_LiST22-0151"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sewon Pharmacy",
+      "TEL": "02-922-6060",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Dongseon-dong",
+      "MAIN_KEY": "BE_LiST22-0152"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Onnuri Minu Pharmacy",
+      "TEL": "02-969-4582",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Seokgwan-dong",
+      "MAIN_KEY": "BE_LiST22-0153"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Onnuri Jinho Pharmacy",
+      "TEL": "02-964-1944",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Seokgwan-dong",
+      "MAIN_KEY": "BE_LiST22-0154"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seungil Pharmacy",
+      "TEL": "02-915-4057",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jangwi3-dong",
+      "MAIN_KEY": "BE_LiST22-0155"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daehak Pharmacy",
+      "TEL": "02-924-1919",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Anam-dong",
+      "MAIN_KEY": "BE_LiST22-0156"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hyejo Pharmacy",
+      "TEL": "02-922-5076",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jongam-dong",
+      "MAIN_KEY": "BE_LiST22-0157"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Simhwa Pharmacy",
+      "TEL": "02-911-4642",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jangwi1-dong",
+      "MAIN_KEY": "BE_LiST22-0158"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Wolgok Pharmacy",
+      "TEL": "02-913-2900",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Wolgok2-dong",
+      "MAIN_KEY": "BE_LiST22-0159"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geonganghan Pharmacy",
+      "TEL": "02-916-6445",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Wolgok1-dong",
+      "MAIN_KEY": "BE_LiST22-0160"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Onnuri Seongmo Pharmacy",
+      "TEL": "02-927-1282",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Samseon-dong",
+      "MAIN_KEY": "BE_LiST22-0161"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hwaseong Pharmacy",
+      "TEL": "02-913-8936",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Wolgok1-dong",
+      "MAIN_KEY": "BE_LiST22-0162"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Taepyeongyang Pharmacy",
+      "TEL": "02-919-2525",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung4-dong",
+      "MAIN_KEY": "BE_LiST22-0163"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bumin Pharmacy",
+      "TEL": "02-912-7393",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Wolgok2-dong",
+      "MAIN_KEY": "BE_LiST22-0164"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Onnuri Dusan Pharmacy",
+      "TEL": "02-959-2668",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Seokgwan-dong",
+      "MAIN_KEY": "BE_LiST22-0165"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gwanghyedang Pharmacy",
+      "TEL": "02-942-5199",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jangwi2-dong",
+      "MAIN_KEY": "BE_LiST22-0166"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cheongsipja Pharmacy",
+      "TEL": "02-923-2393",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Bomun-dong",
+      "MAIN_KEY": "BE_LiST22-0167"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hana Onnuri Pharmacy",
+      "TEL": "02-914-0035",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Wolgok2-dong",
+      "MAIN_KEY": "BE_LiST22-0168"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mirae Pharmacy",
+      "TEL": "02-924-5264",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Anam-dong",
+      "MAIN_KEY": "BE_LiST22-0169"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeon Pharmacy",
+      "TEL": "02-3675-5778",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Samseon-dong",
+      "MAIN_KEY": "BE_LiST22-0170"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samwon Pharmacy",
+      "TEL": "02-941-8550",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jongam-dong",
+      "MAIN_KEY": "BE_LiST22-0171"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bomun Pharmacy",
+      "TEL": "02-921-3844",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Bomun-dong",
+      "MAIN_KEY": "BE_LiST22-0172"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Wellbeing Ujeong Pharmacy",
+      "TEL": "02-941-1923",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Wolgok1-dong",
+      "MAIN_KEY": "BE_LiST22-0173"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinsewon Pharmacy",
+      "TEL": "02-909-0928",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Gireum1-dong",
+      "MAIN_KEY": "BE_LiST22-0174"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Baekdusan Pharmacy",
+      "TEL": "02-927-2792",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Anam-dong",
+      "MAIN_KEY": "BE_LiST22-0175"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hansol Pharmacy",
+      "TEL": "02-926-6479",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Samseon-dong",
+      "MAIN_KEY": "BE_LiST22-0176"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chamsarang Pharmacy",
+      "TEL": "02-942-3137",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jangwi1-dong",
+      "MAIN_KEY": "BE_LiST22-0177"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeongneung Medical Pharmacy",
+      "TEL": "02-912-2727",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung1-dong",
+      "MAIN_KEY": "BE_LiST22-0178"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jiseon Pharmacy",
+      "TEL": "02-911-1996",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jangwi2-dong",
+      "MAIN_KEY": "BE_LiST22-0179"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "21st Century Goryeo Pharmacy",
+      "TEL": "02-929-9696",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Anam-dong",
+      "MAIN_KEY": "BE_LiST22-0180"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Optima Simin Pharmacy",
+      "TEL": "02-928-8663",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Bomun-dong",
+      "MAIN_KEY": "BE_LiST22-0181"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ansae Pharmacy",
+      "TEL": "02-2202-4484",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Samseon-dong",
+      "MAIN_KEY": "BE_LiST22-0182"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gilleum Medical Pharmacy",
+      "TEL": "02-915-5777",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Gireum1-dong",
+      "MAIN_KEY": "BE_LiST22-0183"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jun Pharmacy",
+      "TEL": "02-764-4835",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Seongbuk-dong",
+      "MAIN_KEY": "BE_LiST22-0184"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Haeoreum Pharmacy",
+      "TEL": "02-912-2302",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung4-dong",
+      "MAIN_KEY": "BE_LiST22-0185"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Miso Pharmacy",
+      "TEL": "02-744-4415",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Samseon-dong",
+      "MAIN_KEY": "BE_LiST22-0186"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Medical Pham Pharmacy",
+      "TEL": "02-909-0508",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Wolgok1-dong",
+      "MAIN_KEY": "BE_LiST22-0187"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geu Pharmacy",
+      "TEL": "02-911-0488",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung4-dong",
+      "MAIN_KEY": "BE_LiST22-0188"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seon Pharmacy",
+      "TEL": "02-942-4553",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jangwi1-dong",
+      "MAIN_KEY": "BE_LiST22-0189"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cheongsol Pharmacy",
+      "TEL": "02-909-8067",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jangwi3-dong",
+      "MAIN_KEY": "BE_LiST22-0190"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dongin Pharmacy",
+      "TEL": "02-926-3533",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Dongseon-dong",
+      "MAIN_KEY": "BE_LiST22-0191"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Aisarang Pharmacy",
+      "TEL": "070-8616-4340",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung1-dong",
+      "MAIN_KEY": "BE_LiST22-0192"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Vitamin ",
+      "TEL": "02-902-4797",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Chang1-dong",
+      "MAIN_KEY": "BE_LiST22-0285"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daewoo Silloam Pharmacy",
+      "TEL": "02-2602-6489",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinwol5-dong",
+      "MAIN_KEY": "BE_LiST22-0342"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mart Onnuri Pharmacy",
+      "TEL": "02-2651-3467",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Mok1-dong",
+      "MAIN_KEY": "BE_LiST22-0343"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Medipham Samseong Pharmacy",
+      "TEL": "02-2643-9685",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Mok1-dong",
+      "MAIN_KEY": "BE_LiST22-0344"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Munhwa Pharmacy",
+      "TEL": "02-2602-5602",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinwol7-dong",
+      "MAIN_KEY": "BE_LiST22-0345"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sujeong Pharmacy",
+      "TEL": "02-2644-3395",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinjeong3-dong",
+      "MAIN_KEY": "BE_LiST22-0346"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinwolsijang Pharmacy",
+      "TEL": "02-2602-7613",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinwol1-dong",
+      "MAIN_KEY": "BE_LiST22-0347"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yein Pharmacy",
+      "TEL": "02-2692-4373",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinwol7-dong",
+      "MAIN_KEY": "BE_LiST22-0348"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Orangelime Pharmacy",
+      "TEL": "02-2601-8557",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinjeong4-dong",
+      "MAIN_KEY": "BE_LiST22-0349"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "World Pharmacy",
+      "TEL": "02-6678-2244",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Mok5-dong",
+      "MAIN_KEY": "BE_LiST22-0350"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Eunhye Pharmacy",
+      "TEL": "02-2698-1635",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinjeong4-dong",
+      "MAIN_KEY": "BE_LiST22-0351"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jaemin Pharmacy",
+      "TEL": "02-2603-3918",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinwol1-dong",
+      "MAIN_KEY": "BE_LiST22-0352"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cheongsong Onnuri Pharmacy",
+      "TEL": "02-2651-5319",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Mok4-dong",
+      "MAIN_KEY": "BE_LiST22-0353"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gangseo Yeonsae Pharmacy",
+      "TEL": "02-2606-1531",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok6-dong",
+      "MAIN_KEY": "BE_LiST22-0354"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daehyeon Onnuri Pharmacy",
+      "TEL": "02-2668-2525",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Deungchon1-dong",
+      "MAIN_KEY": "BE_LiST22-0355"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bayer Pharmacy",
+      "TEL": "02-2607-0217",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok1-dong",
+      "MAIN_KEY": "BE_LiST22-0356"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hanbit Pharmacy",
+      "TEL": "02-2658-7371",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Deungchon3-dong",
+      "MAIN_KEY": "BE_LiST22-0357"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Buyeong Pharmacy",
+      "TEL": "02-3663-1809",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Deungchon3-dong",
+      "MAIN_KEY": "BE_LiST22-0358"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gayang Jongno Pharmacy",
+      "TEL": "02-2659-2356",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Deungchon3-dong",
+      "MAIN_KEY": "BE_LiST22-0359"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeonsudang Pharmacy",
+      "TEL": "02-2694-7582",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok8-dong",
+      "MAIN_KEY": "BE_LiST22-0360"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Uri Onnuri Pharmacy",
+      "TEL": "02-2692-7020",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok1-dong",
+      "MAIN_KEY": "BE_LiST22-0361"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "21C Saegyero Pharmacy",
+      "TEL": "02-2607-0624",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Ujangsan-dong",
+      "MAIN_KEY": "BE_LiST22-0362"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeil Medical Pharmacy",
+      "TEL": "02-6402-3579",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok1-dong",
+      "MAIN_KEY": "BE_LiST22-0363"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gukjae Gonghang Pharmacy",
+      "TEL": "02-2664-1350",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Banghwa2-dong",
+      "MAIN_KEY": "BE_LiST22-0364"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Taepyeongyang Pharmacy",
+      "TEL": "02-2652-7214",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok4-dong",
+      "MAIN_KEY": "BE_LiST22-0365"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sol Pharmacy",
+      "TEL": "02-3662-8899",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Deungchon1-dong",
+      "MAIN_KEY": "BE_LiST22-0366"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeseong Pharmacy",
+      "TEL": "02-2699-9513",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok1-dong",
+      "MAIN_KEY": "BE_LiST22-0367"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cheongwa Pharmacy",
+      "TEL": "02-855-1482",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Garibong-dong",
+      "MAIN_KEY": "BE_LiST22-0368"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Joeun Pharmacy",
+      "TEL": "02-2615-6999",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Gaebong1-dong",
+      "MAIN_KEY": "BE_LiST22-0369"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Taeyeong Plaza Pharmacy",
+      "TEL": "02-2068-5733",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Sindorim-dong",
+      "MAIN_KEY": "BE_LiST22-0370"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeollin Pharmacy",
+      "TEL": "02-2625-6040",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Gocheok2-dong",
+      "MAIN_KEY": "BE_LiST22-0371"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Guro Plaza Pharmacy",
+      "TEL": "02-2613-6044",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Gaebong3-dong",
+      "MAIN_KEY": "BE_LiST22-0372"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hanmaeul Pharmacy",
+      "TEL": "02-2613-3006",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Gaebong1-dong",
+      "MAIN_KEY": "BE_LiST22-0373"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Family Pharmacy",
+      "TEL": "02-2683-3785",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Gocheok2-dong",
+      "MAIN_KEY": "BE_LiST22-0374"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Aisarang Taepyeongyang Pharmacy",
+      "TEL": "02-853-3001",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Guro5-dong",
+      "MAIN_KEY": "BE_LiST22-0375"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jongno Plaza Pharmacy",
+      "TEL": "02-839-7422",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Guro4-dong",
+      "MAIN_KEY": "BE_LiST22-0376"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Medisin Pharmacy",
+      "TEL": "02-2687-0322",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Gocheok2-dong",
+      "MAIN_KEY": "BE_LiST22-0377"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daehak Pharmacy",
+      "TEL": "02-865-4910",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Guro2-dong",
+      "MAIN_KEY": "BE_LiST22-0378"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cham Onnuri Pharmacy",
+      "TEL": "070-4222-1177",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Oryu2-dong",
+      "MAIN_KEY": "BE_LiST22-0379"
+    },
+    {
+      "H_ENG_CITY": null,
+      "NAME_ENG": "Gasan Pharmacy",
+      "TEL": "02-838-1158",
+      "H_ENG_GU": null,
+      "H_ENG_DONG": null,
+      "MAIN_KEY": "BE_LiST22-0380"
+    },
+    {
+      "H_ENG_CITY": null,
+      "NAME_ENG": "Thomas Pharmacy",
+      "TEL": "02-855-3843",
+      "H_ENG_GU": null,
+      "H_ENG_DONG": null,
+      "MAIN_KEY": "BE_LiST22-0381"
+    },
+    {
+      "H_ENG_CITY": null,
+      "NAME_ENG": "Sinyang Nuri Pharmacy",
+      "TEL": "02-804-1230",
+      "H_ENG_GU": null,
+      "H_ENG_DONG": null,
+      "MAIN_KEY": "BE_LiST22-0382"
+    },
+    {
+      "H_ENG_CITY": null,
+      "NAME_ENG": "Medipham Keunsarang Pharmacy",
+      "TEL": "02-805-8943",
+      "H_ENG_GU": null,
+      "H_ENG_DONG": null,
+      "MAIN_KEY": "BE_LiST22-0383"
+    },
+    {
+      "H_ENG_CITY": null,
+      "NAME_ENG": "Yungyeon Pharmacy",
+      "TEL": "02-802-5639, 838-9256",
+      "H_ENG_GU": null,
+      "H_ENG_DONG": null,
+      "MAIN_KEY": "BE_LiST22-0384"
+    },
+    {
+      "H_ENG_CITY": null,
+      "NAME_ENG": "Hanjung Pharmacy",
+      "TEL": "02-804-6985",
+      "H_ENG_GU": null,
+      "H_ENG_DONG": null,
+      "MAIN_KEY": "BE_LiST22-0385"
+    },
+    {
+      "H_ENG_CITY": null,
+      "NAME_ENG": "Jeonjinsang Pharmacy",
+      "TEL": "02-802-9314",
+      "H_ENG_GU": null,
+      "H_ENG_DONG": null,
+      "MAIN_KEY": "BE_LiST22-0386"
+    },
+    {
+      "H_ENG_CITY": null,
+      "NAME_ENG": "Mommy Pharmacy",
+      "TEL": "02-895-8902",
+      "H_ENG_GU": null,
+      "H_ENG_DONG": null,
+      "MAIN_KEY": "BE_LiST22-0387"
+    },
+    {
+      "H_ENG_CITY": null,
+      "NAME_ENG": "Plaza Pharmacy",
+      "TEL": "02-2026-0011",
+      "H_ENG_GU": null,
+      "H_ENG_DONG": null,
+      "MAIN_KEY": "BE_LiST22-0388"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Pyeongan Onnuri Pharmacy",
+      "TEL": "02-2634-6769",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Yangpyeong2-dong",
+      "MAIN_KEY": "BE_LiST22-0389"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yukgyo Pharmacy",
+      "TEL": "02-833-4830",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Singil4-dong",
+      "MAIN_KEY": "BE_LiST22-0390"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Onnuri Pharmacy",
+      "TEL": "02-3667-1360",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Dangsan1-dong",
+      "MAIN_KEY": "BE_LiST22-0391"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bubujeong Pharmacy",
+      "TEL": "02-2676-8288",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Dangsan2-dong",
+      "MAIN_KEY": "BE_LiST22-0392"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seongyeong Pharmacy",
+      "TEL": "02-786-1192",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Yeoui-dong",
+      "MAIN_KEY": "BE_LiST22-0393"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ido Pharmacy",
+      "TEL": "02-2633-7167",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Dangsan1-dong",
+      "MAIN_KEY": "BE_LiST22-0394"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Heukseok Pharmacy",
+      "TEL": "02-884-1511",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Heukseok-dong",
+      "MAIN_KEY": "BE_LiST22-0395"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daeil Pharmacy",
+      "TEL": "02-591-4655",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sadang2-dong",
+      "MAIN_KEY": "BE_LiST22-0396"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hyoseong Pharmacy",
+      "TEL": "02-813-0467",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sangdo2-dong",
+      "MAIN_KEY": "BE_LiST22-0397"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hwasaeng Pharmacy",
+      "TEL": "02-813-1551",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Noryangjin2-dong",
+      "MAIN_KEY": "BE_LiST22-0398"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gangrim Pharmacy",
+      "TEL": "02-832-8975",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sindaebang1-dong",
+      "MAIN_KEY": "BE_LiST22-0399"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Optima Dajeong Pharmacy",
+      "TEL": "02-595-8804",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sadang2-dong",
+      "MAIN_KEY": "BE_LiST22-0400"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seongdae Pharmacy",
+      "TEL": "02-821-1519",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sangdo4-dong",
+      "MAIN_KEY": "BE_LiST22-0401"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Boramae Daehak Pharmacy",
+      "TEL": "02-831-1922",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sindaebang2-dong",
+      "MAIN_KEY": "BE_LiST22-0402"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Haeddeuneun Pharmacy",
+      "TEL": "02-816-3869",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sangdo1-dong",
+      "MAIN_KEY": "BE_LiST22-0403"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sadang Plaza Pharmacy",
+      "TEL": "02-3474-4170",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sadang4-dong",
+      "MAIN_KEY": "BE_LiST22-0404"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hanbit Pyeonghwa Pharmacy",
+      "TEL": "02-848-4566",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sindaebang1-dong",
+      "MAIN_KEY": "BE_LiST22-0405"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sindaebang Pharmacy",
+      "TEL": "02-822-1344",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Daebang-dong",
+      "MAIN_KEY": "BE_LiST22-0406"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Haegadeun Pharmacy",
+      "TEL": "02-821-8531",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sadang2-dong",
+      "MAIN_KEY": "BE_LiST22-0407"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Keunsarang Pharmacy",
+      "TEL": "02-826-8976",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sangdo1-dong",
+      "MAIN_KEY": "BE_LiST22-0408"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeollin Pharmacy",
+      "TEL": "02-849-8250",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sindaebang2-dong",
+      "MAIN_KEY": "BE_LiST22-0409"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinsemyeong Pharmacy",
+      "TEL": "02-812-0993",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Heukseok-dong",
+      "MAIN_KEY": "BE_LiST22-0410"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Badauibyeol Pharmacy",
+      "TEL": "02-821-3130",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sangdo2-dong",
+      "MAIN_KEY": "BE_LiST22-0411"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinjungang Pharmacy",
+      "TEL": "02-822-0443",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Heukseok-dong",
+      "MAIN_KEY": "BE_LiST22-0412"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Boramae Joeun Pharmacy",
+      "TEL": "02-833-9505",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sindaebang2-dong",
+      "MAIN_KEY": "BE_LiST22-0413"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geumgang Pharmacy",
+      "TEL": "02-817-1918",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Noryangjin1-dong",
+      "MAIN_KEY": "BE_LiST22-0414"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Eommarang Pharmacy",
+      "TEL": "02-813-1593",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Noryangjin2-dong",
+      "MAIN_KEY": "BE_LiST22-0415"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chinjeolhan Pharmacy",
+      "TEL": "02-584-0072",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sadang4-dong",
+      "MAIN_KEY": "BE_LiST22-0416"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Taepyeongyang Pharmacy",
+      "TEL": "02-3477-9477",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sadang3-dong",
+      "MAIN_KEY": "BE_LiST22-0417"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeongdaun Pharmacy",
+      "TEL": "02-6267-7575",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Noryangjin1-dong",
+      "MAIN_KEY": "BE_LiST22-0418"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Teunteun Pharmacy",
+      "TEL": "02-856-0528",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Sinwon-dong",
+      "MAIN_KEY": "BE_LiST22-0419"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Orange Pharmacy",
+      "TEL": "02-888-5887",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Nakseongdae-dong",
+      "MAIN_KEY": "BE_LiST22-0420"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bongcheon Plaza Pharmacy",
+      "TEL": "02-875-1711",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Cheongnyong-dong",
+      "MAIN_KEY": "BE_LiST22-0421"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Injae Pharmacy",
+      "TEL": "02-877-8597",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Samseong-dong",
+      "MAIN_KEY": "BE_LiST22-0422"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hanmi Pharmacy",
+      "TEL": "02-878-7949",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Samseong-dong",
+      "MAIN_KEY": "BE_LiST22-0423"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bomnae Pharmacy",
+      "TEL": "02-882-8234",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Cheongnyong-dong",
+      "MAIN_KEY": "BE_LiST22-0424"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geongang Pharmacy",
+      "TEL": "02-764-9918",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Hyehwa-dong",
+      "MAIN_KEY": "BE_LiST22-0001"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gongsaeng Pharmacy",
+      "TEL": "02-2273-7826",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno5.6ga-dong",
+      "MAIN_KEY": "BE_LiST22-0002"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Green Pharmacy",
+      "TEL": "02-745-2112",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Changsin1-dong",
+      "MAIN_KEY": "BE_LiST22-0003"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Noksipja Pharmacy",
+      "TEL": "02-765-2766",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Changsin2-dong",
+      "MAIN_KEY": "BE_LiST22-0004"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dangol Pharmacy",
+      "TEL": "02-745-0731",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sungin1-dong",
+      "MAIN_KEY": "BE_LiST22-0005"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daeseong Pharmacy",
+      "TEL": "02-743-5800",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Changsin1-dong",
+      "MAIN_KEY": "BE_LiST22-0006"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daeseoul Pharmacy",
+      "TEL": "02-762-6060",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST22-0007"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daehak Pharmacy",
+      "TEL": "02-3672-3672",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST22-0008"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dokil Pharmacy",
+      "TEL": "02-764-5511",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Changsin1-dong",
+      "MAIN_KEY": "BE_LiST22-0009"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Humun",
+      "TEL": "02-995-8588",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Chang1-dong",
+      "MAIN_KEY": "BE_LiST22-0286"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geongangjaeil Green Cross Pharmacy",
+      "TEL": "02-906-1024",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Ssangmun2-dong",
+      "MAIN_KEY": "BE_LiST22-0287"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jongno Saemyeong Pharmacy",
+      "TEL": "02-3492-9963",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Banghak2-dong",
+      "MAIN_KEY": "BE_LiST22-0288"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cheongsu Pharmacy",
+      "TEL": "02-3493-6912",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Banghak2-dong",
+      "MAIN_KEY": "BE_LiST22-0289"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ssangmun Sangnoksu Pharmacy",
+      "TEL": "02-990-0600",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Ui-dong",
+      "MAIN_KEY": "BE_LiST22-0290"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ewha Pharmacy",
+      "TEL": "02-951-6102",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Junggyebon-dong",
+      "MAIN_KEY": "BE_LiST22-0291"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Nahyeon Pharmacy",
+      "TEL": "02-936-7718",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Sanggye2-dong",
+      "MAIN_KEY": "BE_LiST22-0292"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinheung Pharmacy",
+      "TEL": "02-974-3414",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Hagye1-dong",
+      "MAIN_KEY": "BE_LiST22-0293"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Pyeonggang Sangnoksu Pharmacy",
+      "TEL": "02-935-6644",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Sanggye8-dong",
+      "MAIN_KEY": "BE_LiST22-0294"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yurim Pharmacy",
+      "TEL": "02-930-6858",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Sanggye1-dong",
+      "MAIN_KEY": "BE_LiST22-0295"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Madeul Soa Pharmacy",
+      "TEL": "02-932-3900",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Sanggye9-dong",
+      "MAIN_KEY": "BE_LiST22-0296"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Pureunbada Pharmacy",
+      "TEL": "02-941-3838",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Wolgye1-dong",
+      "MAIN_KEY": "BE_LiST22-0297"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seogyeong Pharmacy",
+      "TEL": "02-933-0747",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Sanggye5-dong",
+      "MAIN_KEY": "BE_LiST22-0298"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cham Pharmacy",
+      "TEL": "02-979-2204",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Hagye2-dong",
+      "MAIN_KEY": "BE_LiST22-0299"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Madeul Hanjung Pharmacy",
+      "TEL": "02-937-3393",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Sanggye8-dong",
+      "MAIN_KEY": "BE_LiST22-0300"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Medipham Pharmacy",
+      "TEL": "02-372-9791",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Sinsa1-dong",
+      "MAIN_KEY": "BE_LiST22-0301"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seonu Pharmacy",
+      "TEL": "02-302-5583",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Sinsa1-dong",
+      "MAIN_KEY": "BE_LiST22-0302"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seonghwan Pharmacy",
+      "TEL": "02-355-8374",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Yeokchon-dong",
+      "MAIN_KEY": "BE_LiST22-0303"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sowon Pharmacy",
+      "TEL": "02-372-6474",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Susaek-dong",
+      "MAIN_KEY": "BE_LiST22-0304"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinsusaek Taepyeongyang Pharmacy",
+      "TEL": "02-307-7579",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Susaek-dong",
+      "MAIN_KEY": "BE_LiST22-0305"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Onnuri Saesomang Pharmacy",
+      "TEL": "02-309-3771",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Susaek-dong",
+      "MAIN_KEY": "BE_LiST22-0306"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yujin Pharmacy",
+      "TEL": "02-384-8877",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Galhyeon2-dong",
+      "MAIN_KEY": "BE_LiST22-0307"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chamsarang Pharmacy",
+      "TEL": "02-356-7676",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Eungam1-dong",
+      "MAIN_KEY": "BE_LiST22-0308"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Choi Pharmacy",
+      "TEL": "02-302-7121",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Susaek-dong",
+      "MAIN_KEY": "BE_LiST22-0309"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Onnuri Solbit Pharmacy",
+      "TEL": "02-355-8224",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Yeokchon-dong",
+      "MAIN_KEY": "BE_LiST22-0310"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yujeong Pharmacy",
+      "TEL": "02-355-6270",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Bulgwang2-dong",
+      "MAIN_KEY": "BE_LiST22-0311"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeonhui Withpham Pharmacy",
+      "TEL": "02-312-6949",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_LiST22-0312"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Doksuri Pharmacy",
+      "TEL": "02-3147-0770",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_LiST22-0313"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daehak Pharmacy",
+      "TEL": "02-323-0111",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_LiST22-0314"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hansarang Onnuri Pharmacy",
+      "TEL": "02-364-5455",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_LiST22-0315"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeongmun Pharmacy",
+      "TEL": "02-324-4652",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_LiST22-0316"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Withpham Sinchon Pharmacy",
+      "TEL": "02-312-5103",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_LiST22-0317"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Saeyeon Pharmacy",
+      "TEL": "02-364-6141",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_LiST22-0318"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hongjaebom Pharmacy",
+      "TEL": "02-394-3599",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Hongje1-dong",
+      "MAIN_KEY": "BE_LiST22-0319"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sandeul Pharmacy",
+      "TEL": "02-723-9887",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Hongje3-dong",
+      "MAIN_KEY": "BE_LiST22-0320"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Sol Pharmacy",
+      "TEL": "02-998-9310",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Hongje2-dong",
+      "MAIN_KEY": "BE_LiST22-0321"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hanmi Pharmacy",
+      "TEL": "02-375-3548",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Namgajwa1-dong",
+      "MAIN_KEY": "BE_LiST22-0322"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeonhui Jongno Pharmacy",
+      "TEL": "02-3141-4040",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Yeonhui-dong",
+      "MAIN_KEY": "BE_LiST22-0323"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Pureun Pharmacy",
+      "TEL": "02-373-0547",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Namgajwa2-dong",
+      "MAIN_KEY": "BE_LiST22-0324"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ilsim Pharmacy",
+      "TEL": "02-392-3333",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_LiST22-0325"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mari Pharmacy",
+      "TEL": "02-6009-1166",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Ahyeon-dong",
+      "MAIN_KEY": "BE_LiST22-0326"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Optima Ganghwa Pharmacy",
+      "TEL": "02-337-6969",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST22-0327"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dana Pharmacy",
+      "TEL": "02-715-3133",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Daheung-dong",
+      "MAIN_KEY": "BE_LiST22-0328"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Vitamin Pharmacy",
+      "TEL": "02-713-6563",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Daheung-dong",
+      "MAIN_KEY": "BE_LiST22-0329"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Segwang Tower Pharmacy",
+      "TEL": "02-701-2141",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Daheung-dong",
+      "MAIN_KEY": "BE_LiST22-0330"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mapo Jongno Pharmacy",
+      "TEL": "02-336-3496",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Mangwon1-dong",
+      "MAIN_KEY": "BE_LiST22-0331"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Taepyeongyang Pharmacy",
+      "TEL": "02-322-8344",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST22-0332"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Udae Pharmacy",
+      "TEL": "02-718-4897",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Gongdeok-dong",
+      "MAIN_KEY": "BE_LiST22-0333"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeulgeoun Pharmacy",
+      "TEL": "02-714-7588",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeomni-dong",
+      "MAIN_KEY": "BE_LiST22-0334"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Medipham Sinmapo Pharmacy",
+      "TEL": "02-324-4625",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogang-dong",
+      "MAIN_KEY": "BE_LiST22-0335"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinchon Saemin Pharmacy",
+      "TEL": "02-323-0900",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST22-0336"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hyundae Madical Pharmacy",
+      "TEL": "02-2163-3968",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Mok1-dong",
+      "MAIN_KEY": "BE_LiST22-0337"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yein Pharmacy",
+      "TEL": "02-2693-4373",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinwol7-dong",
+      "MAIN_KEY": "BE_LiST22-0338"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "World Pharmacy",
+      "TEL": "02-6678-2244",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Mok5-dong",
+      "MAIN_KEY": "BE_LiST22-0339"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yangsaeng Pharmacy",
+      "TEL": "02-872-9954",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Nakseongdae-dong",
+      "MAIN_KEY": "BE_LiST22-0425"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Brownstone Pharmacy",
+      "TEL": "02-598-2545",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho1-dong",
+      "MAIN_KEY": "BE_LiST22-0426"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Haengboknanum Pharmacy",
+      "TEL": "02-533-3107",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Banpo1-dong",
+      "MAIN_KEY": "BE_LiST22-0427"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Segyero Pharmacy",
+      "TEL": "02-3474-2599",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Bangbae2-dong",
+      "MAIN_KEY": "BE_LiST22-0428"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mingyeong Pharmacy",
+      "TEL": "02-517-0072",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Jamwon-dong",
+      "MAIN_KEY": "BE_LiST22-0429"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ara Pharmacy",
+      "TEL": "02-530-8575",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho4-dong",
+      "MAIN_KEY": "BE_LiST22-0430"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Noksipja Pharmacy",
+      "TEL": "02-533-5287",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Bangbae4-dong",
+      "MAIN_KEY": "BE_LiST22-0431"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Duri Pharmacy",
+      "TEL": "02-583-9305",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho2-dong",
+      "MAIN_KEY": "BE_LiST22-0432"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Neulpureun Pharmacy",
+      "TEL": "02-597-4425",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho3-dong",
+      "MAIN_KEY": "BE_LiST22-0433"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dana Pharmacy",
+      "TEL": "02-597-3514",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho3-dong",
+      "MAIN_KEY": "BE_LiST22-0434"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yangjae Pham 24 Pharmacy",
+      "TEL": "02-581-8224",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho2-dong",
+      "MAIN_KEY": "BE_LiST22-0435"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sino Pharmacy",
+      "TEL": "02-3482-3562",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho4-dong",
+      "MAIN_KEY": "BE_LiST22-0436"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Kim's Pharmacy",
+      "TEL": "02-537-5716",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Banpo3-dong",
+      "MAIN_KEY": "BE_LiST22-0437"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gangnam Medical Pharmacy",
+      "TEL": "02-594-0801",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Bangbae4-dong",
+      "MAIN_KEY": "BE_LiST22-0438"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hanaro Pharmacy",
+      "TEL": "02-578-4955",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Yangjae2-dong",
+      "MAIN_KEY": "BE_LiST22-0439"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geumhwa Pharmacy",
+      "TEL": "02-842-4484",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Banpo2-dong",
+      "MAIN_KEY": "BE_LiST22-0440"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seocho Samseong Pharmacy",
+      "TEL": "02-3474-0617",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho2-dong",
+      "MAIN_KEY": "BE_LiST22-0441"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Star Pharmacy",
+      "TEL": "02-3481-6688",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho4-dong",
+      "MAIN_KEY": "BE_LiST22-0442"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sadang No. 13 Pharmacy",
+      "TEL": "02-585-2113",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Bangbae2-dong",
+      "MAIN_KEY": "BE_LiST22-0443"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "City Pharmacy",
+      "TEL": "02-581-0075",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Bangbae1-dong",
+      "MAIN_KEY": "BE_LiST22-0444"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Good Morning Pharmacy",
+      "TEL": "02-6282-1213",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Banpo4-dong",
+      "MAIN_KEY": "BE_LiST22-0445"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dasarang Pharmacy",
+      "TEL": "02-581-5773",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho2-dong",
+      "MAIN_KEY": "BE_LiST22-0446"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinuseong Pharmacy",
+      "TEL": "02-536-3174",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho2-dong",
+      "MAIN_KEY": "BE_LiST22-0447"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gyodae Sarang Pharmacy",
+      "TEL": "02-3477-0312",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho4-dong",
+      "MAIN_KEY": "BE_LiST22-0448"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Point Pharmacy",
+      "TEL": "02-547-3196",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Nonhyeon1-dong",
+      "MAIN_KEY": "BE_LiST22-0449"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Somang Onnuri Pharmacy",
+      "TEL": "02-534-1287",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Nonhyeon2-dong",
+      "MAIN_KEY": "BE_LiST22-0450"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Medipham Mirae Pharmacy",
+      "TEL": "02-547-4340",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Nonhyeon1-dong",
+      "MAIN_KEY": "BE_LiST22-0451"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mi Plus Pharmacy",
+      "TEL": "02-517-2513",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Nonhyeon1-dong",
+      "MAIN_KEY": "BE_LiST22-0452"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Panax Pharmacy",
+      "TEL": "02-518-8766",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Nonhyeon1-dong",
+      "MAIN_KEY": "BE_LiST22-0453"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeil Grand Pharmacy",
+      "TEL": "02-546-0093",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Nonhyeon1-dong",
+      "MAIN_KEY": "BE_LiST22-0454"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Minsaeng Pharmacy",
+      "TEL": "02-547-7903",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Nonhyeon2-dong",
+      "MAIN_KEY": "BE_LiST22-0455"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Medi Pharmacy",
+      "TEL": "02-501-5063",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Daechi4-dong",
+      "MAIN_KEY": "BE_LiST22-0456"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dongseong Pharmacy",
+      "TEL": "02-566-3728",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Daechi2-dong",
+      "MAIN_KEY": "BE_LiST22-0457"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Onnuri Guindang Pharmacy",
+      "TEL": "02-552-5550",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Daechi2-dong",
+      "MAIN_KEY": "BE_LiST22-0458"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hwail Pharmacy",
+      "TEL": "02-362-8631,2",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Daechi4-dong",
+      "MAIN_KEY": "BE_LiST22-0459"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gaggaun Onnuri Pharmacy",
+      "TEL": "02-2650-8828",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinjeong6-dong",
+      "MAIN_KEY": "BE_LiST22-0340"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Naeoe Pharmacy",
+      "TEL": "02-2697-5065",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinwol4-dong",
+      "MAIN_KEY": "BE_LiST22-0341"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gangnam Boseon Pharmacy",
+      "TEL": "02-568-2310",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Daechi2-dong",
+      "MAIN_KEY": "BE_LiST22-0460"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hanti Pharmacy",
+      "TEL": "02-574-2575",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Dogok2-dong",
+      "MAIN_KEY": "BE_LiST22-0461"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sarang Plus Pharmacy",
+      "TEL": "02-2058-2745",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Dogok2-dong",
+      "MAIN_KEY": "BE_LiST22-0462"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeonu Pharmacy",
+      "TEL": "02-557-8672",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Dogok1-dong",
+      "MAIN_KEY": "BE_LiST22-0463"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gangnam Joeun Pharmacy",
+      "TEL": "02-571-9515",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Dogok1-dong",
+      "MAIN_KEY": "BE_LiST22-0464"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chamjoeun Pharmacy",
+      "TEL": "02-508-1363",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong1-dong",
+      "MAIN_KEY": "BE_LiST22-0465"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samseong Geongang Pharmacy",
+      "TEL": "02-517-3520",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Gaepo2-dong",
+      "MAIN_KEY": "BE_LiST22-0466"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Phammate Seonneung Sujeong Pharmacy",
+      "TEL": "02-558-8025",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong2-dong",
+      "MAIN_KEY": "BE_LiST22-0467"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gangnam Onnuri Pharmacy",
+      "TEL": "02-572-1452",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong2-dong",
+      "MAIN_KEY": "BE_LiST22-0468"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samseong Ilsin Pharmacy",
+      "TEL": "02-538-1018",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong2-dong",
+      "MAIN_KEY": "BE_LiST22-0469"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Somang Pharmacy",
+      "TEL": "02-555-6806",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong1-dong",
+      "MAIN_KEY": "BE_LiST22-0470"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Optima Daeyeong Pharmacy",
+      "TEL": "02-514-7850",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong1-dong",
+      "MAIN_KEY": "BE_LiST22-0471"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Suseo Pharmacy",
+      "TEL": "02-459-2293",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Suseo-dong",
+      "MAIN_KEY": "BE_LiST22-0472"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cosmos Pharmacy",
+      "TEL": "02-515-3555",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Sinsa-dong",
+      "MAIN_KEY": "BE_LiST22-0473"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ganaan Pharmacy",
+      "TEL": "02-549-8774",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Sinsa-dong",
+      "MAIN_KEY": "BE_LiST22-0474"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Taepyeongyang Pharmacy",
+      "TEL": "02-3442-4492",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Sinsa-dong",
+      "MAIN_KEY": "BE_LiST22-0475"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Apgujeong Mi Pharmacy",
+      "TEL": "02-548-0085",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Sinsa-dong",
+      "MAIN_KEY": "BE_LiST22-0476"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Apgujeong Onnuri Pharmacy",
+      "TEL": "02-514-0777",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Sinsa-dong",
+      "MAIN_KEY": "BE_LiST22-0477"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Apgujeong Plaza Onnuri Pharmacy",
+      "TEL": "02-511-3801",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Sinsa-dong",
+      "MAIN_KEY": "BE_LiST22-0478"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Biwon Pharmacy",
+      "TEL": "02-541-6939",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Apgujeong-dong",
+      "MAIN_KEY": "BE_LiST22-0479"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Medipham Apgujeong Pharmacy",
+      "TEL": "02-547-7585",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Apgujeong-dong",
+      "MAIN_KEY": "BE_LiST22-0480"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hana Pharmacy",
+      "TEL": "02-543-6650",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Apgujeong-dong",
+      "MAIN_KEY": "BE_LiST22-0481"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yes Pharmacy",
+      "TEL": "02-3445-8214",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Apgujeong-dong",
+      "MAIN_KEY": "BE_LiST22-0482"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Apgujeong Neulpureun Pharmacy",
+      "TEL": "02-516-8753",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Apgujeong-dong",
+      "MAIN_KEY": "BE_LiST22-0483"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Apgujeong Pharmacy",
+      "TEL": "02-543-0701",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Apgujeong-dong",
+      "MAIN_KEY": "BE_LiST22-0484"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Rodeo Pharmacy",
+      "TEL": "02-540-4091",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Apgujeong-dong",
+      "MAIN_KEY": "BE_LiST22-0485"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bom Pharmacy",
+      "TEL": "02-543-2251",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Apgujeong-dong",
+      "MAIN_KEY": "BE_LiST22-0486"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ilbeonji Pharmacy",
+      "TEL": "02-567-2501",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_LiST22-0487"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chamjoeun Seon Pharmacy",
+      "TEL": "02-3453-3501",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_LiST22-0488"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Atom Pharmacy",
+      "TEL": "02-562-6575",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_LiST22-0489"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samseong Hana Pharmacy",
+      "TEL": "02-569-4130",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong1-dong",
+      "MAIN_KEY": "BE_LiST22-0490"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeoksam Dain Pharmacy",
+      "TEL": "02-3453-3589",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_LiST22-0491"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Onnuri Gibbeun Pharmacy",
+      "TEL": "02-566-0027",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_LiST22-0492"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Darae Pharmacy",
+      "TEL": "02-567-9361",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_LiST22-0493"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Onnuri Hyaerim Pharmacy",
+      "TEL": "02-2112-2911",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_LiST22-0494"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinhyeseong Pharmacy",
+      "TEL": "02-558-6338~9",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_LiST22-0495"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Areumdaun Uri Pharmacy",
+      "TEL": "02-564-7582",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_LiST22-0496"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Well Pharmacy",
+      "TEL": "02-6440-5656",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_LiST22-0497"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "W Store Gangnam City Pharmacy",
+      "TEL": "02-553-1608",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_LiST22-0498"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Keungil Pharmacy",
+      "TEL": "02-553-1517",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_LiST22-0499"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mokhwa Pharmacy",
+      "TEL": "02-2226-2268",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Irwon1-dong",
+      "MAIN_KEY": "BE_LiST22-0500"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ilwonyeok Pharmacy",
+      "TEL": "02-451-8233",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Irwonbon-dong",
+      "MAIN_KEY": "BE_LiST22-0501"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeollin Pharmacy",
+      "TEL": "02-3411-1007,1009",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Irwonbon-dong",
+      "MAIN_KEY": "BE_LiST22-0502"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Saesaengmyeong Pharmacy",
+      "TEL": "02-512-3389",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Cheongdam-dong",
+      "MAIN_KEY": "BE_LiST22-0503"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeongji Pharmacy",
+      "TEL": "02-547-3443",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Cheongdam-dong",
+      "MAIN_KEY": "BE_LiST22-0504"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geonyeong Pharmacy",
+      "TEL": "02-541-7378",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Cheongdam-dong",
+      "MAIN_KEY": "BE_LiST22-0505"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gaggaun Ewha Pharmacy",
+      "TEL": "02-489-4383",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Pungnap2-dong",
+      "MAIN_KEY": "BE_LiST22-0506"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gangnam Daehak Pharmacy",
+      "TEL": "02-473-0111",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Pungnap2-dong",
+      "MAIN_KEY": "BE_LiST22-0507"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Nammae Pharmacy",
+      "TEL": "02-407-8774",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Geoyeo2-dong",
+      "MAIN_KEY": "BE_LiST22-0508"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dasarang Pharmacy",
+      "TEL": "02-477-2590",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Pungnap2-dong",
+      "MAIN_KEY": "BE_LiST22-0509"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Saedokil Pharmacy",
+      "TEL": "02-423-9455",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Songpa2-dong",
+      "MAIN_KEY": "BE_LiST22-0510"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ehwa Yaksan Onnuri Pharmacy",
+      "TEL": "02-419-2755",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Songpa1-dong",
+      "MAIN_KEY": "BE_LiST22-0511"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jiaenmi Pharmacy",
+      "TEL": "02-402-0612",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Garak2-dong",
+      "MAIN_KEY": "BE_LiST22-0512"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jiyong Pharmacy",
+      "TEL": "02-415-2336",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi2-dong",
+      "MAIN_KEY": "BE_LiST22-0513"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Handok Pharmacy",
+      "TEL": "02-409-3559",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Munjeong2-dong",
+      "MAIN_KEY": "BE_LiST22-0514"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gajangkeun Hyundae Asan Pharmacy",
+      "TEL": "02-488-4214",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Pungnap2-dong",
+      "MAIN_KEY": "BE_LiST22-0515"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Family Pharmacy",
+      "TEL": "02-400-2112",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Munjeong2-dong",
+      "MAIN_KEY": "BE_LiST22-0516"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Grand Pharmacy",
+      "TEL": "02-418-5662",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi1-dong",
+      "MAIN_KEY": "BE_LiST22-0517"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Medicine Pharmacy",
+      "TEL": "02-443-7789",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Garakbon-dong",
+      "MAIN_KEY": "BE_LiST22-0518"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cheomsomang Pharmacy",
+      "TEL": "02-408-3393",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Oryun-dong",
+      "MAIN_KEY": "BE_LiST22-0519"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Wang Pharmacy",
+      "TEL": "02-2202-5941",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Samjeon-dong",
+      "MAIN_KEY": "BE_LiST22-0520"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daedong Pharmacy",
+      "TEL": "02-418-6551",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Songpa1-dong",
+      "MAIN_KEY": "BE_LiST22-0521"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sangil Pharmacy",
+      "TEL": "02-414-0185",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil6-dong",
+      "MAIN_KEY": "BE_LiST22-0522"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Optimario Pharmacy",
+      "TEL": "02-413-8205",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil4-dong",
+      "MAIN_KEY": "BE_LiST22-0523"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Citi Pharmacy",
+      "TEL": "02-3431-4115",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsilbon-dong",
+      "MAIN_KEY": "BE_LiST22-0524"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bom Pharmacy",
+      "TEL": "02-474-3118",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Pungnap1-dong",
+      "MAIN_KEY": "BE_LiST22-0525"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Uri Onnuri Pharmacy",
+      "TEL": "02-412-5632",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil3-dong",
+      "MAIN_KEY": "BE_LiST22-0526"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Pyeonhan Daeyeong Pharmacy",
+      "TEL": "02-485-9100",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Pungnap2-dong",
+      "MAIN_KEY": "BE_LiST22-0527"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinasan Pharmacy",
+      "TEL": "02-596-1136",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Pungnap2-dong",
+      "MAIN_KEY": "BE_LiST22-0528"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Balgeun Jungang Pharmacy",
+      "TEL": "02-482-2621",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Pungnap2-dong",
+      "MAIN_KEY": "BE_LiST22-0529"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Naruyeok Sageori Hyundae Pharmacy",
+      "TEL": "02-487-1218",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil4-dong",
+      "MAIN_KEY": "BE_LiST22-0530"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Olive Pharmacy",
+      "TEL": "02-477-0969",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Pungnap2-dong",
+      "MAIN_KEY": "BE_LiST22-0531"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Asan Medical Pharmacy",
+      "TEL": "02-488-8575",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Pungnap2-dong",
+      "MAIN_KEY": "BE_LiST22-0532"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Teunteun Onnuri Pharmacy",
+      "TEL": "02-486-1380",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Cheonho2-dong",
+      "MAIN_KEY": "BE_LiST22-0533"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gildong Jungang Pharmacy",
+      "TEL": "02-484-7747",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Gil-dong",
+      "MAIN_KEY": "BE_LiST22-0534"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Donga Pharmacy",
+      "TEL": "02-485-4195",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Cheonho2-dong",
+      "MAIN_KEY": "BE_LiST22-0535"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Deokin Pharmacy",
+      "TEL": "02-471-2772",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Cheonho2-dong",
+      "MAIN_KEY": "BE_LiST22-0536"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Joy Pharmacy",
+      "TEL": "02-485-7373",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Seongnae2-dong",
+      "MAIN_KEY": "BE_LiST22-0537"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Optima Yeondang Pharmacy",
+      "TEL": "02-3426-2323",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Myeongil1-dong",
+      "MAIN_KEY": "BE_LiST22-0538"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Best Pharmacy",
+      "TEL": "02-474-2447",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Seongnae3-dong",
+      "MAIN_KEY": "BE_LiST22-0539"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gangdong Medical Pharmacy",
+      "TEL": "02-483-0108",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Cheonho2-dong",
+      "MAIN_KEY": "BE_LiST22-0540"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gangnam Pharmacy",
+      "TEL": "02-486-7823",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Seongnae3-dong",
+      "MAIN_KEY": "BE_LiST22-0541"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Myeongil Mart Jongno Pharmacy",
+      "TEL": "02-428-7845",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Myeongil2-dong",
+      "MAIN_KEY": "BE_LiST22-0542"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Paran Pharmacy",
+      "TEL": "02-484-2479",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Seongnae3-dong",
+      "MAIN_KEY": "BE_LiST22-0543"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daehan Pharmacy",
+      "TEL": "02-483-9165",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Cheonho2-dong",
+      "MAIN_KEY": "BE_LiST22-0544"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Boun Pharmacy",
+      "TEL": "02-477-8088",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Dunchon2-dong",
+      "MAIN_KEY": "BE_LiST22-0545"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hallim Pharmacy",
+      "TEL": "02-486-9744",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Gil-dong",
+      "MAIN_KEY": "BE_LiST22-0546"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Simindang Pharmacy",
+      "TEL": "02-479-8100",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Gil-dong",
+      "MAIN_KEY": "BE_LiST22-0547"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Withpham Cheonsa Pharmacy",
+      "TEL": "02-483-8200",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Gil-dong",
+      "MAIN_KEY": "BE_LiST22-0548"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dure Pharmacy",
+      "TEL": "02-429-1662",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Godeok2-dong",
+      "MAIN_KEY": "BE_LiST22-0549"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seungmin Pharmacy",
+      "TEL": "02-487-1201",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Dunchon2-dong",
+      "MAIN_KEY": "BE_LiST22-0550"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sarangui Pharmacy",
+      "TEL": "02-922-7111",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jongam-dong",
+      "MAIN_KEY": "BE_LiST22-0193"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samseong Pharmacy",
+      "TEL": "02-929-3069",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Donam1-dong",
+      "MAIN_KEY": "BE_LiST22-0194"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jungang Plaza Pharmacy",
+      "TEL": "02-927-5606",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Samseon-dong",
+      "MAIN_KEY": "BE_LiST22-0195"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sipjaseong Pharmacy",
+      "TEL": "02-966-0710",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Seokgwan-dong",
+      "MAIN_KEY": "BE_LiST22-0196"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gyesan Onnuri Pharmacy",
+      "TEL": "02-925-4551",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Dongseon-dong",
+      "MAIN_KEY": "BE_LiST22-0197"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Segi Pharmacy",
+      "TEL": "02-3292-1224",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Gireum1-dong",
+      "MAIN_KEY": "BE_LiST22-0198"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jangwi Seongmo Pharmacy",
+      "TEL": "02-913-7516",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jangwi2-dong",
+      "MAIN_KEY": "BE_LiST22-0199"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cham Pharmacy",
+      "TEL": "02-922-9458",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jongam-dong",
+      "MAIN_KEY": "BE_LiST22-0200"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Keunsarang Pharmacy",
+      "TEL": "02-922-9721",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Samseon-dong",
+      "MAIN_KEY": "BE_LiST22-0201"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Namsan Pharmacy",
+      "TEL": "02-911-1224",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jangwi2-dong",
+      "MAIN_KEY": "BE_LiST22-0202"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hanmi Pharmacy",
+      "TEL": "02-925-0825",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jongam-dong",
+      "MAIN_KEY": "BE_LiST22-0203"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Optima e-Pyeonhan Pharmacy",
+      "TEL": "02-909-3525",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Gireum1-dong",
+      "MAIN_KEY": "BE_LiST22-0204"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Songwon Onnuri Pharmacy",
+      "TEL": "02-915-3500",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jongam-dong",
+      "MAIN_KEY": "BE_LiST22-0205"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Wolgok Uri Pharmacy",
+      "TEL": "02-917-7400",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Wolgok1-dong",
+      "MAIN_KEY": "BE_LiST22-0206"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "W Store Achimeulyeoneun Haessal Pharmacy",
+      "TEL": "02-762-0234",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Samseon-dong",
+      "MAIN_KEY": "BE_LiST22-0207"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seohyeon Pharmacy",
+      "TEL": "02-3292-0999",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung1-dong",
+      "MAIN_KEY": "BE_LiST22-0208"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Herb Pharmacy",
+      "TEL": "02-913-6786",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung4-dong",
+      "MAIN_KEY": "BE_LiST22-0209"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Joa Pharmacy",
+      "TEL": "02-919-8575",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Wolgok2-dong",
+      "MAIN_KEY": "BE_LiST22-0210"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Paranhaneul Pharmacy",
+      "TEL": "02-929-8723",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Samseon-dong",
+      "MAIN_KEY": "BE_LiST22-0211"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seongbuk Noksipja Pharmacy",
+      "TEL": "02-926-4166",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Samseon-dong",
+      "MAIN_KEY": "BE_LiST22-0212"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Prime Onnuri Pharmacy",
+      "TEL": "02-916-9472",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jangwi3-dong",
+      "MAIN_KEY": "BE_LiST22-0213"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samcheung Pharmacy",
+      "TEL": "02-915-0022",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Gireum1-dong",
+      "MAIN_KEY": "BE_LiST22-0214"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Myeongso Pharmacy",
+      "TEL": "02-965-0237",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Seokgwan-dong",
+      "MAIN_KEY": "BE_LiST22-0215"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Minseong Pharmacy",
+      "TEL": "02-927-6959",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jongam-dong",
+      "MAIN_KEY": "BE_LiST22-0216"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ewha Plaza Pharmacy",
+      "TEL": "02-914-2053",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung4-dong",
+      "MAIN_KEY": "BE_LiST22-0217"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Duri Onnuri Pharmacy",
+      "TEL": "02-923-0450",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jongam-dong",
+      "MAIN_KEY": "BE_LiST22-0218"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seongbuk Worldpham Pharmacy",
+      "TEL": "02-918-7972",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jangwi2-dong",
+      "MAIN_KEY": "BE_LiST22-0219"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Wolgok Bogeon Pharmacy",
+      "TEL": "02-909-8144",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Wolgok2-dong",
+      "MAIN_KEY": "BE_LiST22-0220"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Koggiri Pharmacy",
+      "TEL": "02-909-0555",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Wolgok1-dong",
+      "MAIN_KEY": "BE_LiST22-0221"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Wellpham Pharmacy",
+      "TEL": "02-914-7773",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Gireum1-dong",
+      "MAIN_KEY": "BE_LiST22-0222"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Pharmacy",
+      "TEL": "02-924-5191",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Donam1-dong",
+      "MAIN_KEY": "BE_LiST22-0223"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Medipham Baek Pharmacy",
+      "TEL": "02-912-6200",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Wolgok1-dong",
+      "MAIN_KEY": "BE_LiST22-0224"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinjungang Pharmacy",
+      "TEL": "02-943-8331",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jongam-dong",
+      "MAIN_KEY": "BE_LiST22-0225"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Star Pharmacy",
+      "TEL": "070-4257-5277",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Samseon-dong",
+      "MAIN_KEY": "BE_LiST22-0226"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Pureun Pharmacy",
+      "TEL": "02-969-0566",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Seokgwan-dong",
+      "MAIN_KEY": "BE_LiST22-0227"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Eunhye Pharmacy",
+      "TEL": "02-926-1122",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jongam-dong",
+      "MAIN_KEY": "BE_LiST22-0228"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ewha Pharmacy",
+      "TEL": "02-911-4326",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Gireum1-dong",
+      "MAIN_KEY": "BE_LiST22-0229"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gilleumsijang Pharmacy",
+      "TEL": "070-4402-4565",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung1-dong",
+      "MAIN_KEY": "BE_LiST22-0230"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jihye Pharmacy",
+      "TEL": "070-7648-9731",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jangwi3-dong",
+      "MAIN_KEY": "BE_LiST22-0231"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Misodam Pharmacy",
+      "TEL": "02-6349-2589",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung4-dong",
+      "MAIN_KEY": "BE_LiST22-0232"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seongsin Pharmacy",
+      "TEL": "02-921-9971",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Dongseon-dong",
+      "MAIN_KEY": "BE_LiST22-0233"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gil Pharmacy",
+      "TEL": "02-923-9994",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Samseon-dong",
+      "MAIN_KEY": "BE_LiST22-0234"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinjeongneung Uri Pharmacy",
+      "TEL": "02-942-8831",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung2-dong",
+      "MAIN_KEY": "BE_LiST22-0235"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeongjun Pharmacy",
+      "TEL": "02-912-4813",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Wolgok1-dong",
+      "MAIN_KEY": "BE_LiST22-0236"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geumgang Pharmacy",
+      "TEL": "02-924-7575",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Anam-dong",
+      "MAIN_KEY": "BE_LiST22-0237"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Segyero Pharmacy",
+      "TEL": "02-962-5446",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Seokgwan-dong",
+      "MAIN_KEY": "BE_LiST22-0238"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hosu Onnuri Pharmacy",
+      "TEL": "02-988-8979",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Gireum2-dong",
+      "MAIN_KEY": "BE_LiST22-0239"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Haengbokhan Pharmacy",
+      "TEL": "02-927-8253",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Dongseon-dong",
+      "MAIN_KEY": "BE_LiST22-0240"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bareun Onnuri Pharmacy",
+      "TEL": "02-942-4750",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Samseon-dong",
+      "MAIN_KEY": "BE_LiST22-0241"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Deokseong Onnuri Pharmacy",
+      "TEL": "02-922-0555",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Donam2-dong",
+      "MAIN_KEY": "BE_LiST22-0242"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinheung Pharmacy",
+      "TEL": "02-914-4103",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung4-dong",
+      "MAIN_KEY": "BE_LiST22-0243"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "365 Pharmacy",
+      "TEL": "02-985-1365",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Gireum2-dong",
+      "MAIN_KEY": "BE_LiST22-0244"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sarangbanneun Pharmacy",
+      "TEL": "02-943-2385",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung1-dong",
+      "MAIN_KEY": "BE_LiST22-0245"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "New Daewon Pharmacy",
+      "TEL": "02-963-0792",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Seokgwan-dong",
+      "MAIN_KEY": "BE_LiST22-0246"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yumin Pharmacy",
+      "TEL": "02-929-8937",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Dongseon-dong",
+      "MAIN_KEY": "BE_LiST22-0247"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Uju Onnuri Pharmacy",
+      "TEL": "02-922-0544",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Dongseon-dong",
+      "MAIN_KEY": "BE_LiST22-0248"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cheongchunhan Pharmacy",
+      "TEL": "02-6467-9595",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung1-dong",
+      "MAIN_KEY": "BE_LiST22-0249"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Saegungmin Pharmacy",
+      "TEL": "02-909-3463",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Wolgok2-dong",
+      "MAIN_KEY": "BE_LiST22-0250"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samseong Pharmacy",
+      "TEL": "02-929-3069",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Donam1-dong",
+      "MAIN_KEY": "BE_LiST22-0251"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Areumdaun Pharmacy",
+      "TEL": "02-912-5148",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Gireum1-dong",
+      "MAIN_KEY": "BE_LiST22-0252"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dongmin Pharmacy",
+      "TEL": "02-6925-0008",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Wolgok1-dong",
+      "MAIN_KEY": "BE_LiST22-0253"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeongmun Pharmacy",
+      "TEL": "02-924-2121",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Anam-dong",
+      "MAIN_KEY": "BE_LiST22-0254"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dolgoji Onnuri Pharmacy",
+      "TEL": "02-967-5555",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Seokgwan-dong",
+      "MAIN_KEY": "BE_LiST22-0255"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Saebogeon Pharmacy",
+      "TEL": "02-911-7111",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Wolgok2-dong",
+      "MAIN_KEY": "BE_LiST22-0256"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Neulpureun Pyeonggang Pharmacy",
+      "TEL": "02-903-5022",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Suyu3-dong",
+      "MAIN_KEY": "BE_LiST22-0257"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Danaeul Pharmacy",
+      "TEL": "02-900-3133",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Suyu3-dong",
+      "MAIN_KEY": "BE_LiST22-0258"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Donga Pharmacy",
+      "TEL": "02-985-1448",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Songjung-dong",
+      "MAIN_KEY": "BE_LiST22-0259"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Beondong Jongno Pharmacy",
+      "TEL": "02-981-2030",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Beon3-dong",
+      "MAIN_KEY": "BE_LiST22-0260"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Segyero Pharmacy",
+      "TEL": "02-985-0503",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Suyu1-dong",
+      "MAIN_KEY": "BE_LiST22-0261"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Suyu Sangnoksu Pharmacy",
+      "TEL": "02-900-7722",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Beon1-dong",
+      "MAIN_KEY": "BE_LiST22-0262"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Eo Pharmacy",
+      "TEL": "02-902-5119",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Suyu3-dong",
+      "MAIN_KEY": "BE_LiST22-0263"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Evergreen Pharmacy",
+      "TEL": "02-999-7101",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Beon1-dong",
+      "MAIN_KEY": "BE_LiST22-0264"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Iwon Pharmacy",
+      "TEL": "02-946-1958",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Samyang-dong",
+      "MAIN_KEY": "BE_LiST22-0265"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Insu Pharmacy",
+      "TEL": "02-993-7378",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Insu-dong",
+      "MAIN_KEY": "BE_LiST22-0266"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeonghae Pharmacy",
+      "TEL": "02-902-1442",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Suyu2-dong",
+      "MAIN_KEY": "BE_LiST22-0267"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeil Pharmacy",
+      "TEL": "02-592-4920",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Beon1-dong",
+      "MAIN_KEY": "BE_LiST22-0268"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jiyeong Pharmacy",
+      "TEL": "02-902-1072",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Insu-dong",
+      "MAIN_KEY": "BE_LiST22-0269"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hansarang Onnuri Pharmacy",
+      "TEL": "02-980-1214",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Suyu1-dong",
+      "MAIN_KEY": "BE_LiST22-0270"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Haessal Pharmacy",
+      "TEL": "02-987-5159",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Mia-dong",
+      "MAIN_KEY": "BE_LiST22-0271"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Nokwondang Pharmacy",
+      "TEL": "02-989-8315",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Beon3-dong",
+      "MAIN_KEY": "BE_LiST22-0272"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hanyang Pharmacy",
+      "TEL": "02-902-2470",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Insu-dong",
+      "MAIN_KEY": "BE_LiST22-0273"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Urideul Pharmacy",
+      "TEL": "02-981-7577",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Beon3-dong",
+      "MAIN_KEY": "BE_LiST22-0274"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jongno Taepyeongyang Pharmacy",
+      "TEL": "02-985-0393",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Songjung-dong",
+      "MAIN_KEY": "BE_LiST22-0275"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Medipham Geongang ",
+      "TEL": "02-906-1800",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Ssangmun3-dong",
+      "MAIN_KEY": "BE_LiST22-0276"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Pham Korea ",
+      "TEL": "02-955-7017",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Dobong1-dong",
+      "MAIN_KEY": "BE_LiST22-0277"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daehan ",
+      "TEL": "02-999-7896",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Ssangmun1-dong",
+      "MAIN_KEY": "BE_LiST22-0278"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yeonghun ",
+      "TEL": "02-900-3943",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Chang3-dong",
+      "MAIN_KEY": "BE_LiST22-0279"
+    },
+    {
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "New Jimyeong ",
+      "TEL": "02-993-2082",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Chang3-dong",
+      "MAIN_KEY": "BE_LiST22-0280"
+    }
+  ]
+}

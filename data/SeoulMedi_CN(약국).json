@@ -1,0 +1,4412 @@
+{
+  "DESCRIPTION": {
+    "TEL": "전화번호",
+    "H_CNG_CITY": "행정시",
+    "MAIN_KEY": "키값",
+    "H_CNG_GU": "행정구",
+    "H_CNG_DONG": "행정동",
+    "NAME_CNG": "약국이름"
+  },
+  "DATA": [
+    {
+      "TEL": "02-477-2590",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0509",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "风纳2洞",
+      "NAME_CNG": "多爱药店"
+    },
+    {
+      "TEL": "02-423-9455",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0510",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "松坡2洞",
+      "NAME_CNG": "新德国药店"
+    },
+    {
+      "TEL": "070-4257-5277",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0226",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "明星药店"
+    },
+    {
+      "TEL": "02-969-0566",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0227",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "石串洞",
+      "NAME_CNG": "蓝蓝药店"
+    },
+    {
+      "TEL": "02-926-1122",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0228",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "钟岩洞",
+      "NAME_CNG": "恩惠药店"
+    },
+    {
+      "TEL": "02-911-4326",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0229",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "吉音1洞",
+      "NAME_CNG": "梨花药店"
+    },
+    {
+      "TEL": "070-4402-4565",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0230",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵1洞",
+      "NAME_CNG": "吉音市场药店"
+    },
+    {
+      "TEL": "070-7648-9731",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0231",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位3洞",
+      "NAME_CNG": "智慧药店"
+    },
+    {
+      "TEL": "02-6349-2589",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0232",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵4洞",
+      "NAME_CNG": "微笑潭药店"
+    },
+    {
+      "TEL": "02-921-9971",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0233",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "东仙洞",
+      "NAME_CNG": "诚信药店"
+    },
+    {
+      "TEL": "02-923-9994",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0234",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "吉药店"
+    },
+    {
+      "TEL": "02-942-8831",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0235",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵2洞",
+      "NAME_CNG": "新贞陵友利药店"
+    },
+    {
+      "TEL": "02-912-4813",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0236",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷1洞",
+      "NAME_CNG": "英俊药店"
+    },
+    {
+      "TEL": "02-924-7575",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0237",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "安岩洞",
+      "NAME_CNG": "金刚药店"
+    },
+    {
+      "TEL": "02-962-5446",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0238",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "石串洞",
+      "NAME_CNG": "世界路药店"
+    },
+    {
+      "TEL": "02-988-8979",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0239",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "吉音2洞",
+      "NAME_CNG": "湖水温努利药店"
+    },
+    {
+      "TEL": "02-927-8253",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0240",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "东仙洞",
+      "NAME_CNG": "幸福药店"
+    },
+    {
+      "TEL": "02-942-4750",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0241",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "芭伦温努利药店"
+    },
+    {
+      "TEL": "02-922-0555",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0242",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "敦岩2洞",
+      "NAME_CNG": "德成温努利药店"
+    },
+    {
+      "TEL": "02-914-4103",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0243",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵4洞",
+      "NAME_CNG": "新兴药店"
+    },
+    {
+      "TEL": "02-985-1365",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0244",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "吉音2洞",
+      "NAME_CNG": "365药店"
+    },
+    {
+      "TEL": "02-943-2385",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0245",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵1洞",
+      "NAME_CNG": "备受爱的药店"
+    },
+    {
+      "TEL": "02-963-0792",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0246",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "石串洞",
+      "NAME_CNG": "新大元药店"
+    },
+    {
+      "TEL": "02-929-8937",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0247",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "东仙洞",
+      "NAME_CNG": "柳敏药店"
+    },
+    {
+      "TEL": "02-922-0544",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0248",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "东仙洞",
+      "NAME_CNG": "宇宙温努利药店"
+    },
+    {
+      "TEL": "02-6467-9595",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0249",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵1洞",
+      "NAME_CNG": "青春韩药店"
+    },
+    {
+      "TEL": "02-909-3463",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0250",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷2洞",
+      "NAME_CNG": "新国民药店"
+    },
+    {
+      "TEL": "02-929-3069",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0251",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "敦岩1洞",
+      "NAME_CNG": "三成药店"
+    },
+    {
+      "TEL": "02-912-5148",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0252",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "吉音1洞",
+      "NAME_CNG": "美丽药店"
+    },
+    {
+      "TEL": "02-6925-0008",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0253",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷1洞",
+      "NAME_CNG": "东民药店"
+    },
+    {
+      "TEL": "02-924-2121",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0254",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "安岩洞",
+      "NAME_CNG": "正门药店"
+    },
+    {
+      "TEL": "02-967-5555",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0255",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "石串洞",
+      "NAME_CNG": "石串温努利药店"
+    },
+    {
+      "TEL": "02-911-7111",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0256",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷2洞",
+      "NAME_CNG": "新保健药店"
+    },
+    {
+      "TEL": "02-903-5022",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0257",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾3洞",
+      "NAME_CNG": "总青蓝的平康药店"
+    },
+    {
+      "TEL": "02-900-3133",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0258",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾3洞",
+      "NAME_CNG": "都好药店"
+    },
+    {
+      "TEL": "02-985-1448",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0259",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "松中洞",
+      "NAME_CNG": "东亚药店"
+    },
+    {
+      "TEL": "02-981-2030",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0260",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "樊3洞",
+      "NAME_CNG": "樊洞钟路药店"
+    },
+    {
+      "TEL": "02-985-0503",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0261",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾1洞",
+      "NAME_CNG": "世界路药店"
+    },
+    {
+      "TEL": "02-900-7722",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0262",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "樊1洞",
+      "NAME_CNG": "水逾常绿树药店"
+    },
+    {
+      "TEL": "02-902-5119",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0263",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾3洞",
+      "NAME_CNG": "鱼药店"
+    },
+    {
+      "TEL": "02-999-7101",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0264",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "樊1洞",
+      "NAME_CNG": "常绿药店"
+    },
+    {
+      "TEL": "02-946-1958",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0265",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "三阳洞",
+      "NAME_CNG": "梨园药店"
+    },
+    {
+      "TEL": "02-993-7378",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0266",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "仁水洞",
+      "NAME_CNG": "仁寿药店"
+    },
+    {
+      "TEL": "02-902-1442",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0267",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾2洞",
+      "NAME_CNG": "正海药店"
+    },
+    {
+      "TEL": "02-592-4920",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0268",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "樊1洞",
+      "NAME_CNG": "第一药店"
+    },
+    {
+      "TEL": "02-902-1072",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0269",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "仁水洞",
+      "NAME_CNG": "智荣药店"
+    },
+    {
+      "TEL": "02-980-1214",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0270",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "水逾1洞",
+      "NAME_CNG": "韩舍朗温努利药店"
+    },
+    {
+      "TEL": "02-987-5159",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0271",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "弥阿洞",
+      "NAME_CNG": "阳光药店"
+    },
+    {
+      "TEL": "02-989-8315",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0272",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "樊3洞",
+      "NAME_CNG": "绿园堂药店"
+    },
+    {
+      "TEL": "02-902-2470",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0273",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "仁水洞",
+      "NAME_CNG": "汉阳药店"
+    },
+    {
+      "TEL": "02-981-7577",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0274",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "樊3洞",
+      "NAME_CNG": "我们药店"
+    },
+    {
+      "TEL": "02-985-0393",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0275",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "松中洞",
+      "NAME_CNG": "钟路太平洋药店"
+    },
+    {
+      "TEL": "02-906-1800",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0276",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "双门3洞",
+      "NAME_CNG": "美帝发姆健康"
+    },
+    {
+      "TEL": "02-955-7017",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0277",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "道峰1洞",
+      "NAME_CNG": "发姆尔韩国"
+    },
+    {
+      "TEL": "02-999-7896",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0278",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "双门1洞",
+      "NAME_CNG": "大韩"
+    },
+    {
+      "TEL": "02-900-3943",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0279",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "仓3洞",
+      "NAME_CNG": "永勋"
+    },
+    {
+      "TEL": "02-993-2082",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0280",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "仓3洞",
+      "NAME_CNG": "新智明"
+    },
+    {
+      "TEL": "02-3491-0731",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0281",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "放鹤3洞",
+      "NAME_CNG": "新星"
+    },
+    {
+      "TEL": "02-954-2950",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0282",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "放鹤2洞",
+      "NAME_CNG": "常绿树温努利"
+    },
+    {
+      "TEL": "02-990-6527",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0283",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "仓4洞",
+      "NAME_CNG": "广场"
+    },
+    {
+      "TEL": "02-954-1653",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0284",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "道峰1洞",
+      "NAME_CNG": "惠民"
+    },
+    {
+      "TEL": "02-902-4797",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0285",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "仓1洞",
+      "NAME_CNG": "维他命"
+    },
+    {
+      "TEL": "02-995-8588",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0286",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "仓1洞",
+      "NAME_CNG": "后门"
+    },
+    {
+      "TEL": "02-906-1024",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0287",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "双门2洞",
+      "NAME_CNG": "健康第一绿十字药店"
+    },
+    {
+      "TEL": "02-3492-9963",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0288",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "放鹤2洞",
+      "NAME_CNG": "钟路世明药店"
+    },
+    {
+      "TEL": "02-3493-6912",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0289",
+      "H_CNG_GU": "道峰区",
+      "H_CNG_DONG": "放鹤2洞",
+      "NAME_CNG": "青秀药店"
+    },
+    {
+      "TEL": "02-990-0600",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0290",
+      "H_CNG_GU": "江北区",
+      "H_CNG_DONG": "牛耳洞",
+      "NAME_CNG": "双门常绿树药店"
+    },
+    {
+      "TEL": "02-951-6102",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0291",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "中渓本洞",
+      "NAME_CNG": "梨花药店"
+    },
+    {
+      "TEL": "02-936-7718",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0292",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓2洞",
+      "NAME_CNG": "罗贤药店"
+    },
+    {
+      "TEL": "02-974-3414",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0293",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "下渓1洞",
+      "NAME_CNG": "新兴药店"
+    },
+    {
+      "TEL": "02-935-6644",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0294",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓8洞",
+      "NAME_CNG": "平康常绿树药店"
+    },
+    {
+      "TEL": "02-930-6858",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0295",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓1洞",
+      "NAME_CNG": "儒林药店"
+    },
+    {
+      "TEL": "02-932-3900",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0296",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓9洞",
+      "NAME_CNG": "马得儿童药店"
+    },
+    {
+      "TEL": "02-941-3838",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0297",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "月渓1洞",
+      "NAME_CNG": "蓝海药店"
+    },
+    {
+      "TEL": "02-933-0747",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0298",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓5洞",
+      "NAME_CNG": "西京药店"
+    },
+    {
+      "TEL": "02-979-2204",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0299",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "下渓2洞",
+      "NAME_CNG": "真药店"
+    },
+    {
+      "TEL": "02-937-3393",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0300",
+      "H_CNG_GU": "卢原区",
+      "H_CNG_DONG": "上渓8洞",
+      "NAME_CNG": "马得韩中药店"
+    },
+    {
+      "TEL": "02-372-9791",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0301",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "新沙1洞",
+      "NAME_CNG": "美帝发姆健康药店"
+    },
+    {
+      "TEL": "02-302-5583",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0302",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "新沙1洞",
+      "NAME_CNG": "善友药店"
+    },
+    {
+      "TEL": "02-355-8374",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0303",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "驿村洞",
+      "NAME_CNG": "成欢药店"
+    },
+    {
+      "TEL": "02-372-6474",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0304",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "水色洞",
+      "NAME_CNG": "所愿药店"
+    },
+    {
+      "TEL": "02-307-7579",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0305",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "水色洞",
+      "NAME_CNG": "新水色太平洋药店"
+    },
+    {
+      "TEL": "02-309-3771",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0306",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "水色洞",
+      "NAME_CNG": "温努利新所望药店"
+    },
+    {
+      "TEL": "02-384-8877",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0307",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "葛岘2洞",
+      "NAME_CNG": "优金药店"
+    },
+    {
+      "TEL": "02-356-7676",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0308",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "鹰岩1洞",
+      "NAME_CNG": "真爱药店"
+    },
+    {
+      "TEL": "02-302-7121",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0309",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "水色洞",
+      "NAME_CNG": "崔药店"
+    },
+    {
+      "TEL": "02-355-8224",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0310",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "驿村洞",
+      "NAME_CNG": "温努利松色药店"
+    },
+    {
+      "TEL": "02-355-6270",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0311",
+      "H_CNG_GU": "恩平区",
+      "H_CNG_DONG": "佛光2洞",
+      "NAME_CNG": "有情药店"
+    },
+    {
+      "TEL": "02-878-7949",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0423",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "三成洞",
+      "NAME_CNG": "韩美药店"
+    },
+    {
+      "TEL": "02-882-8234",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0424",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "青龙洞",
+      "NAME_CNG": "春香药店"
+    },
+    {
+      "TEL": "02-872-9954",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0425",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "落星垈",
+      "NAME_CNG": "养生药店"
+    },
+    {
+      "TEL": "02-918-7353",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0137",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位1洞",
+      "NAME_CNG": "仁贤药店"
+    },
+    {
+      "TEL": "02-915-1336",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0138",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位1洞",
+      "NAME_CNG": "保健药店"
+    },
+    {
+      "TEL": "02-963-8974",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0139",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "石串洞",
+      "NAME_CNG": "白鲸药店"
+    },
+    {
+      "TEL": "02-923-7731",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0140",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "东仙洞",
+      "NAME_CNG": "东仙药店"
+    },
+    {
+      "TEL": "02-914-1555",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0141",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵3洞",
+      "NAME_CNG": "秀宝药店"
+    },
+    {
+      "TEL": "02-915-1241",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0142",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位3洞",
+      "NAME_CNG": "关门药店"
+    },
+    {
+      "TEL": "02-913-1139",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0143",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷2洞",
+      "NAME_CNG": "求援药店"
+    },
+    {
+      "TEL": "02-762-6300",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0144",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "纳法伦药店"
+    },
+    {
+      "TEL": "02-917-4275",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0145",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵1洞",
+      "NAME_CNG": "新民宇药店"
+    },
+    {
+      "TEL": "02-913-3623",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0146",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "早安药店"
+    },
+    {
+      "TEL": "02-918-8055",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0147",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵1洞",
+      "NAME_CNG": "所望药店"
+    },
+    {
+      "TEL": "02-916-8373",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0148",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵1洞",
+      "NAME_CNG": "长一药店"
+    },
+    {
+      "TEL": "02-983-7950",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0149",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "吉音2洞",
+      "NAME_CNG": "东部药店"
+    },
+    {
+      "TEL": "02-914-5782",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0150",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵3洞",
+      "NAME_CNG": "国民药店"
+    },
+    {
+      "TEL": "02-925-4465",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0151",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "东仙洞",
+      "NAME_CNG": "母堂药店"
+    },
+    {
+      "TEL": "02-922-6060",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0152",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "东仙洞",
+      "NAME_CNG": "世元药店"
+    },
+    {
+      "TEL": "02-969-4582",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0153",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "石串洞",
+      "NAME_CNG": "温努利民宇药店"
+    },
+    {
+      "TEL": "02-964-1944",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0154",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "石串洞",
+      "NAME_CNG": "温努利真好药店"
+    },
+    {
+      "TEL": "02-915-4057",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0155",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位3洞",
+      "NAME_CNG": "松一药店"
+    },
+    {
+      "TEL": "02-924-1919",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0156",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "安岩洞",
+      "NAME_CNG": "大学药店"
+    },
+    {
+      "TEL": "02-922-5076",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0157",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "钟岩洞",
+      "NAME_CNG": "惠朝药店"
+    },
+    {
+      "TEL": "02-911-4642",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0158",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位1洞",
+      "NAME_CNG": "三和药店"
+    },
+    {
+      "TEL": "02-913-2900",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0159",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷2洞",
+      "NAME_CNG": "月谷药店"
+    },
+    {
+      "TEL": "02-916-6445",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0160",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷1洞",
+      "NAME_CNG": "健康药店"
+    },
+    {
+      "TEL": "02-927-1282",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0161",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "温努利圣母药店"
+    },
+    {
+      "TEL": "02-913-8936",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0162",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷1洞",
+      "NAME_CNG": "和成药店"
+    },
+    {
+      "TEL": "02-919-2525",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0163",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵4洞",
+      "NAME_CNG": "太平洋药店"
+    },
+    {
+      "TEL": "02-912-7393",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0164",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷2洞",
+      "NAME_CNG": "釜民药店"
+    },
+    {
+      "TEL": "02-959-2668",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0165",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "石串洞",
+      "NAME_CNG": "温努利斗山药店"
+    },
+    {
+      "TEL": "02-942-5199",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0166",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位2洞",
+      "NAME_CNG": "广惠堂药店"
+    },
+    {
+      "TEL": "02-923-2393",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0167",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "普门洞",
+      "NAME_CNG": "青十字药店"
+    },
+    {
+      "TEL": "02-914-0035",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0168",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷2洞",
+      "NAME_CNG": "哈纳温努利药店"
+    },
+    {
+      "TEL": "02-924-5264",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0169",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "安岩洞",
+      "NAME_CNG": "未来药店"
+    },
+    {
+      "TEL": "02-3675-5778",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0170",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "连药店"
+    },
+    {
+      "TEL": "02-941-8550",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0171",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "钟岩洞",
+      "NAME_CNG": "三元药店"
+    },
+    {
+      "TEL": "02-921-3844",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0172",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "普门洞",
+      "NAME_CNG": "普门药店"
+    },
+    {
+      "TEL": "02-941-1923",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0173",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷1洞",
+      "NAME_CNG": "康复友情药店"
+    },
+    {
+      "TEL": "02-909-0928",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0174",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "吉音1洞",
+      "NAME_CNG": "新世元药店"
+    },
+    {
+      "TEL": "02-927-2792",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0175",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "安岩洞",
+      "NAME_CNG": "白头山药店"
+    },
+    {
+      "TEL": "02-926-6479",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0176",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "韩松药店"
+    },
+    {
+      "TEL": "02-942-3137",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0177",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位1洞",
+      "NAME_CNG": "真爱药店"
+    },
+    {
+      "TEL": "02-912-2727",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0178",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵1洞",
+      "NAME_CNG": "贞陵美帝凯尔药店"
+    },
+    {
+      "TEL": "02-911-1996",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0179",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位2洞",
+      "NAME_CNG": "知善药店"
+    },
+    {
+      "TEL": "02-929-9696",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0180",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "安岩洞",
+      "NAME_CNG": "21世纪高丽药店"
+    },
+    {
+      "TEL": "02-928-8663",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0181",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "普门洞",
+      "NAME_CNG": "奥普蒂玛市民药店"
+    },
+    {
+      "TEL": "02-2202-4484",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0182",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "安世药店"
+    },
+    {
+      "TEL": "02-915-5777",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0183",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "吉音1洞",
+      "NAME_CNG": "吉音梅迪凯尔药店"
+    },
+    {
+      "TEL": "02-764-4835",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0184",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "城北洞",
+      "NAME_CNG": "俊药店"
+    },
+    {
+      "TEL": "02-912-2302",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0185",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵4洞",
+      "NAME_CNG": "日升药店"
+    },
+    {
+      "TEL": "02-744-4415",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0186",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "微笑药店"
+    },
+    {
+      "TEL": "02-909-0508",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0187",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷1洞",
+      "NAME_CNG": "梅迪凯尔发姆药店"
+    },
+    {
+      "TEL": "02-911-0488",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0188",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵4洞",
+      "NAME_CNG": "那药店"
+    },
+    {
+      "TEL": "02-942-4553",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0189",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位1洞",
+      "NAME_CNG": "善药店"
+    },
+    {
+      "TEL": "02-909-8067",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0190",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位3洞",
+      "NAME_CNG": "青松药店"
+    },
+    {
+      "TEL": "02-926-3533",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0191",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "东仙洞",
+      "NAME_CNG": "东仁药店"
+    },
+    {
+      "TEL": "070-8616-4340",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0192",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵1洞",
+      "NAME_CNG": "儿童爱药店"
+    },
+    {
+      "TEL": "02-922-7111",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0193",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "钟岩洞",
+      "NAME_CNG": "爱的药店"
+    },
+    {
+      "TEL": "02-929-3069",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0194",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "敦岩1洞",
+      "NAME_CNG": "三星药店"
+    },
+    {
+      "TEL": "02-927-5606",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0195",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "中央广场药店"
+    },
+    {
+      "TEL": "02-966-0710",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0196",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "石串洞",
+      "NAME_CNG": "十字城药店"
+    },
+    {
+      "TEL": "02-925-4551",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0197",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "东仙洞",
+      "NAME_CNG": "继山温努利药店"
+    },
+    {
+      "TEL": "02-3292-1224",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0198",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "吉音1洞",
+      "NAME_CNG": "世纪药店"
+    },
+    {
+      "TEL": "02-913-7516",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0199",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位2洞",
+      "NAME_CNG": "长位圣母药店"
+    },
+    {
+      "TEL": "02-922-9458",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0200",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "钟岩洞",
+      "NAME_CNG": "真药店"
+    },
+    {
+      "TEL": "02-922-9721",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0201",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "洪爱药店"
+    },
+    {
+      "TEL": "02-911-1224",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0202",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位2洞",
+      "NAME_CNG": "南山药店"
+    },
+    {
+      "TEL": "02-925-0825",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0203",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "钟岩洞",
+      "NAME_CNG": "韩美药店"
+    },
+    {
+      "TEL": "02-909-3525",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0204",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "吉音1洞",
+      "NAME_CNG": "奥普蒂玛e-舒适药店"
+    },
+    {
+      "TEL": "02-915-3500",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0205",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "钟岩洞",
+      "NAME_CNG": "宋元温努利药店"
+    },
+    {
+      "TEL": "02-917-7400",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0206",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷1洞",
+      "NAME_CNG": "月谷友利药店"
+    },
+    {
+      "TEL": "02-762-0234",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0207",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "W商场敞开早晨的阳光药店"
+    },
+    {
+      "TEL": "02-3292-0999",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0208",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵1洞",
+      "NAME_CNG": "瑞贤药店"
+    },
+    {
+      "TEL": "02-913-6786",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0209",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵4洞",
+      "NAME_CNG": "香草药店"
+    },
+    {
+      "TEL": "02-919-8575",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0210",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷2洞",
+      "NAME_CNG": "好呀药店"
+    },
+    {
+      "TEL": "02-929-8723",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0211",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "蓝天药店"
+    },
+    {
+      "TEL": "02-926-4166",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0212",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "三仙洞",
+      "NAME_CNG": "城北绿十字药店"
+    },
+    {
+      "TEL": "02-916-9472",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0213",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位3洞",
+      "NAME_CNG": "普莱茵温努利药店"
+    },
+    {
+      "TEL": "02-915-0022",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0214",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "吉音1洞",
+      "NAME_CNG": "3楼药店"
+    },
+    {
+      "TEL": "02-965-0237",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0215",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "石串洞",
+      "NAME_CNG": "名胜药店"
+    },
+    {
+      "TEL": "02-927-6959",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0216",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "钟岩洞",
+      "NAME_CNG": "民盛药店"
+    },
+    {
+      "TEL": "02-914-2053",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0217",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵4洞",
+      "NAME_CNG": "梨花广场药店"
+    },
+    {
+      "TEL": "02-923-0450",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0218",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "钟岩洞",
+      "NAME_CNG": "杜利温努利药店"
+    },
+    {
+      "TEL": "02-918-7972",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0219",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位2洞",
+      "NAME_CNG": "城北世界发尔姆药店"
+    },
+    {
+      "TEL": "02-909-8144",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0220",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷2洞",
+      "NAME_CNG": "月谷保健药店"
+    },
+    {
+      "TEL": "02-909-0555",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0221",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷1洞",
+      "NAME_CNG": "大象药店"
+    },
+    {
+      "TEL": "02-914-7773",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0222",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "吉音1洞",
+      "NAME_CNG": "威尔发药店"
+    },
+    {
+      "TEL": "02-924-5191",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0223",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "敦岩1洞",
+      "NAME_CNG": "首尔药店"
+    },
+    {
+      "TEL": "02-312-6949",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0312",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "延禧维德发尔药店"
+    },
+    {
+      "TEL": "02-912-6200",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0224",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "月谷1洞",
+      "NAME_CNG": "美帝发姆白药店"
+    },
+    {
+      "TEL": "02-419-2755",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0511",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "松坡1洞",
+      "NAME_CNG": "梨花药山温努利药店"
+    },
+    {
+      "TEL": "02-402-0612",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0512",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "可乐2洞",
+      "NAME_CNG": "知恩美药店"
+    },
+    {
+      "TEL": "02-415-2336",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0513",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑2洞",
+      "NAME_CNG": "智荣药店"
+    },
+    {
+      "TEL": "02-409-3559",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0514",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "文井2洞",
+      "NAME_CNG": "韩德药店"
+    },
+    {
+      "TEL": "02-488-4214",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0515",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "风纳2洞",
+      "NAME_CNG": "最大现代峨山药店"
+    },
+    {
+      "TEL": "02-400-2112",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0516",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "文井2洞",
+      "NAME_CNG": "家人药店"
+    },
+    {
+      "TEL": "02-418-5662",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0517",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "方荑1洞",
+      "NAME_CNG": "格兰德药店"
+    },
+    {
+      "TEL": "02-443-7789",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0518",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "可乐本洞",
+      "NAME_CNG": "梅蒂森药店"
+    },
+    {
+      "TEL": "02-408-3393",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0519",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "五轮洞",
+      "NAME_CNG": "第一所望药店"
+    },
+    {
+      "TEL": "02-2202-5941",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0520",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "三田洞",
+      "NAME_CNG": "王药店"
+    },
+    {
+      "TEL": "02-418-6551",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0521",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "松坡1洞",
+      "NAME_CNG": "大同药店"
+    },
+    {
+      "TEL": "02-414-0185",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0522",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室6洞",
+      "NAME_CNG": "上一药店"
+    },
+    {
+      "TEL": "02-413-8205",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0523",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室4洞",
+      "NAME_CNG": "奥普蒂玛利奥药店"
+    },
+    {
+      "TEL": "02-3431-4115",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0524",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室本洞",
+      "NAME_CNG": "城市药店"
+    },
+    {
+      "TEL": "02-474-3118",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0525",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "风纳1洞",
+      "NAME_CNG": "春药店"
+    },
+    {
+      "TEL": "02-412-5632",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0526",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室3洞",
+      "NAME_CNG": "友利温努利药店"
+    },
+    {
+      "TEL": "02-485-9100",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0527",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "风纳2洞",
+      "NAME_CNG": "舒服的大荣药店"
+    },
+    {
+      "TEL": "02-596-1136",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0528",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "风纳2洞",
+      "NAME_CNG": "新峨山药店"
+    },
+    {
+      "TEL": "02-482-2621",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0529",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "风纳2洞",
+      "NAME_CNG": "明亮中央药店"
+    },
+    {
+      "TEL": "02-487-1218",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0530",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "蚕室4洞",
+      "NAME_CNG": "渡口站十字路口现代药店"
+    },
+    {
+      "TEL": "02-477-0969",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0531",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "风纳2洞",
+      "NAME_CNG": "橄榄药店"
+    },
+    {
+      "TEL": "02-488-8575",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0532",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "风纳2洞",
+      "NAME_CNG": "峨山梅迪凯尔药店"
+    },
+    {
+      "TEL": "02-486-1380",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0533",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "千戸2洞",
+      "NAME_CNG": "挺挺温努利药店"
+    },
+    {
+      "TEL": "02-484-7747",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0534",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "吉洞",
+      "NAME_CNG": "吉洞中央药店"
+    },
+    {
+      "TEL": "02-485-4195",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0535",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "千戸2洞",
+      "NAME_CNG": "东亚药店"
+    },
+    {
+      "TEL": "02-471-2772",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0536",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "千戸2洞",
+      "NAME_CNG": "德仁药店"
+    },
+    {
+      "TEL": "02-485-7373",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0537",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "城内2洞",
+      "NAME_CNG": "佐伊药店"
+    },
+    {
+      "TEL": "02-3426-2323",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0538",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "明逸1洞",
+      "NAME_CNG": "奥普蒂玛莲堂药店"
+    },
+    {
+      "TEL": "02-474-2447",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0539",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "城内3洞",
+      "NAME_CNG": "最佳药店"
+    },
+    {
+      "TEL": "02-483-0108",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0540",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "千戸2洞",
+      "NAME_CNG": "江东梅迪凯尔药店"
+    },
+    {
+      "TEL": "02-486-7823",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0541",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "城内3洞",
+      "NAME_CNG": "江南药店"
+    },
+    {
+      "TEL": "02-428-7845",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0542",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "明逸2洞",
+      "NAME_CNG": "明逸马特种路药店"
+    },
+    {
+      "TEL": "02-484-2479",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0543",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "城内3洞",
+      "NAME_CNG": "蓝药店"
+    },
+    {
+      "TEL": "02-483-9165",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0544",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "千戸2洞",
+      "NAME_CNG": "大韩药店"
+    },
+    {
+      "TEL": "02-477-8088",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0545",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "遁村2洞",
+      "NAME_CNG": "宝运药店"
+    },
+    {
+      "TEL": "02-486-9744",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0546",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "吉洞",
+      "NAME_CNG": "翰林药店"
+    },
+    {
+      "TEL": "02-479-8100",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0547",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "吉洞",
+      "NAME_CNG": "市民堂药店"
+    },
+    {
+      "TEL": "02-483-8200",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0548",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "吉洞",
+      "NAME_CNG": "维德发尔天使药店"
+    },
+    {
+      "TEL": "02-429-1662",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0549",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "高徳2洞",
+      "NAME_CNG": "杜勒药店"
+    },
+    {
+      "TEL": "02-487-1201",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0550",
+      "H_CNG_GU": "江东区",
+      "H_CNG_DONG": "遁村2洞",
+      "NAME_CNG": "升敏药店"
+    },
+    {
+      "TEL": "02-764-9918",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0001",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "健康药店"
+    },
+    {
+      "TEL": "02-2273-7826",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0002",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路5.6街洞",
+      "NAME_CNG": "共生药店"
+    },
+    {
+      "TEL": "02-745-2112",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0003",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "昌信1洞",
+      "NAME_CNG": "格林药店"
+    },
+    {
+      "TEL": "02-765-2766",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0004",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "昌信2洞",
+      "NAME_CNG": "绿十字药店"
+    },
+    {
+      "TEL": "02-745-0731",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0005",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "崇仁1洞",
+      "NAME_CNG": "常客药店"
+    },
+    {
+      "TEL": "02-743-5800",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0006",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "昌信1洞",
+      "NAME_CNG": "大成药店"
+    },
+    {
+      "TEL": "02-762-6060",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0007",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "大首尔药店"
+    },
+    {
+      "TEL": "02-3672-3672",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0008",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "大学药店"
+    },
+    {
+      "TEL": "02-764-5511",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0009",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "昌信1洞",
+      "NAME_CNG": "德国药店"
+    },
+    {
+      "TEL": "02-2266-8911",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0010",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路5.6街洞",
+      "NAME_CNG": "东西药店"
+    },
+    {
+      "TEL": "02-2285-5702",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0011",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "东亚药店"
+    },
+    {
+      "TEL": "02-743-7371",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0012",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "昌信2洞",
+      "NAME_CNG": "同仁药店"
+    },
+    {
+      "TEL": "02-766-9000",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0013",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "梅迪克首尔药店"
+    },
+    {
+      "TEL": "02-745-6678",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0014",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "昌信1洞",
+      "NAME_CNG": "信任药店"
+    },
+    {
+      "TEL": "02-762-2515",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0015",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "宝光药店"
+    },
+    {
+      "TEL": "02-743-7915",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0016",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "昌信1洞",
+      "NAME_CNG": "宝蓝药店"
+    },
+    {
+      "TEL": "02-763-8181",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0017",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路5.6街洞",
+      "NAME_CNG": "宝玲药店"
+    },
+    {
+      "TEL": "02-736-3385",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0018",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "桥南洞",
+      "NAME_CNG": "三正芭罗药店"
+    },
+    {
+      "TEL": "02-3672-8558",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0019",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路5.6街洞",
+      "NAME_CNG": "钟路第一药店"
+    },
+    {
+      "TEL": "02-720-5662",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0020",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "新现代药店"
+    },
+    {
+      "TEL": "02-3676-1400",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0021",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "首尔钟路药店"
+    },
+    {
+      "TEL": "02-743-2062",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0022",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "昌信1洞",
+      "NAME_CNG": "圣心药店"
+    },
+    {
+      "TEL": "02-762-2211",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0023",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "恵化洞",
+      "NAME_CNG": "成真药店"
+    },
+    {
+      "TEL": "02-929-0754",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0024",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "崇仁2洞",
+      "NAME_CNG": "崇仁药店"
+    },
+    {
+      "TEL": "02-765-5885",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0025",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "崇仁1洞",
+      "NAME_CNG": "崇仁多莫尔药店"
+    },
+    {
+      "TEL": "02-736-6512",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0026",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "社稷洞",
+      "NAME_CNG": "市民药店"
+    },
+    {
+      "TEL": "02-2264-8211",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0027",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "开放药店"
+    },
+    {
+      "TEL": "02-2266-4312",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0028",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "仁济药店"
+    },
+    {
+      "TEL": "02-765-7200",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0029",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路1.2.3.4街洞",
+      "NAME_CNG": "正门药店"
+    },
+    {
+      "TEL": "02-2279-7388",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0030",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路5.6街洞",
+      "NAME_CNG": "济新药店"
+    },
+    {
+      "TEL": "02-2274-1311",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0031",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路5.6街洞",
+      "NAME_CNG": "钟根堂药店"
+    },
+    {
+      "TEL": "02-745-8492",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0032",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路5.6街洞",
+      "NAME_CNG": "钟路百济药店"
+    },
+    {
+      "TEL": "02-736-0806",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0033",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "清云孝子洞",
+      "NAME_CNG": "钟路广场药店"
+    },
+    {
+      "TEL": "02-762-9909",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0034",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "钟路5.6街洞",
+      "NAME_CNG": "忠信药店"
+    },
+    {
+      "TEL": "02-762-4636",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0035",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "梨花洞",
+      "NAME_CNG": "韩德药店"
+    },
+    {
+      "TEL": "02-741-0370",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0036",
+      "H_CNG_GU": "钟路区",
+      "H_CNG_DONG": "梨花洞",
+      "NAME_CNG": "含春药店"
+    },
+    {
+      "TEL": "02-776-8000",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0037",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "小公洞",
+      "NAME_CNG": "世界药店"
+    },
+    {
+      "TEL": "02-737-2636",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0038",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "首尔药店"
+    },
+    {
+      "TEL": "02-738-8808",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0039",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "天鹅药店"
+    },
+    {
+      "TEL": "02-392-7291",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0040",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "中林洞",
+      "NAME_CNG": "仁宇药店"
+    },
+    {
+      "TEL": "02-753-7466",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0041",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "小公洞",
+      "NAME_CNG": "南市药店"
+    },
+    {
+      "TEL": "02-752-0229",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0042",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "喜久药店"
+    },
+    {
+      "TEL": "02-756-3301",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0043",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "小公洞",
+      "NAME_CNG": "新三星药店"
+    },
+    {
+      "TEL": "02-3789-7048",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0044",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "小公洞",
+      "NAME_CNG": "首尔王药店"
+    },
+    {
+      "TEL": "02-3789-7582",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0045",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "南山友利药店"
+    },
+    {
+      "TEL": "02-753-2703",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0046",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "大宇社药店"
+    },
+    {
+      "TEL": "02-752-9086",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0047",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "会岘洞",
+      "NAME_CNG": "新友信药店"
+    },
+    {
+      "TEL": "02-393-5505",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0048",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "南営洞",
+      "NAME_CNG": "森特乐发姆药店"
+    },
+    {
+      "TEL": "02-776-4476",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0049",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "赛元药店"
+    },
+    {
+      "TEL": "02-778-3451",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0050",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "联合药店"
+    },
+    {
+      "TEL": "02-776-4820",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0051",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "新忠武药店"
+    },
+    {
+      "TEL": "02-775-7428",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0052",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "普润药店"
+    },
+    {
+      "TEL": "02-778-7880",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0053",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "优纳斯科药店"
+    },
+    {
+      "TEL": "02-777-0505",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0054",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "明洞中央药店"
+    },
+    {
+      "TEL": "02-778-9975",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0055",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "明洞舍朗药店"
+    },
+    {
+      "TEL": "02-2279-5500",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0056",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "光熙洞",
+      "NAME_CNG": "五星药店"
+    },
+    {
+      "TEL": "02-2269-6872",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0057",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "成均第一药店"
+    },
+    {
+      "TEL": "02-2273-1390",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0058",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "东化洞",
+      "NAME_CNG": "新城药店"
+    },
+    {
+      "TEL": "02-755-5155",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0059",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "哈纳药店"
+    },
+    {
+      "TEL": "02-2275-2113",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0060",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "乙支路洞",
+      "NAME_CNG": "乙支秀药店"
+    },
+    {
+      "TEL": "02-2268-7552",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0061",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "菲尔药店"
+    },
+    {
+      "TEL": "02-2272-4986",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0062",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "乙支路洞",
+      "NAME_CNG": "池霞根华奢药店"
+    },
+    {
+      "TEL": "02-2252-2929",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0063",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "新堂5洞",
+      "NAME_CNG": "长寿药店"
+    },
+    {
+      "TEL": "02-777-4826",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0064",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "明洞",
+      "NAME_CNG": "新罗药店"
+    },
+    {
+      "TEL": "02-2267-8830",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0065",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "笔洞",
+      "NAME_CNG": "宝生堂药店"
+    },
+    {
+      "TEL": "02-2267-1492",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0066",
+      "H_CNG_GU": "中区",
+      "H_CNG_DONG": "光熙洞",
+      "NAME_CNG": "王兰药店"
+    },
+    {
+      "TEL": "02-715-6009",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0067",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "青坡洞",
+      "NAME_CNG": "美帝发姆崔药店"
+    },
+    {
+      "TEL": "02-717-5603",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0068",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "青坡洞",
+      "NAME_CNG": "明真堂药店"
+    },
+    {
+      "TEL": "02-795-9954",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0069",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "召命药店"
+    },
+    {
+      "TEL": "02-979-9834",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0070",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "元暁路2洞",
+      "NAME_CNG": "全药店"
+    },
+    {
+      "TEL": "02-2012-1276",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0071",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉江路洞",
+      "NAME_CNG": "钟路广场药店"
+    },
+    {
+      "TEL": "02-792-8422",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0072",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "第一药店"
+    },
+    {
+      "TEL": "02-795-9842",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0073",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "二村1洞",
+      "NAME_CNG": "现代温努利药店"
+    },
+    {
+      "TEL": "02-2012-1507",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0074",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉江路洞",
+      "NAME_CNG": "友利药店"
+    },
+    {
+      "TEL": "02-790-3376",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0075",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "汉南洞",
+      "NAME_CNG": "最大太平洋药店"
+    },
+    {
+      "TEL": "02-313-2780",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0076",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "南営洞",
+      "NAME_CNG": "空港药店"
+    },
+    {
+      "TEL": "02-701-8224",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0077",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "孝昌洞",
+      "NAME_CNG": "秀药店"
+    },
+    {
+      "TEL": "02-749-8686",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0078",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "二村1洞",
+      "NAME_CNG": "二村广场药店"
+    },
+    {
+      "TEL": "02-6407-7234",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0079",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "元暁路1洞",
+      "NAME_CNG": "元晓药店"
+    },
+    {
+      "TEL": "070-4122-1004",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0080",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "南営洞",
+      "NAME_CNG": "嗨药店"
+    },
+    {
+      "TEL": "02-718-3673",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0081",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "元暁路2洞",
+      "NAME_CNG": "金宝药店"
+    },
+    {
+      "TEL": "02-792-2621",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0082",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "梨泰院1洞",
+      "NAME_CNG": "明亮世界药店"
+    },
+    {
+      "TEL": "02-795-6242",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0083",
+      "H_CNG_GU": "龙山区",
+      "H_CNG_DONG": "二村1洞",
+      "NAME_CNG": "东部药店"
+    },
+    {
+      "TEL": "02-2282-5230",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0084",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "金湖1街洞",
+      "NAME_CNG": "新金湖药店"
+    },
+    {
+      "TEL": "02-2294-8111",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0085",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "杏堂1洞",
+      "NAME_CNG": "平安药店"
+    },
+    {
+      "TEL": "02-2293-0554",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0086",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "沙斤洞",
+      "NAME_CNG": "大学药店"
+    },
+    {
+      "TEL": "02-2245-3665",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0087",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "龙踏洞",
+      "NAME_CNG": "一真药店"
+    },
+    {
+      "TEL": "02-466-1377",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0088",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "圣水2街3洞",
+      "NAME_CNG": "灵敏药店"
+    },
+    {
+      "TEL": "02-2231-1703",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0089",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "金湖2.3街洞",
+      "NAME_CNG": "都好药店"
+    },
+    {
+      "TEL": "02-2299-8850",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0090",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "玉水洞",
+      "NAME_CNG": "麒麟药店"
+    },
+    {
+      "TEL": "02-2238-9268",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0091",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "金湖2.3街洞",
+      "NAME_CNG": "有名药店"
+    },
+    {
+      "TEL": "02-2292-4418",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0092",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "往十里2洞",
+      "NAME_CNG": "大众药店"
+    },
+    {
+      "TEL": "02-2282-7948",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0093",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "杏堂2洞",
+      "NAME_CNG": "美帝发姆韩松药店"
+    },
+    {
+      "TEL": "02-2281-7292",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0094",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "杏堂1洞",
+      "NAME_CNG": "明洞温努利药店"
+    },
+    {
+      "TEL": "02-2293-2729",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0095",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "沙斤洞",
+      "NAME_CNG": "惠民药店"
+    },
+    {
+      "TEL": "02-2212-8762",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0096",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "龙踏洞",
+      "NAME_CNG": "政民药店"
+    },
+    {
+      "TEL": "02-2293-6946",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0097",
+      "H_CNG_GU": "城东区",
+      "H_CNG_DONG": "鹰峰洞",
+      "NAME_CNG": "第一药店"
+    },
+    {
+      "TEL": "02-450-4759",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0098",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "广壮洞",
+      "NAME_CNG": "区内药店"
+    },
+    {
+      "TEL": "02-463-9380",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0099",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "中谷3洞",
+      "NAME_CNG": "天使药店"
+    },
+    {
+      "TEL": "02-452-0015",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0100",
+      "H_CNG_GU": "广津区",
+      "H_CNG_DONG": "九宜3洞",
+      "NAME_CNG": "东首尔药店"
+    },
+    {
+      "TEL": "02-967-3315",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0101",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "清凉里洞",
+      "NAME_CNG": "三星M药店"
+    },
+    {
+      "TEL": "02-962-8989",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0102",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "祭基洞",
+      "NAME_CNG": "世光药店"
+    },
+    {
+      "TEL": "02-2217-3606",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0103",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "踏十里1洞",
+      "NAME_CNG": "福祉药店"
+    },
+    {
+      "TEL": "02-2247-5029",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0104",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "踏十里1洞",
+      "NAME_CNG": "真梨花药店"
+    },
+    {
+      "TEL": "02-2212-9430",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0105",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "长安2洞",
+      "NAME_CNG": "长安坪药店"
+    },
+    {
+      "TEL": "02-2214-2488",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0106",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "长安2洞",
+      "NAME_CNG": "新梨花药店"
+    },
+    {
+      "TEL": "02-2245-2594",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0107",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "长安2洞",
+      "NAME_CNG": "娜娜药店"
+    },
+    {
+      "TEL": "02-965-7162",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0108",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "龙新洞",
+      "NAME_CNG": "东大门保健药店"
+    },
+    {
+      "TEL": "02-964-1717",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0109",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "龙新洞",
+      "NAME_CNG": "东大门21世纪药店"
+    },
+    {
+      "TEL": "02-2215-9454",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0110",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "踏十里2洞",
+      "NAME_CNG": "踏十里百货药店"
+    },
+    {
+      "TEL": "02-2215-6291",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0111",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "典农2洞",
+      "NAME_CNG": "纽梅迪凯尔药店"
+    },
+    {
+      "TEL": "02-2212-1931",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0112",
+      "H_CNG_GU": "东大门区",
+      "H_CNG_DONG": "典农2洞",
+      "NAME_CNG": "新杏堂药店"
+    },
+    {
+      "TEL": "02-437-3337",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0113",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "面牧2洞",
+      "NAME_CNG": "恩惠堂药店"
+    },
+    {
+      "TEL": "02-3421-3383",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0114",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "新内2洞",
+      "NAME_CNG": "新烽火"
+    },
+    {
+      "TEL": "02-491-1114",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0115",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "中和1洞",
+      "NAME_CNG": "健康第一温努利"
+    },
+    {
+      "TEL": "02-493-5074",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0116",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "面牧7洞",
+      "NAME_CNG": "利安温努利"
+    },
+    {
+      "TEL": "02-433-4955",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0117",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "面牧5洞",
+      "NAME_CNG": "娜尔"
+    },
+    {
+      "TEL": "02-2208-0922",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0118",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "中和2洞",
+      "NAME_CNG": "泰陵广场"
+    },
+    {
+      "TEL": "02-433-1100",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0119",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "忘忧本洞",
+      "NAME_CNG": "友利钟路"
+    },
+    {
+      "TEL": "02-3422-5000",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0120",
+      "H_CNG_GU": "中浪区",
+      "H_CNG_DONG": "新内1洞",
+      "NAME_CNG": "首尔梅迪凯尔"
+    },
+    {
+      "TEL": "02-912-3417",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0121",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "钟岩洞",
+      "NAME_CNG": "云龙药店"
+    },
+    {
+      "TEL": "02-914-8814",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0122",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵2洞",
+      "NAME_CNG": "江原药店"
+    },
+    {
+      "TEL": "02-923-6811",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0123",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "敦岩1洞",
+      "NAME_CNG": "首尔高明药店"
+    },
+    {
+      "TEL": "02-918-7692",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0124",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "城北洞",
+      "NAME_CNG": "艾尔法药店"
+    },
+    {
+      "TEL": "02-913-2328",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0125",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵4洞",
+      "NAME_CNG": "温努利清水药店"
+    },
+    {
+      "TEL": "02-928-5777",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0126",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "钟岩洞",
+      "NAME_CNG": "永生药店"
+    },
+    {
+      "TEL": "02-966-5913",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0127",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "石串洞",
+      "NAME_CNG": "新鲜明药店"
+    },
+    {
+      "TEL": "02-913-0832",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0128",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "吉音1洞",
+      "NAME_CNG": "大林堂药店"
+    },
+    {
+      "TEL": "02-928-8974",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0129",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "安岩洞",
+      "NAME_CNG": "自省药店"
+    },
+    {
+      "TEL": "02-915-4560",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0130",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位2洞",
+      "NAME_CNG": "釜山药店"
+    },
+    {
+      "TEL": "02-914-3982",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0131",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵4洞",
+      "NAME_CNG": "贞陵药店"
+    },
+    {
+      "TEL": "02-914-6815",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0132",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵1洞",
+      "NAME_CNG": "大建药店"
+    },
+    {
+      "TEL": "02-915-1365",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0133",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "长位3洞",
+      "NAME_CNG": "泰明药店"
+    },
+    {
+      "TEL": "02-913-9270",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0134",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "吉音1洞",
+      "NAME_CNG": "南真药店"
+    },
+    {
+      "TEL": "02-914-3685",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0135",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "贞陵4洞",
+      "NAME_CNG": "世宗药店"
+    },
+    {
+      "TEL": "02-926-6678",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0136",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "普门洞",
+      "NAME_CNG": "温努利慈爱药店"
+    },
+    {
+      "TEL": "02-831-1922",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0402",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "新大方2洞",
+      "NAME_CNG": "拨拉梅大学药店"
+    },
+    {
+      "TEL": "02-816-3869",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0403",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "上道1洞",
+      "NAME_CNG": "日升药店"
+    },
+    {
+      "TEL": "02-3474-4170",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0404",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "舍堂4洞",
+      "NAME_CNG": "舍堂广场药店"
+    },
+    {
+      "TEL": "02-848-4566",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0405",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "新大方1洞",
+      "NAME_CNG": "韩彬平和医院"
+    },
+    {
+      "TEL": "02-822-1344",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0406",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "大方洞",
+      "NAME_CNG": "新大方药店"
+    },
+    {
+      "TEL": "02-821-8531",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0407",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "舍堂2洞",
+      "NAME_CNG": "和加邓药店"
+    },
+    {
+      "TEL": "02-826-8976",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0408",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "上道1洞",
+      "NAME_CNG": "洪爱药店"
+    },
+    {
+      "TEL": "02-849-8250",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0409",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "新大方2洞",
+      "NAME_CNG": "开放药店"
+    },
+    {
+      "TEL": "02-812-0993",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0410",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "黒石洞",
+      "NAME_CNG": "新世明药店"
+    },
+    {
+      "TEL": "02-821-3130",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0411",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "上道2洞",
+      "NAME_CNG": "海之星药店"
+    },
+    {
+      "TEL": "02-822-0443",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0412",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "黒石洞",
+      "NAME_CNG": "新中央药店"
+    },
+    {
+      "TEL": "02-833-9505",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0413",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "新大方2洞",
+      "NAME_CNG": "拨拉梅好药店"
+    },
+    {
+      "TEL": "02-817-1918",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0414",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "鹭梁津1洞",
+      "NAME_CNG": "金刚药店"
+    },
+    {
+      "TEL": "02-813-1593",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0415",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "鹭梁津2洞",
+      "NAME_CNG": "妈妈琅药店"
+    },
+    {
+      "TEL": "02-584-0072",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0416",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "舍堂4洞",
+      "NAME_CNG": "贴心药店"
+    },
+    {
+      "TEL": "02-3477-9477",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0417",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "舍堂3洞",
+      "NAME_CNG": "太平洋药店"
+    },
+    {
+      "TEL": "02-6267-7575",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0418",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "鹭梁津1洞",
+      "NAME_CNG": "深情药店"
+    },
+    {
+      "TEL": "02-856-0528",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0419",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "新院洞",
+      "NAME_CNG": "挺挺药店"
+    },
+    {
+      "TEL": "02-888-5887",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0420",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "落星垈",
+      "NAME_CNG": "橙子药店"
+    },
+    {
+      "TEL": "02-875-1711",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0421",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "青龙洞",
+      "NAME_CNG": "丰天广场医院"
+    },
+    {
+      "TEL": "02-877-8597",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0422",
+      "H_CNG_GU": "冠岳区",
+      "H_CNG_DONG": "三成洞",
+      "NAME_CNG": "仁济药店"
+    },
+    {
+      "TEL": "02-3147-0770",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0313",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "秃鹫药店"
+    },
+    {
+      "TEL": "02-323-0111",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0314",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "大学药店"
+    },
+    {
+      "TEL": "02-364-5455",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0315",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "韩舍朗温努利药店"
+    },
+    {
+      "TEL": "02-324-4652",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0316",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "正门药店"
+    },
+    {
+      "TEL": "02-312-5103",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0317",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "维德发尔新村药店"
+    },
+    {
+      "TEL": "02-364-6141",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0318",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "世缘药店"
+    },
+    {
+      "TEL": "02-394-3599",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0319",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "弘済1洞",
+      "NAME_CNG": "弘济春药店"
+    },
+    {
+      "TEL": "02-723-9887",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0320",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "弘済2洞",
+      "NAME_CNG": "山田药店"
+    },
+    {
+      "TEL": "02-998-9310",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0321",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "弘済3洞",
+      "NAME_CNG": "首尔松药店"
+    },
+    {
+      "TEL": "02-375-3548",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0322",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "南加佐1洞",
+      "NAME_CNG": "韩美药店"
+    },
+    {
+      "TEL": "02-3141-4040",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0323",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "延禧洞",
+      "NAME_CNG": "延禧钟路药店"
+    },
+    {
+      "TEL": "02-373-0547",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0324",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "南加佐2洞",
+      "NAME_CNG": "青蓝药店"
+    },
+    {
+      "TEL": "02-392-3333",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0325",
+      "H_CNG_GU": "西大门区",
+      "H_CNG_DONG": "新村洞",
+      "NAME_CNG": "一心药店"
+    },
+    {
+      "TEL": "02-6009-1166",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0326",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "阿岘洞",
+      "NAME_CNG": "玛丽药店"
+    },
+    {
+      "TEL": "02-337-6969",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0327",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "奥普蒂玛强化药店"
+    },
+    {
+      "TEL": "02-715-3133",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0328",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "大兴洞",
+      "NAME_CNG": "多纳药店"
+    },
+    {
+      "TEL": "02-713-6563",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0329",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "大兴洞",
+      "NAME_CNG": "维他命药店"
+    },
+    {
+      "TEL": "02-701-2141",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0330",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "大兴洞",
+      "NAME_CNG": "曙光大厦药店"
+    },
+    {
+      "TEL": "02-336-3496",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0331",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "望远1洞",
+      "NAME_CNG": "麻浦钟路药店"
+    },
+    {
+      "TEL": "02-322-8344",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0332",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "太平洋药店"
+    },
+    {
+      "TEL": "02-718-4897",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0333",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "孔徳洞",
+      "NAME_CNG": "优大药店"
+    },
+    {
+      "TEL": "02-714-7588",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0334",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "塩里洞",
+      "NAME_CNG": "快乐药店"
+    },
+    {
+      "TEL": "02-324-4625",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0335",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西岗洞",
+      "NAME_CNG": "美帝发姆新麻浦药店"
+    },
+    {
+      "TEL": "02-323-0900",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0336",
+      "H_CNG_GU": "麻浦区",
+      "H_CNG_DONG": "西桥洞",
+      "NAME_CNG": "新村世民药店"
+    },
+    {
+      "TEL": "02-2163-3968",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0337",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木1洞",
+      "NAME_CNG": "现代梅迪凯尔药店"
+    },
+    {
+      "TEL": "02-2693-4373",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0338",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月7洞",
+      "NAME_CNG": "艺仁药店"
+    },
+    {
+      "TEL": "02-6678-2244",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0339",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木5洞",
+      "NAME_CNG": "世界药店"
+    },
+    {
+      "TEL": "02-2650-8828",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0340",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新亭6洞",
+      "NAME_CNG": "邻近温努利药店"
+    },
+    {
+      "TEL": "02-2697-5065",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0341",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月4洞",
+      "NAME_CNG": "内外药店"
+    },
+    {
+      "TEL": "02-2602-6489",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0342",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月5洞",
+      "NAME_CNG": "大宇西罗阿姆药店"
+    },
+    {
+      "TEL": "02-2651-3467",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0343",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木1洞",
+      "NAME_CNG": "马特温努利药店"
+    },
+    {
+      "TEL": "02-2643-9685",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0344",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木1洞",
+      "NAME_CNG": "美帝发姆三星药店"
+    },
+    {
+      "TEL": "02-2602-5602",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0345",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月7洞",
+      "NAME_CNG": "文化药店"
+    },
+    {
+      "TEL": "02-2644-3395",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0346",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新亭3洞",
+      "NAME_CNG": "水晶药店"
+    },
+    {
+      "TEL": "02-2602-7613",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0347",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月1洞",
+      "NAME_CNG": "新月市场药店"
+    },
+    {
+      "TEL": "02-2692-4373",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0348",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月7洞",
+      "NAME_CNG": "艺仁药店"
+    },
+    {
+      "TEL": "02-2601-8557",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0349",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新亭4洞",
+      "NAME_CNG": "橙子青柠药店"
+    },
+    {
+      "TEL": "02-6678-2244",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0350",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木5洞",
+      "NAME_CNG": "世界药店"
+    },
+    {
+      "TEL": "02-2698-1635",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0351",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新亭4洞",
+      "NAME_CNG": "恩惠药店"
+    },
+    {
+      "TEL": "02-2603-3918",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0352",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "新月1洞",
+      "NAME_CNG": "济民药店"
+    },
+    {
+      "TEL": "02-2651-5319",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0353",
+      "H_CNG_GU": "阳川区",
+      "H_CNG_DONG": "木4洞",
+      "NAME_CNG": "青松温努利药店"
+    },
+    {
+      "TEL": "02-2606-1531",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0354",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷6洞",
+      "NAME_CNG": "江西延世药店"
+    },
+    {
+      "TEL": "02-2668-2525",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0355",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "登村1洞",
+      "NAME_CNG": "大贤温努利药店"
+    },
+    {
+      "TEL": "02-2607-0217",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0356",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "拜尔药店"
+    },
+    {
+      "TEL": "02-2658-7371",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0357",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "登村3洞",
+      "NAME_CNG": "韩彬药店"
+    },
+    {
+      "TEL": "02-3663-1809",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0358",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "登村3洞",
+      "NAME_CNG": "富荣药店"
+    },
+    {
+      "TEL": "02-2659-2356",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0359",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "登村3洞",
+      "NAME_CNG": "加阳钟路药店"
+    },
+    {
+      "TEL": "02-2694-7582",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0360",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷8洞",
+      "NAME_CNG": "延寿堂药店"
+    },
+    {
+      "TEL": "02-2692-7020",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0361",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "友利温努利药店"
+    },
+    {
+      "TEL": "02-2607-0624",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0362",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "雨装山洞",
+      "NAME_CNG": "21世纪世界路药店"
+    },
+    {
+      "TEL": "02-6402-3579",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0363",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "第一梅迪凯尔药店"
+    },
+    {
+      "TEL": "02-2664-1350",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0364",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "傍花2洞",
+      "NAME_CNG": "国际机场药店"
+    },
+    {
+      "TEL": "02-2652-7214",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0365",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷4洞",
+      "NAME_CNG": "太平洋药店"
+    },
+    {
+      "TEL": "02-3662-8899",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0366",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "登村1洞",
+      "NAME_CNG": "松药店"
+    },
+    {
+      "TEL": "02-2699-9513",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0367",
+      "H_CNG_GU": "江西区",
+      "H_CNG_DONG": "禾谷1洞",
+      "NAME_CNG": "艺圣药店"
+    },
+    {
+      "TEL": "02-855-1482",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0368",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "加里峰洞",
+      "NAME_CNG": "青瓦药店"
+    },
+    {
+      "TEL": "02-2615-6999",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0369",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "开峰1洞",
+      "NAME_CNG": "好药店"
+    },
+    {
+      "TEL": "02-2068-5733",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0370",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "新道林洞",
+      "NAME_CNG": "泰永广场药店"
+    },
+    {
+      "TEL": "02-2625-6040",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0371",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "高尺2洞",
+      "NAME_CNG": "开放药店"
+    },
+    {
+      "TEL": "02-2613-6044",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0372",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "开峰3洞",
+      "NAME_CNG": "九老广场药店"
+    },
+    {
+      "TEL": "02-2613-3006",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0373",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "开峰1洞",
+      "NAME_CNG": "韩村药店"
+    },
+    {
+      "TEL": "02-2683-3785",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0374",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "高尺2洞",
+      "NAME_CNG": "家人药店"
+    },
+    {
+      "TEL": "02-853-3001",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0375",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老5洞",
+      "NAME_CNG": "儿童爱太平洋药店"
+    },
+    {
+      "TEL": "02-839-7422",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0376",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老4洞",
+      "NAME_CNG": "钟路广场药店"
+    },
+    {
+      "TEL": "02-2687-0322",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0377",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "高尺2洞",
+      "NAME_CNG": "美帝新药店"
+    },
+    {
+      "TEL": "02-865-4910",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0378",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "九老2洞",
+      "NAME_CNG": "大学药店"
+    },
+    {
+      "TEL": "070-4222-1177",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0379",
+      "H_CNG_GU": "九老区",
+      "H_CNG_DONG": "梧柳2洞",
+      "NAME_CNG": "真温努利药店"
+    },
+    {
+      "TEL": "02-838-1158",
+      "H_CNG_CITY": null,
+      "MAIN_KEY": "BE_LiST22-0380",
+      "H_CNG_GU": null,
+      "H_CNG_DONG": null,
+      "NAME_CNG": "加山药店"
+    },
+    {
+      "TEL": "02-855-3843",
+      "H_CNG_CITY": null,
+      "MAIN_KEY": "BE_LiST22-0381",
+      "H_CNG_GU": null,
+      "H_CNG_DONG": null,
+      "NAME_CNG": "汤姆斯药店"
+    },
+    {
+      "TEL": "02-804-1230",
+      "H_CNG_CITY": null,
+      "MAIN_KEY": "BE_LiST22-0382",
+      "H_CNG_GU": null,
+      "H_CNG_DONG": null,
+      "NAME_CNG": "信阳温努利药店"
+    },
+    {
+      "TEL": "02-805-8943",
+      "H_CNG_CITY": null,
+      "MAIN_KEY": "BE_LiST22-0383",
+      "H_CNG_GU": null,
+      "H_CNG_DONG": null,
+      "NAME_CNG": "美帝发姆大爱药店"
+    },
+    {
+      "TEL": "02-802-5639, 838-9256",
+      "H_CNG_CITY": null,
+      "MAIN_KEY": "BE_LiST22-0384",
+      "H_CNG_GU": null,
+      "H_CNG_DONG": null,
+      "NAME_CNG": "匀京药店"
+    },
+    {
+      "TEL": "02-804-6985",
+      "H_CNG_CITY": null,
+      "MAIN_KEY": "BE_LiST22-0385",
+      "H_CNG_GU": null,
+      "H_CNG_DONG": null,
+      "NAME_CNG": "韩中药店"
+    },
+    {
+      "TEL": "02-802-9314",
+      "H_CNG_CITY": null,
+      "MAIN_KEY": "BE_LiST22-0386",
+      "H_CNG_GU": null,
+      "H_CNG_DONG": null,
+      "NAME_CNG": "全真祥药店"
+    },
+    {
+      "TEL": "02-895-8902",
+      "H_CNG_CITY": null,
+      "MAIN_KEY": "BE_LiST22-0387",
+      "H_CNG_GU": null,
+      "H_CNG_DONG": null,
+      "NAME_CNG": "妈咪药店"
+    },
+    {
+      "TEL": "02-2026-0011",
+      "H_CNG_CITY": null,
+      "MAIN_KEY": "BE_LiST22-0388",
+      "H_CNG_GU": null,
+      "H_CNG_DONG": null,
+      "NAME_CNG": "广场药店"
+    },
+    {
+      "TEL": "02-2634-6769",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0389",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "杨坪2洞",
+      "NAME_CNG": "平安温努利药店"
+    },
+    {
+      "TEL": "02-833-4830",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0390",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "新吉4洞",
+      "NAME_CNG": "路桥药店"
+    },
+    {
+      "TEL": "02-3667-1360",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0391",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "堂山1洞",
+      "NAME_CNG": "首尔温努利药店"
+    },
+    {
+      "TEL": "02-2676-8288",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0392",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "堂山2洞",
+      "NAME_CNG": "夫妇情药店"
+    },
+    {
+      "TEL": "02-786-1192",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0393",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "汝矣岛洞",
+      "NAME_CNG": "善景药店"
+    },
+    {
+      "TEL": "02-2633-7167",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0394",
+      "H_CNG_GU": "永登浦区",
+      "H_CNG_DONG": "堂山1洞",
+      "NAME_CNG": "李道药店"
+    },
+    {
+      "TEL": "02-884-1511",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0395",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "黒石洞",
+      "NAME_CNG": "黑石油药店"
+    },
+    {
+      "TEL": "02-591-4655",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0396",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "舍堂2洞",
+      "NAME_CNG": "大一药店"
+    },
+    {
+      "TEL": "02-813-0467",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0397",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "上道2洞",
+      "NAME_CNG": "孝诚药店"
+    },
+    {
+      "TEL": "02-813-1551",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0398",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "鹭梁津2洞",
+      "NAME_CNG": "华生药店"
+    },
+    {
+      "TEL": "02-832-8975",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0399",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "新大方1洞",
+      "NAME_CNG": "降临药店"
+    },
+    {
+      "TEL": "02-595-8804",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0400",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "舍堂2洞",
+      "NAME_CNG": "奥普蒂玛多情药店"
+    },
+    {
+      "TEL": "02-821-1519",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0401",
+      "H_CNG_GU": "铜雀区",
+      "H_CNG_DONG": "上道4洞",
+      "NAME_CNG": "成大药店"
+    },
+    {
+      "TEL": "02-943-8331",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0225",
+      "H_CNG_GU": "城北区",
+      "H_CNG_DONG": "钟岩洞",
+      "NAME_CNG": "新中央药店"
+    },
+    {
+      "TEL": "02-598-2545",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0426",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草1洞",
+      "NAME_CNG": "布朗斯通药店"
+    },
+    {
+      "TEL": "02-533-3107",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0427",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "盘浦1洞",
+      "NAME_CNG": "分享幸福药店"
+    },
+    {
+      "TEL": "02-3474-2599",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0428",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背2洞",
+      "NAME_CNG": "世界路药店"
+    },
+    {
+      "TEL": "02-517-0072",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0429",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "蚕院洞",
+      "NAME_CNG": "民京药店"
+    },
+    {
+      "TEL": "02-530-8575",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0430",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草4洞",
+      "NAME_CNG": "阿拉药店"
+    },
+    {
+      "TEL": "02-533-5287",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0431",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背4洞",
+      "NAME_CNG": "绿十字药店"
+    },
+    {
+      "TEL": "02-583-9305",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0432",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草2洞",
+      "NAME_CNG": "杜利药店"
+    },
+    {
+      "TEL": "02-597-4425",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0433",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "总青蓝的药店"
+    },
+    {
+      "TEL": "02-597-3514",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0434",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草3洞",
+      "NAME_CNG": "多纳药店"
+    },
+    {
+      "TEL": "02-581-8224",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0435",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草2洞",
+      "NAME_CNG": "良才发尔姆24药店"
+    },
+    {
+      "TEL": "02-3482-3562",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0436",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草4洞",
+      "NAME_CNG": "新伍药店"
+    },
+    {
+      "TEL": "02-537-5716",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0437",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "盘浦3洞",
+      "NAME_CNG": "金斯药店"
+    },
+    {
+      "TEL": "02-594-0801",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0438",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背4洞",
+      "NAME_CNG": "江南梅迪凯尔药店"
+    },
+    {
+      "TEL": "02-578-4955",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0439",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "良才2洞",
+      "NAME_CNG": "哈娜路药店"
+    },
+    {
+      "TEL": "02-842-4484",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0440",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "盘浦2洞",
+      "NAME_CNG": "金花药店"
+    },
+    {
+      "TEL": "02-3474-0617",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0441",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草2洞",
+      "NAME_CNG": "瑞草三星药店"
+    },
+    {
+      "TEL": "02-3481-6688",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0442",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草4洞",
+      "NAME_CNG": "明星药店"
+    },
+    {
+      "TEL": "02-585-2113",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0443",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背2洞",
+      "NAME_CNG": "舍堂13号药店"
+    },
+    {
+      "TEL": "02-581-0075",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0444",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "方背1洞",
+      "NAME_CNG": "城市药店"
+    },
+    {
+      "TEL": "02-6282-1213",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0445",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "盘浦4洞",
+      "NAME_CNG": "早安药店"
+    },
+    {
+      "TEL": "02-581-5773",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0446",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草2洞",
+      "NAME_CNG": "多爱药店"
+    },
+    {
+      "TEL": "02-536-3174",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0447",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草2洞",
+      "NAME_CNG": "新宇成药店"
+    },
+    {
+      "TEL": "02-3477-0312",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0448",
+      "H_CNG_GU": "瑞草区",
+      "H_CNG_DONG": "瑞草4洞",
+      "NAME_CNG": "教大爱药店"
+    },
+    {
+      "TEL": "02-547-3196",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0449",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "波因特药店"
+    },
+    {
+      "TEL": "02-534-1287",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0450",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "所望温努利药店"
+    },
+    {
+      "TEL": "02-547-4340",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0451",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "美帝发姆未来药店"
+    },
+    {
+      "TEL": "02-517-2513",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0452",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "美加药店"
+    },
+    {
+      "TEL": "02-518-8766",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0453",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "法纳克斯药店"
+    },
+    {
+      "TEL": "02-546-0093",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0454",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘1洞",
+      "NAME_CNG": "第一格兰德药店"
+    },
+    {
+      "TEL": "02-547-7903",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0455",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "论岘2洞",
+      "NAME_CNG": "民生药店"
+    },
+    {
+      "TEL": "02-501-5063",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0456",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙4洞",
+      "NAME_CNG": "首尔梅蒂药店"
+    },
+    {
+      "TEL": "02-566-3728",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0457",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙2洞",
+      "NAME_CNG": "东城药店"
+    },
+    {
+      "TEL": "02-552-5550",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0458",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙2洞",
+      "NAME_CNG": "温努利求仁堂药店"
+    },
+    {
+      "TEL": "02-362-8631,2",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0459",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙4洞",
+      "NAME_CNG": "华一药店"
+    },
+    {
+      "TEL": "02-568-2310",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0460",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "大峙2洞",
+      "NAME_CNG": "江南宝善药店"
+    },
+    {
+      "TEL": "02-574-2575",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0461",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "道谷2洞",
+      "NAME_CNG": "韩蹄药店"
+    },
+    {
+      "TEL": "02-2058-2745",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0462",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "道谷2洞",
+      "NAME_CNG": "爱加药店"
+    },
+    {
+      "TEL": "02-557-8672",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0463",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "道谷1洞",
+      "NAME_CNG": "连友药店"
+    },
+    {
+      "TEL": "02-571-9515",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0464",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "道谷1洞",
+      "NAME_CNG": "江南好药店"
+    },
+    {
+      "TEL": "02-508-1363",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0465",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "真好药店"
+    },
+    {
+      "TEL": "02-517-3520",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0466",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "开浦2洞",
+      "NAME_CNG": "三星健康药店"
+    },
+    {
+      "TEL": "02-558-8025",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0467",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成2洞",
+      "NAME_CNG": "发尔梅特宣陵水晶药店"
+    },
+    {
+      "TEL": "02-572-1452",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0468",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成2洞",
+      "NAME_CNG": "江南温努利药店"
+    },
+    {
+      "TEL": "02-538-1018",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0469",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成2洞",
+      "NAME_CNG": "三星一信药店"
+    },
+    {
+      "TEL": "02-555-6806",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0470",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "所望药店"
+    },
+    {
+      "TEL": "02-514-7850",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0471",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "奥普蒂玛大荣药店"
+    },
+    {
+      "TEL": "02-459-2293",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0472",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "水西洞",
+      "NAME_CNG": "水西药店"
+    },
+    {
+      "TEL": "02-515-3555",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0473",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "可斯摩斯药店"
+    },
+    {
+      "TEL": "02-549-8774",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0474",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "加纳安药店"
+    },
+    {
+      "TEL": "02-3442-4492",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0475",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "太阳药店"
+    },
+    {
+      "TEL": "02-548-0085",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0476",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "狎鸥亭美药店"
+    },
+    {
+      "TEL": "02-514-0777",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0477",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "狎鸥亭温努利药店"
+    },
+    {
+      "TEL": "02-511-3801",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0478",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "新沙洞",
+      "NAME_CNG": "狎鸥亭广场温努利药店"
+    },
+    {
+      "TEL": "02-541-6939",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0479",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "密园药店"
+    },
+    {
+      "TEL": "02-547-7585",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0480",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "美帝发姆狎鸥亭药店"
+    },
+    {
+      "TEL": "02-543-6650",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0481",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "哈娜药店"
+    },
+    {
+      "TEL": "02-3445-8214",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0482",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "耶斯药店"
+    },
+    {
+      "TEL": "02-516-8753",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0483",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "狎鸥亭总青蓝的药店"
+    },
+    {
+      "TEL": "02-543-0701",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0484",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "狎鸥亭药店"
+    },
+    {
+      "TEL": "02-540-4091",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0485",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "罗德奥药店"
+    },
+    {
+      "TEL": "02-543-2251",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0486",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "狎鴎亭洞",
+      "NAME_CNG": "春药店"
+    },
+    {
+      "TEL": "02-567-2501",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0487",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "1番地药店"
+    },
+    {
+      "TEL": "02-3453-3501",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0488",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "真好善药店"
+    },
+    {
+      "TEL": "02-562-6575",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0489",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "阿汤药店"
+    },
+    {
+      "TEL": "02-569-4130",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0490",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "三成1洞",
+      "NAME_CNG": "三星哈娜药店"
+    },
+    {
+      "TEL": "02-3453-3589",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0491",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "驿三多仁药店"
+    },
+    {
+      "TEL": "02-566-0027",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0492",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "温努利开心药店"
+    },
+    {
+      "TEL": "02-567-9361",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0493",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "多来药店"
+    },
+    {
+      "TEL": "02-2112-2911",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0494",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "温努利海林药店"
+    },
+    {
+      "TEL": "02-558-6338~9",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0495",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "新彗星药店"
+    },
+    {
+      "TEL": "02-564-7582",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0496",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "美丽我们药店"
+    },
+    {
+      "TEL": "02-6440-5656",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0497",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "威尔药店"
+    },
+    {
+      "TEL": "02-553-1608",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0498",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "W商场江南城市药店"
+    },
+    {
+      "TEL": "02-553-1517",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0499",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "驿三1洞",
+      "NAME_CNG": "大街药店"
+    },
+    {
+      "TEL": "02-2226-2268",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0500",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "逸院1洞",
+      "NAME_CNG": "棉花药店"
+    },
+    {
+      "TEL": "02-451-8233",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0501",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "逸院本洞",
+      "NAME_CNG": "逸院站药店"
+    },
+    {
+      "TEL": "02-3411-1007,1009",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0502",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "逸院本洞",
+      "NAME_CNG": "开放药店"
+    },
+    {
+      "TEL": "02-512-3389",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0503",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "新生命药店"
+    },
+    {
+      "TEL": "02-547-3443",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0504",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "荣智药店"
+    },
+    {
+      "TEL": "02-541-7378",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0505",
+      "H_CNG_GU": "江南区",
+      "H_CNG_DONG": "淸潭洞",
+      "NAME_CNG": "建荣药店"
+    },
+    {
+      "TEL": "02-489-4383",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0506",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "风纳2洞",
+      "NAME_CNG": "邻近梨花医院"
+    },
+    {
+      "TEL": "02-473-0111",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0507",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "风纳2洞",
+      "NAME_CNG": "江南大学药店"
+    },
+    {
+      "TEL": "02-407-8774",
+      "H_CNG_CITY": "首尔特别市",
+      "MAIN_KEY": "BE_LiST22-0508",
+      "H_CNG_GU": "松坡区",
+      "H_CNG_DONG": "巨余2洞",
+      "NAME_CNG": "兄妹药店"
+    }
+  ]
+}

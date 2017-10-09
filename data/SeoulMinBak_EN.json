@@ -1,0 +1,5596 @@
+{
+  "DESCRIPTION": {
+    "ROOM": "객실수",
+    "H_ENG_CITY": "행정시",
+    "NAME_ENG": "상호",
+    "H_ENG_GU": "행정구",
+    "H_ENG_DONG": "행정동",
+    "MAIN_KEY": "키"
+  },
+  "DATA": [
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "YEHADOYE Guesthouse",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST20-0022"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "B-House",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Changsin2-dong",
+      "MAIN_KEY": "BE_LiST20-0023"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hide & Seek",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sajik-dong",
+      "MAIN_KEY": "BE_LiST20-0024"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yein House",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST20-0025"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Guesthouse",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Jongno1.2.3.4ga-dong",
+      "MAIN_KEY": "BE_LiST20-0026"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Windroad & Flower Guesthouse",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Hyehwa-dong",
+      "MAIN_KEY": "BE_LiST20-0027"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "White Rabbit Guesthouse",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Hyehwa-dong",
+      "MAIN_KEY": "BE_LiST20-0028"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bong Backpackers",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Hyehwa-dong",
+      "MAIN_KEY": "BE_LiST20-0029"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The Present Guesthouse",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Hyehwa-dong",
+      "MAIN_KEY": "BE_LiST20-0030"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Lydia Craft Guesthouse",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sajik-dong",
+      "MAIN_KEY": "BE_LiST20-0031"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "BBUNGALOW",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sajik-dong",
+      "MAIN_KEY": "BE_LiST20-0032"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gwanghwamun Guest House Gung",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sajik-dong",
+      "MAIN_KEY": "BE_LiST20-0033"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "OWL Guesthouse",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sungin2-dong",
+      "MAIN_KEY": "BE_LiST20-0034"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Pom House",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sajik-dong",
+      "MAIN_KEY": "BE_LiST20-0035"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "J House",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sajik-dong",
+      "MAIN_KEY": "BE_LiST20-0036"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Woo Guesthouse",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Samcheong-dong",
+      "MAIN_KEY": "BE_LiST20-0037"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "CHANG YEUN HO",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST20-0038"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Eighty Eight Guest House",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Samcheong-dong",
+      "MAIN_KEY": "BE_LiST20-0039"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Guesthouse The Kims",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Buam-dong",
+      "MAIN_KEY": "BE_LiST20-0040"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Guest J House",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Hyehwa-dong",
+      "MAIN_KEY": "BE_LiST20-0041"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hans House",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sajik-dong",
+      "MAIN_KEY": "BE_LiST20-0042"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Friend in Seoul",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST20-0043"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "A Well Watered Garden",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Pyeongchang-dong",
+      "MAIN_KEY": "BE_LiST20-0044"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Namdaemun Guest House",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0045"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Residence EO",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0046"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Eco House",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0047"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Myeongdong Green Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0048"
+    },
+    {
+      "ROOM": 13,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bangrang Hostel",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Jungnim-dong",
+      "MAIN_KEY": "BE_LiST20-0049"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Homestay Mama House",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Gwanghui-dong",
+      "MAIN_KEY": "BE_LiST20-0050"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Kukje Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0051"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "N Four Season Seoul",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0052"
+    },
+    {
+      "ROOM": 9,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "B my guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0053"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gom Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST20-0054"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "OK Vill",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Euljiro-dong",
+      "MAIN_KEY": "BE_LiST20-0055"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Agit Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Yaksu-dong",
+      "MAIN_KEY": "BE_LiST20-0056"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "I House",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0057"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "MAGO Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST20-0058"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The Boot Main",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST20-0059"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The Boot Sub",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST20-0060"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Grandfield Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0061"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "J-Honor Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0062"
+    },
+    {
+      "ROOM": 10,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mama Guesthouse 1",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST20-0063"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Korea's Come",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Sindang5-dong",
+      "MAIN_KEY": "BE_LiST20-0064"
+    },
+    {
+      "ROOM": 10,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Neungmaru Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0065"
+    },
+    {
+      "ROOM": 17,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Tao Town",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Jangchung-dong",
+      "MAIN_KEY": "BE_LiST20-0066"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Guesthouse Myeongdong 2",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST20-0067"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Lee's Garden",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0068"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "City House",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Jungnim-dong",
+      "MAIN_KEY": "BE_LiST20-0069"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Welcome Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0070"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Starria Hostel",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0071"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Kiki Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Gwanghui-dong",
+      "MAIN_KEY": "BE_LiST20-0072"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Able Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Gwanghui-dong",
+      "MAIN_KEY": "BE_LiST20-0073"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Vestin Villa",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0074"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Agrina",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST20-0075"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Soo Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0076"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Crib49 Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0077"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The Hill",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0078"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "IU Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0079"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "YL Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0080"
+    },
+    {
+      "ROOM": 9,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "USB Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Jangchung-dong",
+      "MAIN_KEY": "BE_LiST20-0081"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Rainbow Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST20-0082"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Wons Ville",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST20-0083"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Red",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0084"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Station Liga Homestay",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Jungnim-dong",
+      "MAIN_KEY": "BE_LiST20-0085"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "24 Guesthouse Namsangarden",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0086"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Namsan Guesthouse 5",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0087"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Nancy Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0088"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bodeum",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0089"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Zoayo",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0090"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Lucas Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0091"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The Mei Forestvill",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Jangchung-dong",
+      "MAIN_KEY": "BE_LiST20-0092"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "ZZ Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0093"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mom House (Myeongdong Mom House)",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0094"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Taiwan Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0095"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Plan A Hostel",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Sindang-dong",
+      "MAIN_KEY": "BE_LiST20-0096"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Rainbow Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST20-0097"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Tomato Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0098"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cozy Stay",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hwanghak-dong",
+      "MAIN_KEY": "BE_LiST20-0099"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jun Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0100"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ami Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hwanghak-dong",
+      "MAIN_KEY": "BE_LiST20-0101"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Guesthouse Dodam",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0102"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "88 Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0103"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dream House 1",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0104"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dream House 2",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0105"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dream House 3",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0106"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "First House",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Gwanghui-dong",
+      "MAIN_KEY": "BE_LiST20-0107"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yun Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0108"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Namdaemun Guesthouse 2",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0109"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Oju Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Dasan-dong",
+      "MAIN_KEY": "BE_LiST20-0110"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "J Honor II",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0111"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "J Honor III",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Hoehyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0112"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mama Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST20-0113"
+    },
+    {
+      "ROOM": 10,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Koni House",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Gwanghui-dong",
+      "MAIN_KEY": "BE_LiST20-0114"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "J-Story Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Jungnim-dong",
+      "MAIN_KEY": "BE_LiST20-0115"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "PARADISE Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Jangchung-dong",
+      "MAIN_KEY": "BE_LiST20-0116"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dreamers Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST20-0117"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Eve's Guesthouse",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Myeong-dong",
+      "MAIN_KEY": "BE_LiST20-0118"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Guesthouse The Hill 2",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Pil-dong",
+      "MAIN_KEY": "BE_LiST20-0119"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chungjeongno Samseong Homestay",
+      "H_ENG_GU": "Jung-gu",
+      "H_ENG_DONG": "Jungnim-dong",
+      "MAIN_KEY": "BE_LiST20-0120"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Agnes Inn",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon2-dong",
+      "MAIN_KEY": "BE_LiST20-0121"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Robin's Nest ",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hannam-dong",
+      "MAIN_KEY": "BE_LiST20-0122"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hangang View",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hangangno-dong",
+      "MAIN_KEY": "BE_LiST20-0123"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Deoksugung House",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Wonhyoro1-dong",
+      "MAIN_KEY": "BE_LiST20-0124"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Itaewon Backpackers",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hannam-dong",
+      "MAIN_KEY": "BE_LiST20-0125"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sion Guesthouse",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hannam-dong",
+      "MAIN_KEY": "BE_LiST20-0126"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "SP@Itaewon",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST20-0127"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Guest house Itawon hills",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Seobinggo-dong",
+      "MAIN_KEY": "BE_LiST20-0128"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Peter's Guesthouse",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hannam-dong",
+      "MAIN_KEY": "BE_LiST20-0129"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Junny's House",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Samyang-dong",
+      "MAIN_KEY": "BE_LiST20-0235"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul 910",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Mok2-dong",
+      "MAIN_KEY": "BE_LiST20-0511"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ggumeul Iruneun Jip ",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinwol4-dong",
+      "MAIN_KEY": "BE_LiST20-0512"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sweet Home",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinjeong6-dong",
+      "MAIN_KEY": "BE_LiST20-0513"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jin's Art House",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinjeong7-dong",
+      "MAIN_KEY": "BE_LiST20-0514"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Doubler",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinjeong2-dong",
+      "MAIN_KEY": "BE_LiST20-0515"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The Grace",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Sinjeong3-dong",
+      "MAIN_KEY": "BE_LiST20-0516"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Miso",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Mok1-dong",
+      "MAIN_KEY": "BE_LiST20-0517"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Rodem House",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagok3-dong",
+      "MAIN_KEY": "BE_LiST20-0518"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Aarya House",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Banghwa1-dong",
+      "MAIN_KEY": "BE_LiST20-0519"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dasom House",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Deungchon3-dong",
+      "MAIN_KEY": "BE_LiST20-0520"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Homestay in Seoul",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Deungchon3-dong",
+      "MAIN_KEY": "BE_LiST20-0521"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Happy House",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Deungchon1-dong",
+      "MAIN_KEY": "BE_LiST20-0522"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Song House",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Ujangsan-dong",
+      "MAIN_KEY": "BE_LiST20-0523"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mom House",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Ujangsan-dong",
+      "MAIN_KEY": "BE_LiST20-0524"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sharon ",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Deungchon1-dong",
+      "MAIN_KEY": "BE_LiST20-0525"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Papa Stay",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Gayang1-dong",
+      "MAIN_KEY": "BE_LiST20-0526"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hanabi House",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Gayang1-dong",
+      "MAIN_KEY": "BE_LiST20-0527"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The Simple House",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Gonghang-dong",
+      "MAIN_KEY": "BE_LiST20-0528"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "JC House",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Banghwa2-dong",
+      "MAIN_KEY": "BE_LiST20-0529"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Suga",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Ujangsan-dong",
+      "MAIN_KEY": "BE_LiST20-0530"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Lee Sisters' Guesthouse",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Hwagokbon-dong",
+      "MAIN_KEY": "BE_LiST20-0531"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The Naru B&B",
+      "H_ENG_GU": "Gangseo-gu",
+      "H_ENG_DONG": "Gonghang-dong",
+      "MAIN_KEY": "BE_LiST20-0532"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The Seoul House",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Gaebong2-dong",
+      "MAIN_KEY": "BE_LiST20-0533"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "J's Happy House",
+      "H_ENG_GU": "Guro-gu",
+      "H_ENG_DONG": "Gocheok2-dong",
+      "MAIN_KEY": "BE_LiST20-0534"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Myeongji Home",
+      "H_ENG_GU": "Geumcheon-gu",
+      "H_ENG_DONG": "Doksan1-dong",
+      "MAIN_KEY": "BE_LiST20-0535"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "G Valley House",
+      "H_ENG_GU": "Geumcheon-gu",
+      "H_ENG_DONG": "Doksan1-dong",
+      "MAIN_KEY": "BE_LiST20-0536"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daiyo Homestay",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Yeoui-dong",
+      "MAIN_KEY": "BE_LiST20-0537"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "kelly homestay",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Yeongdeungpo-dong",
+      "MAIN_KEY": "BE_LiST20-0538"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Minbak",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Yeoui-dong",
+      "MAIN_KEY": "BE_LiST20-0539"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bona ",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Singil1-dong",
+      "MAIN_KEY": "BE_LiST20-0540"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Lodge 82",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Singil1-dong",
+      "MAIN_KEY": "BE_LiST20-0541"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sky Guesthouse",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Yeongdeungpobon-dong",
+      "MAIN_KEY": "BE_LiST20-0542"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "SWEET HOME",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Dangsan2-dong",
+      "MAIN_KEY": "BE_LiST20-0543"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Boramae 5n6",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Singil6-dong",
+      "MAIN_KEY": "BE_LiST20-0544"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mira's ",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Dangsan2-dong",
+      "MAIN_KEY": "BE_LiST20-0545"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hyeonjun Guesthouse",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Yeongdeungpo-dong",
+      "MAIN_KEY": "BE_LiST20-0546"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Urban Art Guesthouse",
+      "H_ENG_GU": "Yeongdeungpo-gu",
+      "H_ENG_DONG": "Mullae-dong",
+      "MAIN_KEY": "BE_LiST20-0547"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Happy House Homestay",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sangdo2-dong",
+      "MAIN_KEY": "BE_LiST20-0548"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Soony Homestay",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sangdo1-dong",
+      "MAIN_KEY": "BE_LiST20-0549"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "HAO HAO",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sadang2-dong",
+      "MAIN_KEY": "BE_LiST20-0550"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "e-World",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Daebang-dong",
+      "MAIN_KEY": "BE_LiST20-0551"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Grina house",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sadang3-dong",
+      "MAIN_KEY": "BE_LiST20-0552"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Peace On House",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Noryangjin1-dong",
+      "MAIN_KEY": "BE_LiST20-0553"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ordinary People",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sadang1-dong",
+      "MAIN_KEY": "BE_LiST20-0554"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sadang Mom's House",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sadang1-dong",
+      "MAIN_KEY": "BE_LiST20-0555"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "KYUNG RIM",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Daebang-dong",
+      "MAIN_KEY": "BE_LiST20-0556"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Kim's Family House",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sadang2-dong",
+      "MAIN_KEY": "BE_LiST20-0557"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Gil Guesthouse",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sangdo1-dong",
+      "MAIN_KEY": "BE_LiST20-0558"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Aret House",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Noryangjin1-dong",
+      "MAIN_KEY": "BE_LiST20-0559"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Okay Guesthouse",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Daebang-dong",
+      "MAIN_KEY": "BE_LiST20-0560"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Works",
+      "H_ENG_GU": "Dongjak-gu",
+      "H_ENG_DONG": "Sangdo2-dong",
+      "MAIN_KEY": "BE_LiST20-0561"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Korea Guesthouse",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Euncheon-dong",
+      "MAIN_KEY": "BE_LiST20-0562"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Grace Vill",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Namhyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0563"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Assibang",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Namhyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0564"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sillim Vill",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Sinsa-dong",
+      "MAIN_KEY": "BE_LiST20-0565"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "MD",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Euncheon-dong",
+      "MAIN_KEY": "BE_LiST20-0566"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cozy Lodge",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Seonghyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0567"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Alice Homestay",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Seonghyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0568"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Eondeokwiui Jip (Hill House)",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Sinwon-dong",
+      "MAIN_KEY": "BE_LiST20-0569"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Kay's house",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Cheongnyong-dong",
+      "MAIN_KEY": "BE_LiST20-0570"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoulist",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Namhyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0571"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Warm House",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Seonghyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0572"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Goodday Guesthouse",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Nanhyang-dong",
+      "MAIN_KEY": "BE_LiST20-0573"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ynny House",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Seonghyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0574"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jiho House",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Samseong-dong",
+      "MAIN_KEY": "BE_LiST20-0575"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Carol's Home",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Seonghyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0576"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Kim n Jeong's house",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Samseong-dong",
+      "MAIN_KEY": "BE_LiST20-0577"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Tanya's house",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Haengun-dong",
+      "MAIN_KEY": "BE_LiST20-0578"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Green forest village",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Namhyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0579"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hyundai Guesthouse",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Daehak-dong",
+      "MAIN_KEY": "BE_LiST20-0580"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Top guest house",
+      "H_ENG_GU": "Gwanak-gu",
+      "H_ENG_DONG": "Seowon-dong",
+      "MAIN_KEY": "BE_LiST20-0581"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Song's BNB",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho3-dong",
+      "MAIN_KEY": "BE_LiST20-0582"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "SeoulStay",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho3-dong",
+      "MAIN_KEY": "BE_LiST20-0583"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "JOY HOME",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho4-dong",
+      "MAIN_KEY": "BE_LiST20-0584"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Royal Homestay",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Bangbae3-dong",
+      "MAIN_KEY": "BE_LiST20-0585"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "KOREA SEOUL",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Bangbae3-dong",
+      "MAIN_KEY": "BE_LiST20-0586"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geumgye",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Yangjae2-dong",
+      "MAIN_KEY": "BE_LiST20-0587"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The JA in Gangnam",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho4-dong",
+      "MAIN_KEY": "BE_LiST20-0588"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sueun's House",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Banpo3-dong",
+      "MAIN_KEY": "BE_LiST20-0589"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "PINE TREE Homestay",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Banpo1-dong",
+      "MAIN_KEY": "BE_LiST20-0590"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gyodae Guesthouse",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho1-dong",
+      "MAIN_KEY": "BE_LiST20-0591"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gangnam Station Guesthouse SJ",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho2-dong",
+      "MAIN_KEY": "BE_LiST20-0592"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "COREA",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho3-dong",
+      "MAIN_KEY": "BE_LiST20-0593"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Happy Gangnam",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho4-dong",
+      "MAIN_KEY": "BE_LiST20-0594"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seocho Green Happy House",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Bangbae1-dong",
+      "MAIN_KEY": "BE_LiST20-0595"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Owl's Nest Guesthouse",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Banpo1-dong",
+      "MAIN_KEY": "BE_LiST20-0596"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "KW Sinsa",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Jamwon-dong",
+      "MAIN_KEY": "BE_LiST20-0597"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Oneul Guesthouse",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Yangjae1-dong",
+      "MAIN_KEY": "BE_LiST20-0598"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Home to Home Sinsa",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Jamwon-dong",
+      "MAIN_KEY": "BE_LiST20-0599"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hope Homestay",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Banpo4-dong",
+      "MAIN_KEY": "BE_LiST20-0600"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sophia House",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Yangjae1-dong",
+      "MAIN_KEY": "BE_LiST20-0601"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "J House",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Yangjae1-dong",
+      "MAIN_KEY": "BE_LiST20-0602"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sinsa Residence Guesthouse",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Jamwon-dong",
+      "MAIN_KEY": "BE_LiST20-0603"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Lena House",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Banpo1-dong",
+      "MAIN_KEY": "BE_LiST20-0604"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Choice",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Seocho3-dong",
+      "MAIN_KEY": "BE_LiST20-0605"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Rodem",
+      "H_ENG_GU": "Seocho-gu",
+      "H_ENG_DONG": "Bangbae3-dong",
+      "MAIN_KEY": "BE_LiST20-0606"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Apgujeong Guesthouse",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Apgujeong-dong",
+      "MAIN_KEY": "BE_LiST20-0607"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Minseong Guesthouse",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Daechi4-dong",
+      "MAIN_KEY": "BE_LiST20-0608"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "An Guesthouse",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Apgujeong-dong",
+      "MAIN_KEY": "BE_LiST20-0609"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Guesthouse The Jip",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Sinsa-dong",
+      "MAIN_KEY": "BE_LiST20-0610"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Guesthouse Gangnam",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Apgujeong-dong",
+      "MAIN_KEY": "BE_LiST20-0611"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Guesthouse K",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_LiST20-0612"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The JA Garosu",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Sinsa-dong",
+      "MAIN_KEY": "BE_LiST20-0613"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Radler Guesthouse",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Nonhyeon1-dong",
+      "MAIN_KEY": "BE_LiST20-0614"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "24 Guesthouse Gangnam",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_LiST20-0615"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hangang ",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Cheongdam-dong",
+      "MAIN_KEY": "BE_LiST20-0616"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Tomato Guesthouse",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Suyu2-dong",
+      "MAIN_KEY": "BE_LiST20-0236"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "O House",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Songjung-dong",
+      "MAIN_KEY": "BE_LiST20-0237"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Green Homestay",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Chang5-dong",
+      "MAIN_KEY": "BE_LiST20-0238"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dobong Homestay",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Dobong2-dong",
+      "MAIN_KEY": "BE_LiST20-0239"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Happy Binny House",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Chang5-dong",
+      "MAIN_KEY": "BE_LiST20-0240"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dobong House",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Ssangmun4-dong",
+      "MAIN_KEY": "BE_LiST20-0241"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeulgeoun Jip",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Chang5-dong",
+      "MAIN_KEY": "BE_LiST20-0242"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dooly Guesthouse",
+      "H_ENG_GU": "Dobong-gu",
+      "H_ENG_DONG": "Ssangmun3-dong",
+      "MAIN_KEY": "BE_LiST20-0243"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "DREM HOUSE",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Junggye2.3-dong",
+      "MAIN_KEY": "BE_LiST20-0244"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The Healing Homestay",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Junggye4-dong",
+      "MAIN_KEY": "BE_LiST20-0245"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Smile Homestay",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Junggye2.3-dong",
+      "MAIN_KEY": "BE_LiST20-0246"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "sun flower",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Sanggye2-dong",
+      "MAIN_KEY": "BE_LiST20-0247"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "COSMOS HOUSE",
+      "H_ENG_GU": "Nowon-gu",
+      "H_ENG_DONG": "Gongneung2-dong",
+      "MAIN_KEY": "BE_LiST20-0248"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hangukinui Jip",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Bulgwang2-dong",
+      "MAIN_KEY": "BE_LiST20-0249"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hitomi",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Galhyeon2-dong",
+      "MAIN_KEY": "BE_LiST20-0250"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Happy House",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Jingwan-dong",
+      "MAIN_KEY": "BE_LiST20-0251"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Aimom",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Galhyeon1-dong",
+      "MAIN_KEY": "BE_LiST20-0252"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Momojumma House",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Jingwan-dong",
+      "MAIN_KEY": "BE_LiST20-0253"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Paradise",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Jingwan-dong",
+      "MAIN_KEY": "BE_LiST20-0254"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gamnamu Jip ",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Sinsa2-dong",
+      "MAIN_KEY": "BE_LiST20-0255"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jaeo House",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Jeungsan-dong",
+      "MAIN_KEY": "BE_LiST20-0256"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hangari House ",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Eungam1-dong",
+      "MAIN_KEY": "BE_LiST20-0257"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Emma's House",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Daejo-dong",
+      "MAIN_KEY": "BE_LiST20-0258"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jenny's House",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Eungam3-dong",
+      "MAIN_KEY": "BE_LiST20-0259"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Smile Homestay",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Jingwan-dong",
+      "MAIN_KEY": "BE_LiST20-0260"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hanjin",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Jingwan-dong",
+      "MAIN_KEY": "BE_LiST20-0261"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bukhansan Yellow Guesthouse",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Bulgwang1-dong",
+      "MAIN_KEY": "BE_LiST20-0262"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Homestay",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Gusan-dong",
+      "MAIN_KEY": "BE_LiST20-0263"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Global Home",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Jingwan-dong",
+      "MAIN_KEY": "BE_LiST20-0264"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "JS House 2",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Sinsa1-dong",
+      "MAIN_KEY": "BE_LiST20-0265"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "JS House 1",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Sinsa1-dong",
+      "MAIN_KEY": "BE_LiST20-0266"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Beautiful Hwangto Traditional House",
+      "H_ENG_GU": "Eunpyeong-gu",
+      "H_ENG_DONG": "Bulgwang2-dong",
+      "MAIN_KEY": "BE_LiST20-0267"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "City Guest House",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Yeonhui-dong",
+      "MAIN_KEY": "BE_LiST20-0268"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Smile Stay",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Yeonhui-dong",
+      "MAIN_KEY": "BE_LiST20-0269"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Pilgrim",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Bukgajwa2-dong",
+      "MAIN_KEY": "BE_LiST20-0270"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Helen's place",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Bukgajwa2-dong",
+      "MAIN_KEY": "BE_LiST20-0271"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "24 Guesthouse",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_LiST20-0272"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "JK Guesthouse",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Hongeun1-dong",
+      "MAIN_KEY": "BE_LiST20-0273"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "J Guesthouse",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_LiST20-0274"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "ICOS Guesthouse",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_LiST20-0275"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Leader Guesthouse",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Chunghyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0276"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Lemontea Guesthouse",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Chunghyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0277"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Station Guesthouse",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Chunghyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0278"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "My Home In Seoul",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Hongje1-dong",
+      "MAIN_KEY": "BE_LiST20-0279"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "YE'4 Guesthouse",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Yeonhui-dong",
+      "MAIN_KEY": "BE_LiST20-0280"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "YUNI HAUS",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Yeonhui-dong",
+      "MAIN_KEY": "BE_LiST20-0281"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cozybox Guesthouse",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_LiST20-0282"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "JJ Guesthouse",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Bukgajwa1-dong",
+      "MAIN_KEY": "BE_LiST20-0283"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dream Guesthouse",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Yeonhui-dong",
+      "MAIN_KEY": "BE_LiST20-0284"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yuan Guesthouse",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Yeonhui-dong",
+      "MAIN_KEY": "BE_LiST20-0285"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "YaKorea Hostel ",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_LiST20-0286"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Station Guesthouse-4 ",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Chunghyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0287"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Station Guesthouse-3",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Chunghyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0288"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Station Guesthouse-1",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Chunghyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0289"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Station Guesthouse-2",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Chunghyeon-dong",
+      "MAIN_KEY": "BE_LiST20-0290"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Philstay Ehwa Boutique",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_LiST20-0291"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Shinchon Guesthouse",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_LiST20-0292"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The Mei Haus",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Yeonhui-dong",
+      "MAIN_KEY": "BE_LiST20-0293"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Time Travelers Party Hostel",
+      "H_ENG_GU": "Seodaemun-gu",
+      "H_ENG_DONG": "Sinchon-dong",
+      "MAIN_KEY": "BE_LiST20-0294"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Come Inn Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0295"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "NEO SEOUL",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0296"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Family and Friends House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0297"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Kimchi Hongdae Hostel",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0298"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Stay Korea",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0299"
+    },
+    {
+      "ROOM": 9,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hi Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0300"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Four Seasons House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0301"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "SPACE TORRA",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0302"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Birdsnest ",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0303"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Le Sol",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0304"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hello Korea Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0305"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Oasis Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0306"
+    },
+    {
+      "ROOM": 9,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "JJ Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0307"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "ICOS",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Daheung-dong",
+      "MAIN_KEY": "BE_LiST20-0308"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Whitetail ",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0309"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Studio41st Hostel",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0310"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Namu",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0311"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "For You",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seongsan2-dong",
+      "MAIN_KEY": "BE_LiST20-0312"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Family Housetel",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0313"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "OMG guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0314"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sodam Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Daheung-dong",
+      "MAIN_KEY": "BE_LiST20-0315"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Guesthouse KW hongdae",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0316"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dustin Guest House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0317"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Duri World House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0318"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cozzzy Guest House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0319"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoulwise Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0320"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yellow Submarine",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0321"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Maruji Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0322"
+    },
+    {
+      "ROOM": 9,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "roi house",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0323"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "SUTOME",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Mangwon2-dong",
+      "MAIN_KEY": "BE_LiST20-0324"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Issue Seoul",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0325"
+    },
+    {
+      "ROOM": 10,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Apple Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0326"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "KPOPSTAY",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogang-dong",
+      "MAIN_KEY": "BE_LiST20-0327"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "KPOPSTAY II",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogang-dong",
+      "MAIN_KEY": "BE_LiST20-0328"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Funfun stay",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0329"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hongdae Family Housetel 2",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0330"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mr. Comma Guesthouse ",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0331"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hey Backpackers 2 ",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0332"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Wowhills guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogang-dong",
+      "MAIN_KEY": "BE_LiST20-0333"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Inn Guest House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seongsan1-dong",
+      "MAIN_KEY": "BE_LiST20-0334"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mango Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0335"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Crossroad Backpackers",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0336"
+    },
+    {
+      "ROOM": 12,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Fortune",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0337"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dream House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0338"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Alpha Guest House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Daheung-dong",
+      "MAIN_KEY": "BE_LiST20-0339"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Maison de Kim",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Mok3-dong",
+      "MAIN_KEY": "BE_LiST20-0509"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "O.K. House",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Mok1-dong",
+      "MAIN_KEY": "BE_LiST20-0510"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gosari Homestay",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Wonhyoro2-dong",
+      "MAIN_KEY": "BE_LiST20-0130"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Tuyosinoie",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Huam-dong",
+      "MAIN_KEY": "BE_LiST20-0131"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Aoi Sora",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Ichon1-dong",
+      "MAIN_KEY": "BE_LiST20-0132"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Martin B&B",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Cheongpa-dong",
+      "MAIN_KEY": "BE_LiST20-0133"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ryan Guesthouse",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Ichon2-dong",
+      "MAIN_KEY": "BE_LiST20-0134"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Xeromine Guesthouse",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST20-0135"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Han River View House",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Ichon1-dong",
+      "MAIN_KEY": "BE_LiST20-0136"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Pine Tree Guesthouse",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hangangno-dong",
+      "MAIN_KEY": "BE_LiST20-0137"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jin's Paradise ",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST20-0138"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "HA;US",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hannam-dong",
+      "MAIN_KEY": "BE_LiST20-0139"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "UN Guesthouse",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hannam-dong",
+      "MAIN_KEY": "BE_LiST20-0140"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bini Guesthouse",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hannam-dong",
+      "MAIN_KEY": "BE_LiST20-0141"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Pop@Itaewon Guesthouse",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST20-0142"
+    },
+    {
+      "ROOM": 9,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Pencil ",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Cheongpa-dong",
+      "MAIN_KEY": "BE_LiST20-0143"
+    },
+    {
+      "ROOM": 9,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Itaewon Inn",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST20-0144"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "IS@K Guesthouse",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hannam-dong",
+      "MAIN_KEY": "BE_LiST20-0145"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Itaewon G Guesthouse",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST20-0146"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Noel's Guest House",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST20-0147"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Tiger House",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hannam-dong",
+      "MAIN_KEY": "BE_LiST20-0148"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "SS Guesthouse",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Cheongpa-dong",
+      "MAIN_KEY": "BE_LiST20-0149"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Tommy System",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Yongmun-dong",
+      "MAIN_KEY": "BE_LiST20-0150"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "CozyPlace Guesthouse in Itaewon",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST20-0151"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "24 Guesthouse Itaewon",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST20-0152"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Nomad House Itaewon",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon2-dong",
+      "MAIN_KEY": "BE_LiST20-0153"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "24 Guesthouse Seoul City Gonghang",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Cheongpa-dong",
+      "MAIN_KEY": "BE_LiST20-0154"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Social House",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST20-0155"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yacht",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST20-0156"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "LAON",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon2-dong",
+      "MAIN_KEY": "BE_LiST20-0157"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "seoul corner guest house",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Namyeong-dong",
+      "MAIN_KEY": "BE_LiST20-0158"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "G Guest Home",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST20-0159"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "KIM's house",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST20-0160"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "9 Road",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hannam-dong",
+      "MAIN_KEY": "BE_LiST20-0161"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "FUNFUN GUESTHOUSE",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Seobinggo-dong",
+      "MAIN_KEY": "BE_LiST20-0162"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Triple Guesthouse",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hannam-dong",
+      "MAIN_KEY": "BE_LiST20-0163"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "88 House Yongsan",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Wonhyoro1-dong",
+      "MAIN_KEY": "BE_LiST20-0164"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cube Guesthouse",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST20-0165"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "TravelHolic Guesthouse",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST20-0166"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "eid guesthouse",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Bogwang-dong",
+      "MAIN_KEY": "BE_LiST20-0167"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeong Story",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Cheongpa-dong",
+      "MAIN_KEY": "BE_LiST20-0168"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cozy House",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Wonhyoro1-dong",
+      "MAIN_KEY": "BE_LiST20-0169"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Photo Park",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Yongsan2ga-dong",
+      "MAIN_KEY": "BE_LiST20-0170"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yong House",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Ichon2-dong",
+      "MAIN_KEY": "BE_LiST20-0171"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Eden Guest House",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon2-dong",
+      "MAIN_KEY": "BE_LiST20-0172"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Rosa Stay",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Ichon2-dong",
+      "MAIN_KEY": "BE_LiST20-0173"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jiwoljang",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Huam-dong",
+      "MAIN_KEY": "BE_LiST20-0174"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sowolgil",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Yongsan2ga-dong",
+      "MAIN_KEY": "BE_LiST20-0175"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Nova Palace",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Huam-dong",
+      "MAIN_KEY": "BE_LiST20-0176"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "House of Itaewon",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST20-0177"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Top guesthouse",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Cheongpa-dong",
+      "MAIN_KEY": "BE_LiST20-0178"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yacht - 2",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST20-0179"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Embassy Guesthouse",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Hannam-dong",
+      "MAIN_KEY": "BE_LiST20-0180"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "JJ Guesthouse",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon2-dong",
+      "MAIN_KEY": "BE_LiST20-0181"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "chic studio",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Itaewon1-dong",
+      "MAIN_KEY": "BE_LiST20-0182"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeong's family",
+      "H_ENG_GU": "Yongsan-gu",
+      "H_ENG_DONG": "Wonhyoro2-dong",
+      "MAIN_KEY": "BE_LiST20-0183"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Korea Stay",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Oksu-dong",
+      "MAIN_KEY": "BE_LiST20-0184"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Home Stay",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Majang-dong",
+      "MAIN_KEY": "BE_LiST20-0185"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "B&B 2ND FLOOR",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Oksu-dong",
+      "MAIN_KEY": "BE_LiST20-0186"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Stay Seoul",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Sageun-dong",
+      "MAIN_KEY": "BE_LiST20-0187"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "twohyuns",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Guemho1ga-dong",
+      "MAIN_KEY": "BE_LiST20-0188"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Riverside Guesthouse",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Seongsu2ga1-dong",
+      "MAIN_KEY": "BE_LiST20-0189"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Haengdang Station Homestay",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Haengdang2-dong",
+      "MAIN_KEY": "BE_LiST20-0190"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Spacious Apartment in Central Seoul",
+      "H_ENG_GU": "Seongdong-gu",
+      "H_ENG_DONG": "Haengdang2-dong",
+      "MAIN_KEY": "BE_LiST20-0191"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Emily Homestay",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Jayang3-dong",
+      "MAIN_KEY": "BE_LiST20-0192"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Homestay Cafe Naru",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Gwangjang-dong",
+      "MAIN_KEY": "BE_LiST20-0193"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Happy Day Familly",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Jayang3-dong",
+      "MAIN_KEY": "BE_LiST20-0194"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chinchin Stay",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Jayang3-dong",
+      "MAIN_KEY": "BE_LiST20-0195"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Walkerhill Homestay Guesthouse",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Gwangjang-dong",
+      "MAIN_KEY": "BE_LiST20-0196"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Michael Scott BNB",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Jayang2-dong",
+      "MAIN_KEY": "BE_LiST20-0197"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sura House",
+      "H_ENG_GU": "Gwangjin-gu",
+      "H_ENG_DONG": "Guui2-dong",
+      "MAIN_KEY": "BE_LiST20-0198"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Segyeroganeun Na",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Dapsimni2-dong",
+      "MAIN_KEY": "BE_LiST20-0199"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Suite",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Jangan2-dong",
+      "MAIN_KEY": "BE_LiST20-0200"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Together",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Jangan1-dong",
+      "MAIN_KEY": "BE_LiST20-0201"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Korea Stay",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Dapsimni1-dong",
+      "MAIN_KEY": "BE_LiST20-0202"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ko-Stay",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Hwigyeong2-dong",
+      "MAIN_KEY": "BE_LiST20-0203"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Citron Scent",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Imun2-dong",
+      "MAIN_KEY": "BE_LiST20-0204"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Lee's home",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Cheongnyangni-dong",
+      "MAIN_KEY": "BE_LiST20-0205"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "INTO DREAM HOUSE",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Jeonnong1-dong",
+      "MAIN_KEY": "BE_LiST20-0206"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "W Residence",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Jeonnong1-dong",
+      "MAIN_KEY": "BE_LiST20-0207"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "UEDA HAKARU",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Imun2-dong",
+      "MAIN_KEY": "BE_LiST20-0208"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Han's House",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Dapsimni2-dong",
+      "MAIN_KEY": "BE_LiST20-0209"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Uhbu's",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Yongsin-dong",
+      "MAIN_KEY": "BE_LiST20-0210"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "VERDI GUESTHOUSE",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Hwigyeong1-dong",
+      "MAIN_KEY": "BE_LiST20-0211"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "B&B in Seoul",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Dapsimni1-dong",
+      "MAIN_KEY": "BE_LiST20-0212"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jangan hills Home stay",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Jangan2-dong",
+      "MAIN_KEY": "BE_LiST20-0213"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seven Stay",
+      "H_ENG_GU": "Dongdaemun-gu",
+      "H_ENG_DONG": "Jeonnong1-dong",
+      "MAIN_KEY": "BE_LiST20-0214"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geonyeong Homestay",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Sinnae2-dong",
+      "MAIN_KEY": "BE_LiST20-0215"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sagajung Homestay",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Myeonmok3.8-dong",
+      "MAIN_KEY": "BE_LiST20-0216"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Tree House",
+      "H_ENG_GU": "Jungnang-gu",
+      "H_ENG_DONG": "Sangbong1-dong",
+      "MAIN_KEY": "BE_LiST20-0217"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Brownstone",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Donam1-dong",
+      "MAIN_KEY": "BE_LiST20-0218"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yam Guest House",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Dongseon-dong",
+      "MAIN_KEY": "BE_LiST20-0219"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "BJ Guest House",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Seongbuk-dong",
+      "MAIN_KEY": "BE_LiST20-0220"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Duri Guesthouse",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jongam-dong",
+      "MAIN_KEY": "BE_LiST20-0221"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dr john's guest house",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Donam2-dong",
+      "MAIN_KEY": "BE_LiST20-0222"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Lilac",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jongam-dong",
+      "MAIN_KEY": "BE_LiST20-0223"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Casa Pepe",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Seongbuk-dong",
+      "MAIN_KEY": "BE_LiST20-0224"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dasom",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Samseon-dong",
+      "MAIN_KEY": "BE_LiST20-0225"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Arirang",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Seongbuk-dong",
+      "MAIN_KEY": "BE_LiST20-0226"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "K-POP",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Gireum1-dong",
+      "MAIN_KEY": "BE_LiST20-0227"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Star Class Guest House",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Wolgok2-dong",
+      "MAIN_KEY": "BE_LiST20-0228"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "SEOUL FAMILY HOUSE",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Donam1-dong",
+      "MAIN_KEY": "BE_LiST20-0229"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "K-WINGS",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Donam1-dong",
+      "MAIN_KEY": "BE_LiST20-0230"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "B&B HAO",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Jeongneung3-dong",
+      "MAIN_KEY": "BE_LiST20-0231"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Woozoo House",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Samseon-dong",
+      "MAIN_KEY": "BE_LiST20-0232"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "YNNY HOUSE",
+      "H_ENG_GU": "Seongbuk-gu",
+      "H_ENG_DONG": "Samseon-dong",
+      "MAIN_KEY": "BE_LiST20-0233"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Happy House",
+      "H_ENG_GU": "Gangbuk-gu",
+      "H_ENG_DONG": "Samgaksan-dong",
+      "MAIN_KEY": "BE_LiST20-0234"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sun City Guesthouse",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Nonhyeon1-dong",
+      "MAIN_KEY": "BE_LiST20-0617"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cheongdam Guesthouse",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Cheongdam-dong",
+      "MAIN_KEY": "BE_LiST20-0618"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Big Johns Place ",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_LiST20-0619"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Always Like Home",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Nonhyeon1-dong",
+      "MAIN_KEY": "BE_LiST20-0620"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Miseong Guesthouse",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Sinsa-dong",
+      "MAIN_KEY": "BE_LiST20-0621"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Peace Guesthouse",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Sinsa-dong",
+      "MAIN_KEY": "BE_LiST20-0622"
+    },
+    {
+      "ROOM": 14,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "24 Guesthouse Garosugil",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Sinsa-dong",
+      "MAIN_KEY": "BE_LiST20-0623"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "K Star Road",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Cheongdam-dong",
+      "MAIN_KEY": "BE_LiST20-0624"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yukine",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam2-dong",
+      "MAIN_KEY": "BE_LiST20-0625"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Happy House",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Apgujeong-dong",
+      "MAIN_KEY": "BE_LiST20-0626"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "24 Guesthouse Gangnam Center",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_LiST20-0627"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Pandago Guesthouse",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Sinsa-dong",
+      "MAIN_KEY": "BE_LiST20-0628"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hellena Homestay",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Daechi2-dong",
+      "MAIN_KEY": "BE_LiST20-0629"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Denis's House",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong2-dong",
+      "MAIN_KEY": "BE_LiST20-0630"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "JG House",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Sinsa-dong",
+      "MAIN_KEY": "BE_LiST20-0631"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Youth Guesthouse",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Nonhyeon2-dong",
+      "MAIN_KEY": "BE_LiST20-0632"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Coex BnB House",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong1-dong",
+      "MAIN_KEY": "BE_LiST20-0633"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "ANI Guesthouse",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Nonhyeon1-dong",
+      "MAIN_KEY": "BE_LiST20-0634"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "K Girl House ",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Cheongdam-dong",
+      "MAIN_KEY": "BE_LiST20-0635"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sail Guest House",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_LiST20-0636"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Genie's ",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam2-dong",
+      "MAIN_KEY": "BE_LiST20-0637"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Haru",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_LiST20-0638"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jenna Suite",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Sinsa-dong",
+      "MAIN_KEY": "BE_LiST20-0639"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mua Guesthouse",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Cheongdam-dong",
+      "MAIN_KEY": "BE_LiST20-0640"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gangnam Stay Hill",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Yeoksam1-dong",
+      "MAIN_KEY": "BE_LiST20-0641"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Harry's House",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Irwonbon-dong",
+      "MAIN_KEY": "BE_LiST20-0642"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "FN House",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Apgujeong-dong",
+      "MAIN_KEY": "BE_LiST20-0643"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gold Hill Guesthouse",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Nonhyeon1-dong",
+      "MAIN_KEY": "BE_LiST20-0644"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gangnam Breeze Hill Guesthouse",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Segok-dong",
+      "MAIN_KEY": "BE_LiST20-0645"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Garosugil Homestay",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Sinsa-dong",
+      "MAIN_KEY": "BE_LiST20-0646"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The Home Guesthouse",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong2-dong",
+      "MAIN_KEY": "BE_LiST20-0647"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Artist's House",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Cheongdam-dong",
+      "MAIN_KEY": "BE_LiST20-0648"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cozyroom in the Middle of Gangnam",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Nonhyeon2-dong",
+      "MAIN_KEY": "BE_LiST20-0649"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The Ja Coex",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Daechi2-dong",
+      "MAIN_KEY": "BE_LiST20-0650"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Kula",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Cheongdam-dong",
+      "MAIN_KEY": "BE_LiST20-0651"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gangnam Guesthouse",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Nonhyeon1-dong",
+      "MAIN_KEY": "BE_LiST20-0652"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Queenville Guesthouse",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong1-dong",
+      "MAIN_KEY": "BE_LiST20-0653"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Homestay Near Gangnam Coex",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Samseong1-dong",
+      "MAIN_KEY": "BE_LiST20-0654"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Melting Pot House",
+      "H_ENG_GU": "Gangnam-gu",
+      "H_ENG_DONG": "Sinsa-dong",
+      "MAIN_KEY": "BE_LiST20-0655"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yi Chan-gyu's Homestay for Foreigners",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Ogeum-dong",
+      "MAIN_KEY": "BE_LiST20-0656"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "RM Near Gangnam & Samsung Station",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil2-dong",
+      "MAIN_KEY": "BE_LiST20-0657"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Lovely",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil2-dong",
+      "MAIN_KEY": "BE_LiST20-0658"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Areumdaun Nara",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Munjeong2-dong",
+      "MAIN_KEY": "BE_LiST20-0659"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jiilinae",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Munjeong2-dong",
+      "MAIN_KEY": "BE_LiST20-0660"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Tina`s Homestay",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Samjeon-dong",
+      "MAIN_KEY": "BE_LiST20-0661"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Li Li Mom House",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil2-dong",
+      "MAIN_KEY": "BE_LiST20-0662"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Groove City guest house",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Pungnap1-dong",
+      "MAIN_KEY": "BE_LiST20-0663"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yujeong Homestay",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil3-dong",
+      "MAIN_KEY": "BE_LiST20-0664"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "O Ga-yeong Homestay",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Garak2-dong",
+      "MAIN_KEY": "BE_LiST20-0665"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Rainbow Homestay",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil3-dong",
+      "MAIN_KEY": "BE_LiST20-0666"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Parkrio Homestay",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil4-dong",
+      "MAIN_KEY": "BE_LiST20-0667"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Naru Homestay",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil4-dong",
+      "MAIN_KEY": "BE_LiST20-0668"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hosu Homestay",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Seokchon-dong",
+      "MAIN_KEY": "BE_LiST20-0669"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Blueberry Homestay",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi1-dong",
+      "MAIN_KEY": "BE_LiST20-0670"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "S. Park Homestay",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Garak2-dong",
+      "MAIN_KEY": "BE_LiST20-0671"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Joon's Homestay",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil7-dong",
+      "MAIN_KEY": "BE_LiST20-0672"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cozy Homestay",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil4-dong",
+      "MAIN_KEY": "BE_LiST20-0673"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hangang Homestay",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil2-dong",
+      "MAIN_KEY": "BE_LiST20-0674"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Kimberly Homestay",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil4-dong",
+      "MAIN_KEY": "BE_LiST20-0675"
+    },
+    {
+      "ROOM": 11,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jin Stay Songpa",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Samjeon-dong",
+      "MAIN_KEY": "BE_LiST20-0676"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sunshine Guesthouse",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Seokchon-dong",
+      "MAIN_KEY": "BE_LiST20-0677"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sean's Homestay",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Munjeong1-dong",
+      "MAIN_KEY": "BE_LiST20-0678"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Top Homestay",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi2-dong",
+      "MAIN_KEY": "BE_LiST20-0679"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Kotti Homestay",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Songpa1-dong",
+      "MAIN_KEY": "BE_LiST20-0680"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Wam family",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil7-dong",
+      "MAIN_KEY": "BE_LiST20-0681"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jin House",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil2-dong",
+      "MAIN_KEY": "BE_LiST20-0682"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Lake Guesthouse",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Seokchon-dong",
+      "MAIN_KEY": "BE_LiST20-0683"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jamsil Myeongseong Homestay",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi2-dong",
+      "MAIN_KEY": "BE_LiST20-0684"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hou Peng You House",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Songpa2-dong",
+      "MAIN_KEY": "BE_LiST20-0685"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Lina's House",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Songpa2-dong",
+      "MAIN_KEY": "BE_LiST20-0686"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Poet's House",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Songpa1-dong",
+      "MAIN_KEY": "BE_LiST20-0687"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jamsil Guesthouse",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil4-dong",
+      "MAIN_KEY": "BE_LiST20-0688"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jamsil Welcome House",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Pungnap2-dong",
+      "MAIN_KEY": "BE_LiST20-0689"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Lotte Jamsil Guesthouse",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil6-dong",
+      "MAIN_KEY": "BE_LiST20-0690"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Lake Palace Home",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil3-dong",
+      "MAIN_KEY": "BE_LiST20-0691"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "ON Guest House",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsil7-dong",
+      "MAIN_KEY": "BE_LiST20-0692"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sunny House",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Geoyeo1-dong",
+      "MAIN_KEY": "BE_LiST20-0693"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mrs. Kim's Maeumi Meomuneun Sarangchae",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Jamsilbon-dong",
+      "MAIN_KEY": "BE_LiST20-0694"
+    },
+    {
+      "ROOM": null,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "EKLIPS GUEST HOUSE",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi2-dong",
+      "MAIN_KEY": "BE_LiST20-0695"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Space Hue",
+      "H_ENG_GU": "Songpa-gu",
+      "H_ENG_DONG": "Bangi1-dong",
+      "MAIN_KEY": "BE_LiST20-0696"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Young House",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Cheonho2-dong",
+      "MAIN_KEY": "BE_LiST20-0697"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Kim's House",
+      "H_ENG_GU": "Gangdong-gu",
+      "H_ENG_DONG": "Amsa1-dong",
+      "MAIN_KEY": "BE_LiST20-0698"
+    },
+    {
+      "ROOM": 9,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Backpackers INSIDE",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Hyehwa-dong",
+      "MAIN_KEY": "BE_LiST20-0001"
+    },
+    {
+      "ROOM": 18,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "GoldenPond GuestHouse",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Hyehwa-dong",
+      "MAIN_KEY": "BE_LiST20-0002"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bong House",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Hyehwa-dong",
+      "MAIN_KEY": "BE_LiST20-0003"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Korea Central Backpackers",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Hyehwa-dong",
+      "MAIN_KEY": "BE_LiST20-0004"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jin House",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sungin2-dong",
+      "MAIN_KEY": "BE_LiST20-0005"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Inwangsan Guesthouse",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Muak-dong",
+      "MAIN_KEY": "BE_LiST20-0006"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "KYUNG BOK GUNG Guesthouse",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST20-0007"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "G. HOUSE",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Buam-dong",
+      "MAIN_KEY": "BE_LiST20-0008"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cindy's B&B",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Buam-dong",
+      "MAIN_KEY": "BE_LiST20-0009"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "C.U.BnB",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Ihwa-dong",
+      "MAIN_KEY": "BE_LiST20-0010"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Minari House",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Ihwa-dong",
+      "MAIN_KEY": "BE_LiST20-0011"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "GIWA HOUSE",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sajik-dong",
+      "MAIN_KEY": "BE_LiST20-0012"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Y Guest House",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Gahoe-dong",
+      "MAIN_KEY": "BE_LiST20-0013"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "LI LI HOUSE",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Ihwa-dong",
+      "MAIN_KEY": "BE_LiST20-0014"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Samcheongdong Korea Guest House",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Samcheong-dong",
+      "MAIN_KEY": "BE_LiST20-0015"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "AHA HOUSE",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Pyeongchang-dong",
+      "MAIN_KEY": "BE_LiST20-0016"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Nuit Guesthouse",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST20-0017"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Casa Jamila",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Sajik-dong",
+      "MAIN_KEY": "BE_LiST20-0018"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seochon B&B SRAN",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST20-0019"
+    },
+    {
+      "ROOM": 9,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Premium Guesthouse",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Cheongunhyoja-dong",
+      "MAIN_KEY": "BE_LiST20-0020"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "A☆House",
+      "H_ENG_GU": "Jongno-gu",
+      "H_ENG_DONG": "Samcheong-dong",
+      "MAIN_KEY": "BE_LiST20-0021"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Kam Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seongsan2-dong",
+      "MAIN_KEY": "BE_LiST20-0451"
+    },
+    {
+      "ROOM": 11,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Camping Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Sangam-dong",
+      "MAIN_KEY": "BE_LiST20-0452"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Kkami House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Mangwon1-dong",
+      "MAIN_KEY": "BE_LiST20-0453"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Br. house",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0454"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Guesthouse Firefly",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0455"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gamja Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0456"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "LaiLai House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0457"
+    },
+    {
+      "ROOM": 9,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Mansion 2",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0458"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Doors Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0459"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ho Hometel",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0460"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Inn Guesthouse 2",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0461"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoulian",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0462"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jun Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0463"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Trick Art Guest House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0464"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Rabbit Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0465"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Leo Guesthouse Hongdaeipguyeok 2",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0466"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sunny's house",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Hapjeong-dong",
+      "MAIN_KEY": "BE_LiST20-0467"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sunny's East house",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0468"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Laundry People",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Dohwa-dong",
+      "MAIN_KEY": "BE_LiST20-0469"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Stay Now",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0470"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hongdae House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogang-dong",
+      "MAIN_KEY": "BE_LiST20-0471"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "10 Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Dohwa-dong",
+      "MAIN_KEY": "BE_LiST20-0472"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Maru Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0473"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "007 Guesthouse 1",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0474"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "007 Guesthouse 2",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0475"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Joko Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seongsan1-dong",
+      "MAIN_KEY": "BE_LiST20-0476"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "LikeU",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0477"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Grape Garden House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0478"
+    },
+    {
+      "ROOM": 9,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Housetay 2",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0479"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Kukyong Guesthosue",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0480"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Elena's House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0481"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The win art house",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0482"
+    },
+    {
+      "ROOM": 11,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Baro Ato ",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0483"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "J&J",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0484"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "K plus Y",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0485"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hongdae 3 room house",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0486"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Lian Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0487"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Egao Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0488"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Miso Guesthouse 2",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0489"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Nanu Guesthouse Pink",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0490"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ewha Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0491"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Godeokjeong",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Dohwa-dong",
+      "MAIN_KEY": "BE_LiST20-0492"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Alice Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogang-dong",
+      "MAIN_KEY": "BE_LiST20-0493"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "JS Home",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0494"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Naeditgo",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Mangwon1-dong",
+      "MAIN_KEY": "BE_LiST20-0495"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Super 7",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0496"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Housetay",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0497"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "A Little Nap 2",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0498"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Woo and Woo House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Hapjeong-dong",
+      "MAIN_KEY": "BE_LiST20-0499"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seongrin",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0500"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "B house",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0501"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "LEE & NO Guesthous",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0502"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "LEE & NO Guesthous",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0503"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Inn Daewon",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Mok1-dong",
+      "MAIN_KEY": "BE_LiST20-0504"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mokdong House",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Mok5-dong",
+      "MAIN_KEY": "BE_LiST20-0505"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hyundai Hyperion",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Mok1-dong",
+      "MAIN_KEY": "BE_LiST20-0506"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The Cosy House",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Mok5-dong",
+      "MAIN_KEY": "BE_LiST20-0507"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jay's House",
+      "H_ENG_GU": "Yangcheon-gu",
+      "H_ENG_DONG": "Mok3-dong",
+      "MAIN_KEY": "BE_LiST20-0508"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bridge Backpackers",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0340"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mamas & Papas Hongdae Hostel",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0341"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "24 Guesthouse Hongdae",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0342"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "V Mansion ",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogang-dong",
+      "MAIN_KEY": "BE_LiST20-0343"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Geranium",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0344"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Town Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Gongdeok-dong",
+      "MAIN_KEY": "BE_LiST20-0345"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cookie Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0346"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "SISNBRO",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0347"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Arthouse ",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0348"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hongstay Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0349"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Traveler Planet",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0350"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "DH Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Daheung-dong",
+      "MAIN_KEY": "BE_LiST20-0351"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Skycycle Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Daheung-dong",
+      "MAIN_KEY": "BE_LiST20-0352"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Local Stitch",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0353"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Uwa Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0354"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "HaTo",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0355"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "RO&JO HOUSE",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0356"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Nanu Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0357"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "AVO",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0358"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "G.O.D Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seongsan1-dong",
+      "MAIN_KEY": "BE_LiST20-0359"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Happy tree guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0360"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Patio 59 ",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0361"
+    },
+    {
+      "ROOM": 10,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul i Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0362"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Wonnie's Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0363"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "UJA Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0364"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Madam Moon Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0365"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Dream Comfort",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0366"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Urbanwood Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0367"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sweet Home",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0368"
+    },
+    {
+      "ROOM": 11,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hongdae Leo Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0369"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "zzzip Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0370"
+    },
+    {
+      "ROOM": 13,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Mansion ",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0371"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "BLU Guesthouse Hong Dae",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0372"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "B Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0373"
+    },
+    {
+      "ROOM": 7,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Pumpkin Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0374"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chingu Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0375"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Bounce Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0376"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "DW Design Residence",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0377"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Orange Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0378"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "88 Housetel",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0379"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "iHouse ChinChin",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0380"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gold Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0381"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hangang Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yonggang-dong",
+      "MAIN_KEY": "BE_LiST20-0382"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "BauHouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0383"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Loft 8",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0384"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Park Avenue Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0385"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ten Dollar",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0386"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Woori Seoul Guest House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0387"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Park Avenue 2",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0388"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": " Kdoob9 Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0389"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Campfire Guesthouse ",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0390"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hola Seoul Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0391"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "This is ",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0392"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Neutjam Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Hapjeong-dong",
+      "MAIN_KEY": "BE_LiST20-0393"
+    },
+    {
+      "ROOM": 9,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Cocoon stay",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0394"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "SJ",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Sinsu-dong",
+      "MAIN_KEY": "BE_LiST20-0395"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "OH House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0396"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sleeping Strawberry Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0397"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Serendipity ; Seagull's Nest ",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0398"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The ONE",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0399"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Family and Friends House 2",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0400"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "DY House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0401"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "AtHome",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0402"
+    },
+    {
+      "ROOM": 10,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Able Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0403"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "LEE GANG Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seongsan1-dong",
+      "MAIN_KEY": "BE_LiST20-0404"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Honey House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0405"
+    },
+    {
+      "ROOM": 5,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hongdae Olive Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0406"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Inno Hostel ",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0407"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ashley House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0408"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Chachacha House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Hapjeong-dong",
+      "MAIN_KEY": "BE_LiST20-0409"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "The Haemil",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0410"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "AL BERGUE",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0411"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Burningheart",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0412"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hongsi Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0413"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Vin Guest House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogang-dong",
+      "MAIN_KEY": "BE_LiST20-0414"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "AGAIN",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0415"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ann guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0416"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "choibnb",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0417"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Apple tree",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seongsan1-dong",
+      "MAIN_KEY": "BE_LiST20-0418"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Gateway Korea Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0419"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Homini",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0420"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "guesthouse kw hongdae Line",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0421"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Miss Egg House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Daheung-dong",
+      "MAIN_KEY": "BE_LiST20-0422"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Nanu Guesthouse 3",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0423"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Ubreaktime",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0424"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Happytree Guesthouse 2",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0425"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Daon House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0426"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "I Love Hongdae",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Hapjeong-dong",
+      "MAIN_KEY": "BE_LiST20-0427"
+    },
+    {
+      "ROOM": 21,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Yooginong Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Mangwon1-dong",
+      "MAIN_KEY": "BE_LiST20-0428"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hi Jun Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0429"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Joy Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seongsan1-dong",
+      "MAIN_KEY": "BE_LiST20-0430"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Sweet Comfort",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0431"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Lombard House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0432"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hao Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0433"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "A Little Nap",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0434"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Egg Guesthouse Pick Me Up Korea",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0435"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Miso Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0436"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Lazy Fox ",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0437"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Park Mama Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0438"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hot Space",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0439"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Hongdae Chef Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Hapjeong-dong",
+      "MAIN_KEY": "BE_LiST20-0440"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Two Two House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0441"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Min's House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Mangwon2-dong",
+      "MAIN_KEY": "BE_LiST20-0442"
+    },
+    {
+      "ROOM": 1,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "K Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogang-dong",
+      "MAIN_KEY": "BE_LiST20-0443"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Jeongstay ",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0444"
+    },
+    {
+      "ROOM": 6,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "1970 Guesthouse",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0445"
+    },
+    {
+      "ROOM": 8,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Mono House",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0446"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "88 House Hongdae",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0447"
+    },
+    {
+      "ROOM": 4,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Seoul Sweet STyle",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Yeonnam-dong",
+      "MAIN_KEY": "BE_LiST20-0448"
+    },
+    {
+      "ROOM": 2,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "House In Seoul",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0449"
+    },
+    {
+      "ROOM": 3,
+      "H_ENG_CITY": "Seoul",
+      "NAME_ENG": "Triangel Guesthouse ",
+      "H_ENG_GU": "Mapo-gu",
+      "H_ENG_DONG": "Seogyo-dong",
+      "MAIN_KEY": "BE_LiST20-0450"
+    }
+  ]
+}
