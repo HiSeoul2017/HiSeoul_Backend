@@ -1,13 +1,13 @@
 # InsideSeoul_Backend
 InsideSeoul (Seoul App Competition 2017) Backend Server
 
-##API DOCUMENT
-
-###Auth
+## API DOCUMENT
 
 
-##Schema
-###유적지 정보 (KOR, ENG, CN)
+
+## Schema
+
+### 유적지 정보 (KOR, ENG, CN)
 
 >KOR
 
@@ -39,8 +39,7 @@ InsideSeoul (Seoul App Competition 2017) Backend Server
     "H_CNG_DONG": "행정 동",
     "NAME_CNG": "명칭"
     
-
-###한국 음식점 정보 (KOR, ENG, CN)
+### 한국 음식점 정보 (KOR, ENG, CN)
 
 >KOR
 
@@ -70,7 +69,7 @@ InsideSeoul (Seoul App Competition 2017) Backend Server
     "H_CNG_DONG": "행정동",
     "NAME_CNG": "명칭"
     
-###서울 모텔 정보 (KOR, ENG, CN)
+### 서울 모텔 정보 (KOR, ENG, CN)
 
 >KOR
 
