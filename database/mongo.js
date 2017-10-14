@@ -374,6 +374,14 @@ var JungGuHistoryCulture_Schema = new schema({
     "형식": {type:String}
 })
 
+var UserSchema = new schema({
+    username : {type : String},
+    id : {type : String},
+    password : {type : String},
+    language : {type : String},
+    token : {type : String}
+})
+
 var Data = mongoose.model('data', DataSchema)
 var SeoulMotel_EN = mongoose.model('SeoulMotel_EN', SeoulMotel_EN_Schema)
 var SeoulMotel_CN = mongoose.model('SeoulMotel_CN', SeoulMotel_CN_Schema)
@@ -409,6 +417,7 @@ var JungGuHistoryCulture_KO = mongoose.model('JungGuHistoryCulture_KO', JungGuHi
 var JungGuHistoryCulture_EN = mongoose.model('JungGuHistoryCulture_EN', JungGuHistoryCulture_Schema)
 var JungGuHistoryCulture_JP = mongoose.model('JungGuHistoryCulture_JP', JungGuHistoryCulture_Schema)
 var JungGuHistoryCulture_CN = mongoose.model('JungGuHistoryCulture_CN', JungGuHistoryCulture_Schema)
+var User = mongoose.model('user', UserSchema)
 
 exports.db = db
 exports.Data = Data
@@ -446,3 +455,4 @@ exports.JungGuHistoryCulture_KO = JungGuHistoryCulture_KO
 exports.JungGuHistoryCulture_EN = JungGuHistoryCulture_EN
 exports.JungGuHistoryCulture_JP = JungGuHistoryCulture_JP
 exports.JungGuHistoryCulture_CN = JungGuHistoryCulture_CN
+exports.User = User

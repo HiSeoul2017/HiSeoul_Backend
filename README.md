@@ -1,11 +1,82 @@
 # InsideSeoul_Backend
-InsideSeoul (Seoul App Competition 2017) Backend Server
+* InsideSeoul (Seoul App Competition 2017) Backend Server
 
+* 모든 요청은 POST, FormUrlEncoded로 처리하였습니다.
+
+## Server Code
+### 200
+
+    Success Processing Request
+
+### 401
+
+    Request Data Incorrect
+    
+### 403
+
+    Already In Database
+    
+### 404
+
+    DATA Not Founded
+   
+### 500
+
+    Server Error
+
+    
 ## API DOCUMENT
 
+### Auth
 
+>/auth/login
+>>Requiring Params
 
+    id : User_ID
+    password : User_Password
+    
+>>Return Values
+>>>Success
+    
+    HTTP : 200
+    UserDATA : JSONObject    
+    
+>>>Data Incorrect
+    
+    HTTP : 401
+    
+>>>Not Founded
+
+    HTTP : 404
+    
+>/auth/register
+>>Requiring Params
+    
+    username : UserName
+    id : User_ID
+    password : User_Password
+    language : User_Language
+    
+>>Return Values
+>>>Success
+
+    HTTP : 200
+    UserDATA : JSONObject
+    
+>>>Already In Database
+
+    HTTP : 403
+
+    
 ## Schema
+
+### UserSchema
+
+    username : {type : String}
+    id : {type : String}
+    password : {type : String}
+    language : {type : String}
+    token : {type : String}
 
 ### 유적지 정보 (KOR, ENG, CN)
 
