@@ -4,22 +4,25 @@ function WebFacebook(app, db, passport, WebFacebookStrategy) {
 
     passport.serializeUser(function(user, done) {
         console.log("serialize")
+        console.log(user)
         done(null, user);
     });
 
     passport.deserializeUser(function(user, done) {
         console.log("deserialize")
+        console.log(user)
         done(null, user);
     });
 
     passport.use(new WebFacebookStrategy({ //facebook 로그인을 위한 토큰 로그인
-            clientID: '1008754382587528',
-            clientSecret: '9a2de375f9350a74ec30e79f442fbec3',
+            clientID: '1649437005348937',
+            clientSecret: '5452e5edeb1623b12b87efd4692feb98',
             callbackURL: "/auth/facebook/callback",
             profileFields: ['id', 'email', 'gender', 'link', 'locale', 'name', 'timezone', 'verified'],
         },
         function(accessToken, refreshToken, profile, done) {
             console.log(profile)
+            console.log(accessToken)
             done(null, true)
         }
     ));
@@ -28,8 +31,10 @@ function WebFacebook(app, db, passport, WebFacebookStrategy) {
         res.send('Hello')
     })
 
-    app.get('/auth/facebook',
-        passport.authenticate('facebook', { scope: ['email', 'public_profile', 'publish_actions'] })
+    app.get('/facebook/web',
+        passport.authenticate('facebook', (req, res)=>{
+            console.log(req.user)
+        })
     );
 
     app.get('/auth/facebook/callback',
