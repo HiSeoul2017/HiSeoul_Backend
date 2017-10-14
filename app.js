@@ -5,7 +5,7 @@ var node_xj = require("xls-to-json");
 var RandomString = require('randomstring')
 var passport = require('passport')
 var AppFacebookStrategy = require('passport-facebook-token')
-var WebFacebookStrategy = require('passport-facebook')
+var WebFacebookStrategy = require('passport-facebook').Strategy
 var crypto = require('crypto')
 var app = express()
 var PORT = process.env.PORT || 3000
@@ -23,7 +23,7 @@ app.use(passport.initialize());
 app.use(passport.session());
 
 app.use(bodyParser.urlencoded({
-    extended : true
+    extended : false
 }))
 
 app.listen(PORT, (err)=>{

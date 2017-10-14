@@ -2,6 +2,16 @@ module.exports = Appfacebook
 
 function Appfacebook(app, db, passport, AppFacebookStrategy) {
 
+    passport.serializeUser((user, done)=>{
+        console.log("serialize")
+        done(null, user);
+    });
+
+    passport.deserializeUser((user, done)=>{
+        console.log("deserialize")
+        done(null, user);
+    });
+
     passport.use(new AppFacebookStrategy({
         clientID : "2114302785460012",
         clientSecret : "681a0bd1572ebd8b36e040f3a550f883",
