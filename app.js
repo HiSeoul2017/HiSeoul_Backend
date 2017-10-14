@@ -3,6 +3,9 @@ var bodyParser = require('body-parser')
 var fs = require('fs')
 var node_xj = require("xls-to-json");
 var RandomString = require('randomstring')
+var passport = require('passport')
+var AppFacebookStrategy = require('passport-facebook-token')
+var WebFacebookStrategy = require('passport-facebook')
 var crypto = require('crypto')
 var app = express()
 var PORT = process.env.PORT || 3000
@@ -16,8 +19,11 @@ app.use((req, res, next)=>{
     next();
 });
 
+app.use(passport.initialize());
+app.use(passport.session());
+
 app.use(bodyParser.urlencoded({
-    extended : false
+    extended : true
 }))
 
 app.listen(PORT, (err)=>{
@@ -32,4 +38,7 @@ app.listen(PORT, (err)=>{
 
 require('./data/DataSetting')(fs, db, node_xj)
 require('./routes/auth')(app, db, RandomString, crypto)
+require('./routes/AppFacebook')(app, db, passport, AppFacebookStrategy)
+require('./routes/WebFacebook')(app, db, passport, WebFacebookStrategy)
+
 
