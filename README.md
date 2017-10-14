@@ -29,19 +29,19 @@
 
 ### Auth
 
->/auth/login
->>Requiring Params
+#### /auth/login
+>Requiring Params
 
     id : User_ID
     password : User_Password
     
->>Return Values
->>>Success
+>Return Values
+>>Success
     
     HTTP : 200
     UserDATA : JSONObject    
     
->>>Data Incorrect
+>>Data Incorrect
     
     HTTP : 401
     
@@ -49,21 +49,21 @@
 
     HTTP : 404
     
->/auth/register
->>Requiring Params
+#### /auth/register
+>Requiring Params
     
     username : UserName
     id : User_ID
     password : User_Password
     language : User_Language
     
->>Return Values
->>>Success
+>Return Values
+>>Success
 
     HTTP : 200
     UserDATA : JSONObject
     
->>>Already In Database
+>>Already In Database
 
     HTTP : 403
 
