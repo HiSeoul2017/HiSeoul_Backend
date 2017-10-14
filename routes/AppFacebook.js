@@ -24,8 +24,9 @@ function Appfacebook(app, db, passport, AppFacebookStrategy) {
 
     app.get('/facebook/app', passport.authenticate('facebook-token'), (req, res)=>{
         console.log("USER_TOKEN ==== " + req.param('access_token'));
+        console.log(req.param('access_token'))
         if(req.user){
-
+            console.log(req.user)
         }
         else if(!req.user){
             res.send(401, "Can't find User On Facebook. It May Be Unusable.");

@@ -2,37 +2,40 @@ module.exports = WebFacebook
 
 function WebFacebook(app, db, passport, WebFacebookStrategy) {
 
-    passport.serializeUser((user, done)=>{
+    passport.serializeUser(function(user, done) {
         console.log("serialize")
         done(null, user);
     });
 
-    passport.deserializeUser((user, done)=>{
+    passport.deserializeUser(function(user, done) {
         console.log("deserialize")
         done(null, user);
     });
 
-    passport.use(new WebFacebookStrategy({
-        clientID : "2114302785460012",
-        clientSecret : "681a0bd1572ebd8b36e040f3a550f883",
-        callbackURL : '/facebook/web/callback',
-        profileFields: ['id', 'email', 'gender', 'link', 'locale', 'name', 'timezone', 'verified'],
-    }, (accessToken, refreshToken, profile, done)=>{
-        console.log(profile)
-        done(null, true)
-    }));
+    passport.use(new WebFacebookStrategy({ //facebook 로그인을 위한 토큰 로그인
+            clientID: '1008754382587528',
+            clientSecret: '9a2de375f9350a74ec30e79f442fbec3',
+            callbackURL: "/auth/facebook/callback",
+            profileFields: ['id', 'email', 'gender', 'link', 'locale', 'name', 'timezone', 'verified'],
+        },
+        function(accessToken, refreshToken, profile, done) {
+            console.log(profile)
+            done(null, true)
+        }
+    ));
 
-    app.get('/facebook/web', passport.authenticate('facebook'), (req, res)=>{
-        console.log('=================')
-        console.log(req.user)
-        res.send('Save')
+    app.get('/main', (req, res)=>{
+        res.send('Hello')
     })
 
-    app.get('/facebook/web/callback',
+    app.get('/auth/facebook',
+        passport.authenticate('facebook', { scope: ['email', 'public_profile', 'publish_actions'] })
+    );
+
+    app.get('/auth/facebook/callback',
         passport.authenticate('facebook',
             {
-                successRedirect: '/',
-                failureRedirect: '/'
+                successRedirect: '/main',
+                failureRedirect: '/auth/facebook'
             }));
-
 }

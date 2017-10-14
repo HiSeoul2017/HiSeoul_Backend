@@ -5,7 +5,7 @@ var node_xj = require("xls-to-json");
 var RandomString = require('randomstring')
 var passport = require('passport')
 var AppFacebookStrategy = require('passport-facebook-token')
-var WebFacebookStrategy = require('passport-facebook').Strategy
+var WebFacebookStrategy = require('passport-facebook').Strategy;//facebook login
 var crypto = require('crypto')
 var app = express()
 var PORT = process.env.PORT || 3000
@@ -34,6 +34,10 @@ app.listen(PORT, (err)=>{
     else {
         console.log("Server Running At "+PORT+" Port!")
     }
+})
+
+app.get('/', (req, res)=>{
+    res.send('Hello')
 })
 
 require('./data/DataSetting')(fs, db, node_xj)
