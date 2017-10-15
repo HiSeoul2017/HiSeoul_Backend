@@ -67,6 +67,18 @@
 
     HTTP : 403
 
+### Facebook
+#### /facebook/app
+>Requiring Params
+
+    access_token : Facebook User Token
+    
+>Return Values
+>>Success
+
+    HTTP : 200
+    UserDATA : JSONObject
+    
     
 ## Schema
 

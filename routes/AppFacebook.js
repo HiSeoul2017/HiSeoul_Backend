@@ -18,7 +18,7 @@ function Appfacebook(app, db, passport, AppFacebookStrategy) {
     }, (accessToken, refreshToken, profile, done)=>{
         console.log('======== PROFILE ========')
         console.log(profile)
-        done(null, user)
+        done(null, profile)
     }));
 
 
