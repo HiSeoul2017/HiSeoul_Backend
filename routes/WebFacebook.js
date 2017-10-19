@@ -2,13 +2,13 @@ module.exports = WebFacebook
 
 function WebFacebook(app, db, passport, WebFacebookStrategy) {
 
-    passport.serializeUser(function(user, done) {
+    passport.serializeUser((user, done)=>{
         console.log("serialize")
         console.log(user)
         done(null, user);
     });
 
-    passport.deserializeUser(function(user, done) {
+    passport.deserializeUser((user, done)=>{
         console.log("deserialize")
         console.log(user)
         done(null, user);
@@ -20,9 +20,11 @@ function WebFacebook(app, db, passport, WebFacebookStrategy) {
             callbackURL: "/auth/facebook/callback",
             profileFields: ['id', 'email', 'gender', 'link', 'locale', 'name', 'timezone', 'verified'],
         },
-        function(accessToken, refreshToken, profile, done) {
+        (accessToken, refreshToken, profile, done)=>{
+            console.log('USER_TOKEN == '+accessToken)
+            console.log('====== WEB PROFILE ======')
             console.log(profile)
-            console.log(accessToken)
+            console.log('========== END ==========')
             done(null, true)
         }
     ));
@@ -31,9 +33,9 @@ function WebFacebook(app, db, passport, WebFacebookStrategy) {
         res.send('Hello')
     })
 
-    app.get('/facebook/web',
-        passport.authenticate('facebook', (req, res)=>{
+    app.get('/facebook/web', passport.authenticate('facebook', (req, res)=>{
             console.log(req.user)
+            res.redirect('/main')
         })
     );
 

@@ -16,7 +16,7 @@ function Appfacebook(app, db, passport, AppFacebookStrategy) {
         clientID : "1649437005348937",
         clientSecret : "5452e5edeb1623b12b87efd4692feb98",
     }, (accessToken, refreshToken, profile, done)=>{
-        console.log('======== PROFILE ========')
+        console.log('======== APP PROFILE ========')
         console.log(profile)
         done(null, profile)
     }));
@@ -24,7 +24,6 @@ function Appfacebook(app, db, passport, AppFacebookStrategy) {
 
     app.get('/facebook/app', passport.authenticate('facebook-token'), (req, res)=>{
         console.log("USER_TOKEN ==== " + req.param('access_token'));
-        console.log(req.param('access_token'))
         if(req.user){
             console.log(req.user)
         }

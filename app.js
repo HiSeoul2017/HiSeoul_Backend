@@ -3,6 +3,9 @@ var bodyParser = require('body-parser')
 var fs = require('fs')
 var node_xj = require("xls-to-json");
 var RandomString = require('randomstring')
+var nodemailer = require('nodemailer')
+var smtpPool = require('nodemailer-smtp-pool')
+var logger = require('morgan')
 var passport = require('passport')
 var AppFacebookStrategy = require('passport-facebook-token')
 var WebFacebookStrategy = require('passport-facebook').Strategy;//facebook login
@@ -19,6 +22,7 @@ app.use((req, res, next)=>{
     next();
 });
 
+app.use(logger('dev'))
 app.use(passport.initialize());
 app.use(passport.session());
 
@@ -37,11 +41,11 @@ app.listen(PORT, (err)=>{
 })
 
 app.get('/', (req, res)=>{
-    res.send('Hello')
+    res.send('InsideSeoul')
 })
 
 require('./data/DataSetting')(fs, db, node_xj)
-require('./routes/auth')(app, db, RandomString, crypto)
+require('./routes/auth')(app, db, RandomString, crypto, nodemailer, smtpPool)
 require('./routes/AppFacebook')(app, db, passport, AppFacebookStrategy)
 require('./routes/WebFacebook')(app, db, passport, WebFacebookStrategy)
 

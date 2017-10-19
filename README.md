@@ -66,6 +66,34 @@
 >>Already In Database
 
     HTTP : 403
+    
+#### /auth/findpassword
+>Requiring Params
+
+    username : UserName
+    id : User_ID
+    email : Email to receive password
+    
+>Return Values
+>>Success 
+
+    HTTP : 200 , Mail Send Success
+    
+>>Mail Send Fail
+
+    HTTP : 500, Fail
+    
+#### /auth/edituser
+>Requiring Params
+
+    username : UserName
+    id : User_ID
+    language : User_Language
+    
+>Return Values
+>>Success 
+    
+    HTTP : 200, Update Success
 
 ### Facebook
 #### /facebook/app
