@@ -24,8 +24,27 @@ function Appfacebook(app, db, passport, AppFacebookStrategy) {
 
     app.get('/facebook/app', passport.authenticate('facebook-token'), (req, res)=>{
         console.log("USER_TOKEN ==== " + req.param('access_token'));
+        var requser = req.user
         if(req.user){
             console.log(req.user)
+            var user = new db.User({
+                username : requser.displayName,
+                id : requser.id,
+                password : "",
+                language : "",
+                token : req.param('access_token')
+            })
+            user.save((err)=>{
+                if(err){
+                    console.log('/facebook/app usersave Error')
+                    res.send(500, '/facebook/app usersave Error')
+                    throw err
+                }
+                else {
+                    console.log(user.username+" Register Success!")
+                    res.send(200, user)
+                }
+            })
         }
         else if(!req.user){
             res.send(401, "Can't find User On Facebook. It May Be Unusable.");
