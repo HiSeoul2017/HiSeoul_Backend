@@ -25,7 +25,8 @@ function WebFacebook(app, db, passport, WebFacebookStrategy) {
             console.log('====== WEB PROFILE ======')
             console.log(profile)
             console.log('========== END ==========')
-            done(null, true)
+
+            done(null, profile)
         }
     ));
 
@@ -34,8 +35,7 @@ function WebFacebook(app, db, passport, WebFacebookStrategy) {
     })
 
     app.get('/facebook/web', passport.authenticate('facebook', (req, res)=>{
-            console.log(req.user)
-            res.redirect('/main')
+            console.log(req)
         })
     );
 

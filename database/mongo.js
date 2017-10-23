@@ -374,6 +374,30 @@ var JungGuHistoryCulture_Schema = new schema({
     "형식": {type:String}
 })
 
+var SeoulRoad_Schema = new schema({
+    "PDF_FILE_PATH": {type:String},
+    "CPI_IDX": {type:String},
+    "COURSE_NAME": {type:String},
+    "SOUTH_NORTH_DIV": {type:String},
+    "DISTANCE": {type:String},
+    "COURSE_CATEGORY": {type:String},
+    "CPI_CONTENT": {type:String},
+    "SOUTH_NORTH_DIV_NM": {type:String},
+    "DETAIL_COURSE": {type:String},
+    "TRAFFIC_INFO": {type:String},
+    "COURSE_LEVEL": {type:String},
+    "RELATE_SUBWAY": {type:String},
+    "REG_DATE": {type:String},
+    "COURSE_CATEGORY_NM": {type:String},
+    "CONTENT": {type:String},
+    "CPI_NAME": {type:String},
+    "LEAD_TIME": {type:String},
+    "Y": {type:String},
+    "X": {type:String},
+    "VOTE_CNT": {type:String},
+    "AREA_GU": {type:String}
+})
+
 var UserSchema = new schema({
     username : {type : String},
     id : {type : String},
@@ -417,6 +441,7 @@ var JungGuHistoryCulture_KO = mongoose.model('JungGuHistoryCulture_KO', JungGuHi
 var JungGuHistoryCulture_EN = mongoose.model('JungGuHistoryCulture_EN', JungGuHistoryCulture_Schema)
 var JungGuHistoryCulture_JP = mongoose.model('JungGuHistoryCulture_JP', JungGuHistoryCulture_Schema)
 var JungGuHistoryCulture_CN = mongoose.model('JungGuHistoryCulture_CN', JungGuHistoryCulture_Schema)
+var SeoulRoad = mongoose.model('SeoulRoad', SeoulRoad_Schema)
 var User = mongoose.model('user', UserSchema)
 
 exports.db = db
@@ -455,4 +480,5 @@ exports.JungGuHistoryCulture_KO = JungGuHistoryCulture_KO
 exports.JungGuHistoryCulture_EN = JungGuHistoryCulture_EN
 exports.JungGuHistoryCulture_JP = JungGuHistoryCulture_JP
 exports.JungGuHistoryCulture_CN = JungGuHistoryCulture_CN
+exports.SeoulRoad = SeoulRoad
 exports.User = User

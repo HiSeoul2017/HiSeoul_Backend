@@ -37,6 +37,7 @@ function DataSetting(fs, db, node_xj) {
     JungGuHistoryCulture_JP(fs, db, node_xj)
     JungGuHistoryCulture_EN(fs, db, node_xj)
     JungGuHistoryCulture_CN(fs, db, node_xj)
+    SeoulRoad(fs, db)
 }
 
 
@@ -1165,6 +1166,47 @@ function JungGuHistoryCulture_CN(fs, db, node_xj) {
                         "제작일": json[i].제작일,
                         "유형": json[i].유형,
                         "형식": json[i].형식
+                    })
+                    savedata.save()
+                }
+            }
+        })
+    })
+}
+
+function SeoulRoad(fs, db) {
+    fs.readFile('data/SeoulRoad.json', 'utf-8', (err, data)=>{
+        var json = JSON.parse(data)
+        db.SeoulRoad.find({}, (err, result)=>{
+            if(err){
+                console.log("SeoulRoad Error")
+                throw err
+            }
+            else if(!result[0]){
+                console.log('SeoulRoad DATA_LENGTH : '+json.DATA.length)
+                for (var i = 0;i<json.DATA.length;i++){
+                    var savedata = new db.SeoulRoad({
+                        "PDF_FILE_PATH": json.DATA[i].PDF_FILE_PATH,
+                        "CPI_IDX": json.DATA[i].CPI_IDX,
+                        "COURSE_NAME": json.DATA[i].COURSE_NAME,
+                        "SOUTH_NORTH_DIV": json.DATA[i].SOUTH_NORTH_DIV,
+                        "DISTANCE": json.DATA[i].DISTANCE,
+                        "COURSE_CATEGORY": json.DATA[i].COURSE_CATEGORY,
+                        "CPI_CONTENT": json.DATA[i].CPI_CONTENT,
+                        "SOUTH_NORTH_DIV_NM": json.DATA[i].SOUTH_NORTH_DIV_NM,
+                        "DETAIL_COURSE": json.DATA[i].DETAIL_COURSE,
+                        "TRAFFIC_INFO": json.DATA[i].TRAFFIC_INFO,
+                        "COURSE_LEVEL": json.DATA[i].COURSE_LEVEL,
+                        "RELATE_SUBWAY": json.DATA[i].RELATE_SUBWAY,
+                        "REG_DATE": json.DATA[i].REG_DATE,
+                        "COURSE_CATEGORY_NM": json.DATA[i].COURSE_CATEGORY_NM,
+                        "CONTENT": json.DATA[i].CONTENT,
+                        "CPI_NAME": json.DATA[i].CPI_NAME,
+                        "LEAD_TIME": json.DATA[i].LEAD_TIME,
+                        "Y": json.DATA[i].Y,
+                        "X": json.DATA[i].X,
+                        "VOTE_CNT": json.DATA[i].VOTE_CNT,
+                        "AREA_GU": json.DATA[i].AREA_GU
                     })
                     savedata.save()
                 }
