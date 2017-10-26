@@ -1,33 +1,32 @@
 광 광 정 보
-
 https://www.data.go.kr/dataset/3054257/fileData.do
 
 중구 역사
-https://www.data.go.kr/dataset/15011920/fileData.do 0
+https://www.data.go.kr/dataset/15011920/fileData.do
 
 서울시 숙박시섫
-https://www.data.go.kr/dataset/3073206/fileData.do 0
+https://www.data.go.kr/dataset/3073206/fileData.do
 
 서울시 응급
-https://www.data.go.kr/dataset/15015782/fileData.do 0
+https://www.data.go.kr/dataset/15015782/fileData.do
 
 인포메이션 센터
-https://www.data.go.kr/dataset/15015756/fileData.do 0
+https://www.data.go.kr/dataset/15015756/fileData.do
 
 유적지 현황
-https://www.data.go.kr/dataset/3053711/fileData.do 0
+https://www.data.go.kr/dataset/3053711/fileData.do
 
 문화 공간
 https://www.data.go.kr/dataset/3045287/fileData.do
 
 외국어 가능 약국만 파싱하셈
-https://www.data.go.kr/dataset/3045266/fileData.do 0
+https://www.data.go.kr/dataset/3045266/fileData.do
 
 북딱촌 한옥
-https://www.data.go.kr/dataset/3053802/fileData.do 0
+https://www.data.go.kr/dataset/3053802/fileData.do
 
 서울시 자지스러운 한국 음식점
-https://www.data.go.kr/dataset/15015786/fileData.do 0
+https://www.data.go.kr/dataset/15015786/fileData.do
 
 버스타는 성운 삐빅. 어린이입니다.
-https://www.data.go.kr/dataset/3045274/fileData.do 0
+https://www.data.go.kr/dataset/3045274/fileData.do

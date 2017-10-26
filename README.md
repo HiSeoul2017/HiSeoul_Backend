@@ -1,5 +1,5 @@
-# InsideSeoul_Backend
-* InsideSeoul (Seoul App Competition 2017) Backend Server
+# HiSeoul_Backend
+* HiSeoul (Seoul App Competition 2017) Backend Server
 
 * 모든 요청은 POST, FormUrlEncoded로 처리하였습니다.
 
@@ -29,7 +29,7 @@
 
 ### Auth
 
-#### /auth/login
+#### /auth/login (로그인)
 >Requiring Params
 
     id : User_ID
@@ -49,7 +49,7 @@
 
     HTTP : 404
     
-#### /auth/register
+#### /auth/register (회원가입)
 >Requiring Params
     
     username : UserName
@@ -67,7 +67,7 @@
 
     HTTP : 403
     
-#### /auth/findpassword
+#### /auth/findpassword (비밀번호 찾기)
 >Requiring Params
 
     username : UserName
@@ -83,7 +83,7 @@
 
     HTTP : 500, Fail
     
-#### /auth/edituser
+#### /auth/edituser (유저정보 수정)
 >Requiring Params
 
     username : UserName
@@ -96,7 +96,7 @@
     HTTP : 200, Update Success
 
 ### Facebook
-#### /facebook/app
+#### /facebook/app (페이스북 앱 로그인)
 >Requiring Params
 
     access_token : Facebook User Token
@@ -107,6 +107,33 @@
     HTTP : 200
     UserDATA : JSONObject
     
+### Search
+#### /search/yujuk (유적지 검색)
+>Requiring Params
+
+    token : User_Token
+    search : Search Query(검색어)
+    
+>Return Values
+>>Success
+
+    HTTP : 200
+    Data : JSONArray
+    
+### List
+#### /list/yujuk
+>Requiring Params
+
+    token : User_Token
+    query : Data_Length
+    
+>Return Values
+>>Success
+
+    HTTP : 200
+    Data : JSONArray
+    
+   
     
 ## Schema
 
@@ -486,6 +513,35 @@
     "제작일": "42368",
     "유형": "DATA",
     "형식": "HTML"
+    
+    
+### 서울시 길 정보 (KOR)
+
+> 예시 정보
+
+    "PDF_FILE_PATH": "http://gil.seoul.go.kr/view/course/2014/06/27/2762534771938585.zip",
+    "CPI_IDX": 115,
+    "COURSE_NAME": "고덕산 산책길",
+    "SOUTH_NORTH_DIV": "1",
+    "DISTANCE": "1.90km",
+    "COURSE_CATEGORY": 1000,
+    "CPI_CONTENT": "명일역 3번 출입구\n",
+    "SOUTH_NORTH_DIV_NM": "강남",
+    "DETAIL_COURSE": "명일역 3번 출입구~고덕산 정상",
+    "TRAFFIC_INFO": "진입로1 : 명일역 지하철 5호선 3번 출입구 <br />\r\n※교통편의 변경이 있을 수 있으니 출발전 확인 바랍니다.",
+    "COURSE_LEVEL": "1",
+    "RELATE_SUBWAY": "5호선",
+    "REG_DATE": 1379922525000,
+    "COURSE_CATEGORY_NM": "생태문화길",
+    "CONTENT": null,
+    "CPI_NAME": "명일역 3번 출입구",
+    "LEAD_TIME": "1시간30분",
+    "Y": "450271.8163",
+    "X": "212740.8039",
+    "VOTE_CNT": 0,
+    "AREA_GU": "강동구"
+
+
 
 
 

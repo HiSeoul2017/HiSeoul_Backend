@@ -21,6 +21,7 @@
     "passport-facebook": "^2.1.1",
     "passport-facebook-token": "^3.3.0",
     "randomstring": "^1.1.5",
+    "request": "^2.83.0",
     "xls-to-json": "^0.4.0"
   }
 }

@@ -1,7 +1,7 @@
 var mongoose = require('mongoose')
 var schema = mongoose.Schema;
 
-var DB_NAME = "SeoulApp"
+var DB_NAME = "HiSeoul"
 
 var db = mongoose.connect("mongodb://localhost/"+DB_NAME, {
     useMongoClient : true
