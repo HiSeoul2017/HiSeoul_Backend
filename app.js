@@ -52,5 +52,5 @@ require('./routes/WebFacebook')(app, db, passport, WebFacebookStrategy)
 require('./routes/search')(app, db)
 require('./routes/list')(app, db)
 require('./routes/road')(app, db, request, fs)
-
+require('./routes/translate')(app, request)
 

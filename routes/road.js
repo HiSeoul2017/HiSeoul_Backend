@@ -29,7 +29,6 @@ function road(app, db, request, fs) {
                 이동방법 : []
             }
             console.log('==================================================')
-            console.log(jsondata)
             for(var i=0;i<data.steps.length;i++){
                 fordata = {
                     단계 : i+1,
@@ -39,11 +38,6 @@ function road(app, db, request, fs) {
                     이동수단 : data.steps[i].travel_mode
                 }
                 if(data.steps[i].travel_mode == 'TRANSIT'){
-                    console.log('승차 정류소 : '+data.steps[i].transit_details.departure_stop.name)
-                    console.log('하차 정류소 : '+data.steps[i].transit_details.arrival_stop.name)
-                    console.log('탑승 버스 번호 : '+data.steps[i].transit_details.line.short_name)
-                    console.log('정거장 수 : '+data.steps[i].transit_details.num_stops)
-                    console.log('탑승 버스 행선지 : '+data.steps[i].transit_details.headsign)
                     fordata.승차정류소 = data.steps[i].transit_details.departure_stop.name
                     fordata.하차정류소 = data.steps[i].transit_details.arrival_stop.name
                     fordata.탑승버스번호 = data.steps[i].transit_details.line.short_name
@@ -52,6 +46,7 @@ function road(app, db, request, fs) {
                 }
                 jsondata.이동방법[i] = fordata
             }
+            console.log(jsondata)
             console.log('==================================================')
 
             res.send(200, jsondata)

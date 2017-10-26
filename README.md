@@ -120,6 +120,20 @@
     HTTP : 200
     Data : JSONArray
     
+### Translate
+#### /translate
+>Requiring Params
+
+     source : 번역할 언어 (ko, en, ja, zh-CN)
+     target : 번역되어질 언어 (ko, en, ja, zh-CN)
+     text : 번역할 문장
+     
+>Return Values
+>>Success
+
+    HTTP : 200
+    DATA : Translated Sentence
+    
 ### List
 #### /list/yujuk
 >Requiring Params
@@ -133,6 +147,18 @@
     HTTP : 200
     Data : JSONArray
     
+### Road
+#### /road/find
+>Requiring Params
+
+    mlocation : Start_Location
+    elocation : Arrive_Location
+
+>Return Values
+>>Success
+
+    HTTP : 200
+    Parsing DATA : JSONObject
    
     
 ## Schema
