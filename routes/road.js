@@ -7,13 +7,17 @@ function road(app, db, request, fs) {
             method: 'GET',
             url: 'https://maps.googleapis.com/maps/api/directions/json',
             qs:
-                { origin: body.mlocation,
+                {
+                    origin: body.mlocation,
                     destination: body.elocation,
                     mode: 'transit',
-                    key: 'AIzaSyBYqFLOUoN_hk733kw15PzU4sFA2dNCLH8' },
+                    key: 'AIzaSyBYqFLOUoN_hk733kw15PzU4sFA2dNCLH8'
+                },
             headers:
-                { 'postman-token': 'ad29ff92-e572-6b92-dbe5-a296a137775b',
-                    'cache-control': 'no-cache' }
+                {
+                    'postman-token': 'ad29ff92-e572-6b92-dbe5-a296a137775b',
+                    'cache-control': 'no-cache'
+                }
         }
         request(options, (error, response, body)=>{
             if (error) throw new Error(error)

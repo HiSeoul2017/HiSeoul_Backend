@@ -75,7 +75,7 @@ function list(app, db) {
                             throw err
                         }
                         else {
-                            res.send(200, result.slice(0, body.query))
+                            res.send(200, 0result.slice(0, body.query))
                         }
                     })
                 }

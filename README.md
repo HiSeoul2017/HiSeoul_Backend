@@ -135,6 +135,66 @@
     DATA : Translated Sentence
     
 ### List
+#### /list/yujuk (유적지 데이터 리스트)
+>Requiring Params
+
+    token : User_Token
+    query : Data_Length
+    
+>Return Values
+>>Success
+
+    HTTP : 200
+    Data : JSONArray
+    
+#### /list/restaurant (음식점 데이터 리스트)
+>Requiring Params
+
+    token : User_Token
+    query : Data_Length
+    
+>Return Values
+>>Success
+
+    HTTP : 200
+    Data : JSONArray
+    
+#### /list/medi
+>Requiring Params
+
+    token : User_Token
+    query : Data_Length
+    
+>Return Values
+>>Success
+
+    HTTP : 200
+    Data : JSONArray
+    
+#### /list/info
+>Requiring Params
+
+    token : User_Token
+    query : Data_Length
+    
+>Return Values
+>>Success
+
+    HTTP : 200
+    Data : JSONArray
+    
+#### /list/emergency
+>Requiring Params
+
+    token : User_Token
+    query : Data_Length
+    
+>Return Values
+>>Success
+
+    HTTP : 200
+    Data : JSONArray
+
 #### /list/embassy (대사관 전화번호)
 >Requiring Params
     
@@ -151,20 +211,6 @@
         주한중국대사관 : "02-738-1038",
     }
 
-
-#### /list/yujuk (유적지 데이터 리스트)
->Requiring Params
-
-    token : User_Token
-    query : Data_Length
-    
->Return Values
->>Success
-
-    HTTP : 200
-    Data : JSONArray
-    
- 
     
 ### Road
 #### /road/find
