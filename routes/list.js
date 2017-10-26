@@ -272,4 +272,13 @@ function list(app, db) {
         })
     })
 
+    app.post('/list/embassy' ,(req, res)=>{
+        var data = {
+            주한미국대사관 : "02-397-4114",
+            주한일본대사관 : "02-2170-5200",
+            주한중국대사관 : "02-738-1038",
+        }
+        res.send(200, data)
+    })
+
 }

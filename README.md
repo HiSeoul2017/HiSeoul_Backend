@@ -135,7 +135,24 @@
     DATA : Translated Sentence
     
 ### List
-#### /list/yujuk
+#### /list/embassy (대사관 전화번호)
+>Requiring Params
+    
+    None Param
+    
+>Return Values
+>>Success
+
+    HTTP : 200
+    Embassy_Number : JSONObject
+    {
+        주한미국대사관 : "02-397-4114",
+        주한일본대사관 : "02-2170-5200",
+        주한중국대사관 : "02-738-1038",
+    }
+
+
+#### /list/yujuk (유적지 데이터 리스트)
 >Requiring Params
 
     token : User_Token
@@ -146,6 +163,8 @@
 
     HTTP : 200
     Data : JSONArray
+    
+ 
     
 ### Road
 #### /road/find
