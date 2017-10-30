@@ -1,7 +1,7 @@
 module.exports = DataSetting
 
 
-function DataSetting(fs, db, node_xj) {
+function DataSetting(fs, db, node_xj, parser) {
     SeoulData(fs, db)
     SeoulMotel_EN(fs, db)
     SeoulMotel_CN(fs, db)
